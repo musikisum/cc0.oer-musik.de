@@ -11,6 +11,6 @@ A5:: Tempo di Menuetto, Sehr mäßig
 A6:: Comodo, Scherzando
 A1:: Sehr langsam, Misterioso
 A2:: Lustig im Tempo und keck im Ausdruck
-A3:: Langsam
-Mitwirkende:: Composed By – Gustav Mahler, Conductor – Hermann Scherchen, Choir - Frauenchor des Rundfunkchores Leipzig, Großer Rundfunk-Kinderchor, Orchestra – Rundfunk-Sinfonieorchester Leipzig,  Alto - Sona Cervena
+A3:: Adagio
+Mitwirkende:: Composed By – Gustav Mahler, Conductor – Hermann Scherchen, Choir - Frauenchor des Rundfunkchores Leipzig, Großer Rundfunk-Kinderchor, Orchestra – Rundfunk-Sinfonieorchester Leipzig.
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

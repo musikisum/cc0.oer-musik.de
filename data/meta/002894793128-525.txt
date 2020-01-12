@@ -6,9 +6,9 @@ Land:: Germany
 Veröffentlicht:: 2014
 Erstveröffentlichung:: 1960
 Trackliste:: Serenade in G-Dur KV 525
-A9:: Allegro
-A10:: Romance Andante
-A11:: Menuetto Allegretto
-A12:: Rondo Allegro
-Mitwirkende:: Composer - Wolfgang Amadeus Mozart, Orchestra - Berliner Philharmoniker, Conductor - Ferenc Fricsay
+A10:: Allegro
+A11:: Romance Andante
+A12:: Menuetto Allegretto
+A13:: Rondo Allegro
+Mitwirkende:: Composer - Wolfgang Amadeus Mozart - Wiener Symphoniker, Conductor - Ferenc Fricsay
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

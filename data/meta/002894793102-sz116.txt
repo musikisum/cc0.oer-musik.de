@@ -6,10 +6,10 @@ Land:: Germany
 Veröffentlicht:: 2014
 Erstveröffentlichung:: 1957
 Trackliste:: Konzert für Orchester Sz 116
-A1:: Introduzione, Andante non troppo - Allegro vivace
+A1:: Introduzione, Andante non troppo - Allegro vivace 
 A2:: Giuoco delle coppie, Allegretto scherzando
-A3:: Elegia, Andante non troppo
-A4:: Intermezzo interrotto, Allegretto
-A5:: Finale, Pesante - Presto
+B1:: Elegia, Andante non troppo
+B2:: Intermezzo interrotto, Allegretto
+B3:: Finale, Pesante - Presto
 Mitwirkende:: Composer - Béla Bartók, Orchestra - Radio-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

@@ -1,4 +1,4 @@
-﻿Display:: Beethoven, Ludwig v. - Op. 28 Sonate für Klavier Nr. 15 in D-Dur (Backhaus)
+Display:: Beethoven, Ludwig v. - Op. 28 Sonate für Klavier Nr. 15 in D-Dur (Backhaus)
 Titel:: Beethoven. Sonate per Pinaoforte. Wilheilm Backhaus
 Label:: DECCA 467 258-2
 Format:: CD Box-Set (8 x CD) 
@@ -6,10 +6,10 @@ Land:: Germany
 Veröffentlicht:: 2000
 Erstveröffentlichung:: 1962
 Trackliste:: Sonate für Klavier Nr. 15 in D-Dur Op. 28 
-A11:: Allegro
-A12:: Andante
-A13:: Scherzo e Trio (Allegro vivace)
-A14:: Rondo - Allegro ma non troppo
+A8:: Allegro
+A9:: Andante
+A10:: Scherzo e Trio (Allegro vivace)
+A11:: Rondo - Allegro ma non troppo
 Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Wilhelm Backhaus
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
 

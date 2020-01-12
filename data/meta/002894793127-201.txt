@@ -1,4 +1,4 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 201 Sinfonie in A-Dur
+Display:: Mozart, Wolfgang Amadé - KV 201 Sinfonie in A-Dur
 Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
 Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
 Format:: CD-Box (45 x CD) 
@@ -10,5 +10,5 @@ A1:: Allegro moderato
 A2:: Andante
 A3:: Menuetto
 A4:: Allegro con spirito
-Mitwirkende:: Composer - Wolfgang Amadeus Mozart, Orechstra - Wiener Symphoniker, Conductor - Ferenc Fricsay
+Mitwirkende:: Composer - Wolfgang Amadeus Mozart - Radio-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

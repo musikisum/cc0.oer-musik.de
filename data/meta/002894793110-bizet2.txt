@@ -6,9 +6,9 @@ Land:: Germany
 Veröffentlicht:: 2014
 Erstveröffentlichung:: 1957
 Trackliste:: Ballett-Musik
-A13:: Farandole
-A14:: Pastorale
-A15:: Danse bohémienne
-A16:: Marche
+A13:: Carmen Farandole
+A14:: Carmen Pastorale
+A15:: Carmen Danse bohémienne
+A16:: Carmen Marche
 Mitwirkende:: Composer – Georges Bizet, Orchestra – RIAS-Symphonie-Orchester Berlin, Choir - RIAS-Kammerchor (Pastorale), Conductor – Ferenc Fricsay
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

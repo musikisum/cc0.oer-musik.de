@@ -5,10 +5,10 @@ Format:: Vinyl, LP, Stereo
 Land:: Germany
 Veröffentlicht:: 1960
 Trackliste:: Grosse Messe In C-Moll KV 427  
-A1:: 1. Kyrie
-A2:: 2. Gloria I. Teil (Gloria - Laudamus Te - Gratias - Domine Deus - Qui Tollis)
-B1:: 2. Gloria II. Teil (Quoniam - Jesu Christe/Cum Sancto Spirito)
-B2:: 3. Credo (Credo - Et Incarnatus Est)
-B3:: 4. Sanctus - Benedictus
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Sopran – Maria Stader, Alt – Hertha Töpper, Tenor – Ernst Haefliger, Bass – Ivan Sardi, Chorus – Chor der St. Hedwigs-Kathedrale Berlin, Chorus Master – Karl Forster, Conductor – Ferenc Fricsay, Orchestra – Radio-Symphonie-Orchester Berlin.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+A1::  1. Kyrie  
+A2::  2. Gloria I. Teil (Gloria - Laudamus Te - Gratias - Domine Deus - Qui Tollis)  
+B1::  2. Gloria II. Teil (Quoniam - Jesu Christe/Cum Sancto Spirito)  
+B2::  3. Credo (Credo - Et Incarnatus Est)  
+B3::  4. Sanctus - Benedictus  
+Mitwirkende:: Alto Vocals – Hertha Töpper, Bass Vocals – Ivan Sardi, Chorus – Chor Der St. Hedwigs-Kathedrale Berlin, Chorus Master – Karl Forster, Composed By – Wolfgang Amadeus Mozart, Conductor – Ferenc Fricsay, Orchestra – Radio-Symphonie-Orchester Berlin, Soprano Vocals – Maria Stader, Tenor Vocals – Ernst Haefliger
+Anmerkungen:: Early stereophonic release of Deutsche Grammophon with "Red Stereo" sign. Liner Notes in three languages without author credited.

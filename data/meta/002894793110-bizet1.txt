@@ -6,9 +6,9 @@ Land:: Germany
 Veröffentlicht:: 2014
 Erstveröffentlichung:: 1957
 Trackliste:: Carmen-Vorspiele
-A9:: Préludes I
-A10:: Entracte 1
-A11:: Entracte 2
-A12:: Entracte 3
+A9:: Carmen Préludes I
+A10:: Carmen Entracte 1
+A11:: Carmen Entracte 2
+A12:: Carmen Entracte 3
 Mitwirkende:: Composer – Georges Bizet, Orchestra – RIAS-Symphonie-Orchester Berlin, Conductor – Ferenc Fricsay
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
