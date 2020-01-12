@@ -1,0 +1,31 @@
+apm14006 A1a Ouvertüre (Largo).mp3
+apm14006 A1b Ouvertüre (Allegro).mp3
+apm14006 A2 Adagio e staccato.mp3
+apm14006 A3a (Allegro).mp3
+apm14006 A3b Andante.mp3
+apm14006 A3c (Allegro).mp3
+apm14006 A4a (Menuet).mp3
+apm14006 A4b (Trio).mp3
+apm14006 A4c (Menuet).mp3
+apm14006 A5 Air.mp3
+apm14006 A6a Menuet.mp3
+apm14006 A6b (Trio).mp3
+apm14006 A6c Menuet.mp3
+apm14006 A7 Bourrée.mp3
+apm14006 B1a Hornpipe.mp3
+apm14006 B1b (Trio).mp3
+apm14006 B1c Hornpipe.mp3
+apm14006 B2 (Allegro).mp3
+apm14006 B3 Ouverture (Allegro).mp3
+apm14006 B4a Alla Hornpipe.mp3
+apm14006 B4b (Trio).mp3
+apm14006 B4c Alla Hornpipe.mp3
+apm14006 B5 Menuet.mp3
+apm14006 B6 (Allegro).mp3
+apm14006 B7 Loure.mp3
+apm14006 B8 Air.mp3
+apm14006 B9 Menuet.mp3
+apm14006 B10 Menuet.mp3
+apm14006 B11 Affetuoso.mp3
+apm14006 B12 Cantabile.mp3
+apm14006 B13 Coro.mp3

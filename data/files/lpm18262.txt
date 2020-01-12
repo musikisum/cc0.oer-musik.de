@@ -1,0 +1,10 @@
+lpm18262 A1 Nocturne Op. 9 Nr. 1 in h-Moll.mp3
+lpm18262 A2 Nocturne Op. 9 Nr. 2 in Es-Dur.mp3
+lpm18262 A3 Nocturne Op. 9 Nr. 3 in H-Dur.mp3
+lpm18262 A4 Nocturne Op. 15 Nr. 1 in F-Dur.mp3
+lpm18262 A5 Nocturne Op. 15 Nr. 2 in Fis-Dur.mp3
+lpm18262 B1 Nocturne Op. 15 Nr. 3 in g-Moll.mp3
+lpm18262 B2 Nocturne Op. 27 Nr. 1 in cis-Moll.mp3
+lpm18262 B3 Nocturne Op. 27 Nr. 2 in Des-Dur.mp3
+lpm18262 B4 Nocturne Op. 32 Nr. 1 in H-Dur.mp3
+lpm18262 B5 Nocturne Op. 32 Nr. 2 in As-Dur.mp3

@@ -1,0 +1,6 @@
+ml4584 A1 Adagio ma non troppo - Allegro.mp3
+ml4584 A2 Presto.mp3
+ml4584 A3 Andante con moto, ma non troppo.mp3
+ml4584 A4 Alla danza tedesca. Allegro assai.mp3
+ml4584 A5 Cavatina. Adagio molto espressivo – attacca.mp3
+ml4584 A6 Finale. Allegro.mp3

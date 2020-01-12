@@ -1,0 +1,24 @@
+kd11016 A1 C-Dur (Agitato).mp3
+kd11016 A10 cis-Moll (Molto Allegro).mp3
+kd11016 A11 H-Dur (Vivace).mp3
+kd11016 A12 gis-Moll (Presto).mp3
+kd11016 A13 Fis-Dur (Lento).mp3
+kd11016 A14 es-Moll (Allegro).mp3
+kd11016 A2 a-Moll (Lento).mp3
+kd11016 A3 G-Dur (Vivace).mp3
+kd11016 A4 e-Moll (Largo).mp3
+kd11016 A5 D-Dur (Molto Allegro).mp3
+kd11016 A6 h-Moll (Lento assai).mp3
+kd11016 A7 A-Dur (Andantino).mp3
+kd11016 A8 fis-Moll (Molto agitato).mp3
+kd11016 A9 E-Dur (Largo).mp3
+kd11016 B1 Des-Dur (Sostenuto).mp3
+kd11016 B10 d-Moll (Allegro appassionato).mp3
+kd11016 B2 b-Moll (Presto con fuoco).mp3
+kd11016 B3 As-Dur (Allegretto).mp3
+kd11016 B4 f-Moll (Molto Allegro).mp3
+kd11016 B5 Es-Dur (Vivace).mp3
+kd11016 B6 c-Moll (Largo).mp3
+kd11016 B7 B-Dur (Cantabile).mp3
+kd11016 B8 g-Moll (Molto agitato).mp3
+kd11016 B9  F-Dur (Moderato).mp3

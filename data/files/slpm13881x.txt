@@ -1,0 +1,10 @@
+slpm13881x A1 I Stabat Mater Dolorosa.mp3
+slpm13881x C1 II Quis Est Homo, Qui Non Fleret.mp3
+slpm13881x C2 III Eja Mater, Fons Amoris.mp3
+slpm13881x C3 IV Fac, Ut Ardeat Cor Meum.mp3
+slpm13881x D1 V Tui Nati Vulnerati.mp3
+slpm13881x D2 VI Fac Me Vere Tecum Flere.mp3
+slpm13881x D3 VII Virgo Virginum Praeclare.mp3
+slpm13881x B1 VIII Fac, Ut Portem Christi Mortem.mp3
+slpm13881x B2 IX Inflammatus Et Accensus.mp3
+slpm13881x B3 X Quando Corpus Morietur.mp3

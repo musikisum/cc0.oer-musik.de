@@ -1,0 +1,4 @@
+s72x D1 Allegro moderato (Urfassung).mp3
+s72x E1 Adagio (sehr feierlich und langsam).mp3
+s72x F1 Scherzo (Vivace).mp3
+s72x F2 Finale (Allegro ma non troppo).mp3

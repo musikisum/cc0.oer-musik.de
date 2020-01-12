@@ -1,0 +1,12 @@
+﻿xl0064 A1 As-Dur (Harfen-Etüde).mp3
+xl0064 A2 f-Moll.mp3
+xl0064 A3 F-Dur.mp3
+xl0064 A4 a-Moll.mp3
+xl0064 A5 e-Moll.mp3
+xl0064 A6 gis-Moll (Terzen-Etüde).mp3
+xl0064 A7 cis-Moll.mp3
+xl0064 B1 Des-Dur (Sexten-Etüde).mp3
+xl0064 B2 Ges-Dur.mp3
+xl0064 B3 h-Moll (Oktaven-Etüde).mp3
+xl0064 B4 a-Moll (Sturm-Etüde).mp3
+xl0064 B5 c-Moll.mp3

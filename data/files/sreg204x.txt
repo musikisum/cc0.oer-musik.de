@@ -1,0 +1,15 @@
+sreg204x A1 Requiem und Kyrie.mp3
+sreg204x A2 Dies irae.mp3
+sreg204x A3 Tuba mirum.mp3
+sreg204x A4 Liber scriptus.mp3
+sreg204x A5 Quid sum miser.mp3
+sreg204x B1 Rex tremendae.mp3
+sreg204x B2 Recordare.mp3
+sreg204x B3 Ingemisco.mp3
+sreg204x B4 Confutatis.mp3
+sreg204x B5 Lacrimosa.mp3
+sreg204x C1 Offertorium - Domine Jesu Christe.mp3
+sreg204x C2 Sanctus.mp3
+sreg204x C3 Agnus Dei.mp3
+sreg204x D1 Lux Aeterna.mp3
+sreg204x D2 Libera me.mp3

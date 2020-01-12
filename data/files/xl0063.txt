@@ -1,0 +1,12 @@
+xl0063 A1 C-Dur – Allegro.mp3
+xl0063 A2 a-Moll – Allegro.mp3
+xl0063 A3 E-Dur – Lento ma non troppo.mp3
+xl0063 A4 cis-Moll – Presto con fuoco.mp3
+xl0063 A5 Ges-Dur – Vivace.mp3
+xl0063 A6 es-Moll – Andante.mp3
+xl0063 A7 C-Dur – Vivace.mp3
+xl0063 A8 F-Dur – Allegro veloce.mp3
+xl0063 B1 f-Moll – Allegro molto agitato.mp3
+xl0063 B2 As-Dur – Vivace assai.mp3
+xl0063 B3 Es-Dur – Allegretto.mp3
+xl0063 B4 c-Moll – Allegro con fuoco.mp3

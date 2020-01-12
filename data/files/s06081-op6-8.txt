@@ -1,0 +1,9 @@
+s06081 B1a Vivace.mp3
+s06081 B1b Grave.mp3
+s06081 B2 Allegro.mp3
+s06081 B3a Adagio.mp3
+s06081 B3b Allegro.mp3
+s06081 B3c Adagio.mp3
+s06081 B4 Vivace.mp3
+s06081 B5 Allegro.mp3
+s06081 B6 Largo (Pastorale).mp3

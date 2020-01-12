@@ -1,0 +1,14 @@
+mg500000 A1 Promenade.mp3
+mg500000 A2 Gnome.mp3
+mg500000 A3 Promenade.mp3
+mg500000 A4 The Old Castle.mp3
+mg500000 A5 Promenade.mp3
+mg500000 A6 Tuileries.mp3
+mg500000 A7 Bydlo.mp3
+mg500000 A8 Promenade.mp3
+mg500000 A9 Ballet Of Unhatched Chicks.mp3
+mg500000 B1 Two Polish Jews - Rich And Poor.mp3
+mg500000 B2 Limoges - The Market Place.mp3
+mg500000 B3 Catacombs.mp3
+mg500000 B4 The Hut On Fowl's Legs.mp3
+mg500000 B5 The Great Gate At Kiev.mp3

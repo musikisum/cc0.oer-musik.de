@@ -1,0 +1,287 @@
+﻿c063005x A1 1. Akt (Part 1).mp3
+c063005x B1 1. Akt (Part 2).mp3
+c063005x C1 1. Akt (Part 3).mp3
+c063005x D1 1. Akt (Part 4).mp3
+c063005x E1 2. Akt (Part 1).mp3
+c063005x F1 2. Akt (Part 2).mp3
+c063005x C1a Szene der Leonore (Abscheulicher, wo eilst Du hin).mp3
+c063005x D1a Chor der Gefangenen (O holde Lust).mp3
+c063005x E1a Szene des Florestan (Gott, welch dunkel hier).mp3
+lw5168 A1 I Milioni D'Arlecchino.mp3
+lw5168 A2 Musica Proibita.mp3
+lw5168 A3 Mattinata.mp3
+lw5168 B1 Na Lettera Cucente.mp3
+lw5168 B2 Addio A Napoli.mp3
+lw5168 B3 Mattinata Veneziana.mp3
+lw5168 B4 Core' 'ngrato.mp3
+lpm18013 A1a Allegro non troppo e molto maestoso.mp3
+lpm18013 A1b Allegro con spirito.mp3
+lpm18013 B1 Andantino simplice-prestissimo.mp3
+lpm18013 B2 Allegro con fuoco.mp3
+lpm18614 A1 Allegro.mp3
+lpm18614 A2 Romanze - poco Adagio.mp3
+lpm18614 A3 Allegretto molto moderato e conmoto - Un poco piu animato.mp3
+lpm18614 A4 Allegro.mp3
+lpm18614 B1 Allegro non troppo.mp3
+lpm18614 B2 Andante moderato.mp3
+lpm18614 B3 Quasi Menuetto -moderato - Allegro vivace.mp3
+lpm18614 B4 Finale - Allegro non assai.mp3
+mfp2117 A1 Allegro moderato.mp3
+mfp2117 A2 Scherzo (Allegro) und Coda.mp3
+mfp2117 B1 Andante cantabile, ma pero con moo - Poco piu adagio - Tempo I.mp3
+mfp2117 B2 Allegro moderato - Presto - Piu presto.mp3
+478060 A1 Allegro moderato.mp3
+478060 A2 Scherzo Allegro.mp3
+478060 B1 Andante caniabile, ma pero con mato.mp3
+478060 B2 Allegro moderato.mp3
+lpm18131 A1 Allegro.mp3
+lpm18131 B1 Adagio un poco moto.mp3
+lpm18131 B2 Allegro.mp3
+82267x A1 Geh nur, ich erkenne dein Ziel schon - Ich glaube an einen Gott (1958).mp3
+82267x A2 É strano - Ah fors' é lui - Sempre libera (1955).mp3
+82267x A3 Wer ist statt seiner hier im Sacke _ Ach, wer ruft mich (vor 1952).mp3
+82267x A4 Verhängnisvoll war das Geschenk (vor 1938).mp3
+82267x A5 Hat dein heimatliches Land (1946).mp3
+82267x B1 Ja, es ward Abend - Mädchen, in deinen Augen liegt ein Zauber (vor 1960).mp3
+82267x B2 Die Kanone im Hafen - Schüttle alle Zweige dieses Kirschbaums (1954).mp3
+82267x B3 Lasset sie glauben, daß ich in die Welt zog (vor 1958).mp3
+82267x C1 Ach, ich habe sie verloren (vor 1945).mp3
+82267x C2 Komm, O Holde Dame (1943).mp3
+82267x C3 Eccola - Il Dolce Suono - Ardon Gl'incensi (1959).mp3
+82267x D1 Jetzt spielen - Hüll dich in Tand nur (1943).mp3
+82267x D2 Ja, das Gold regiert die Welt (1937).mp3
+82267x D3 Come un bel di di maggio (1958).mp3
+82267x D4 Und ob die Wolke sie verhülle (vor 1963).mp3
+82267x D5 Verachtet mir die Meister nicht - Ehrt eure deutschen Meister (1955).mp3
+253906x A1 Allegro moderato - Allegro.mp3
+253906x A2 Andante.mp3
+253906x A3 Allegro molto.mp3
+253906x B1 Rhapsodie für Klavier und Orchester.mp3
+253906x C1 Allegro.mp3
+253906x C2 Adagio - Presto - Adagio.mp3
+253906x C3 Allegro molto.mp3
+253906x D1 Allegretto.mp3
+253906x D2 Allegro Religioso - Poco più mosso - Tempo I.mp3
+253906x D3 Allegro vivace.mp3
+================= ab hier neue Update-Files =============================================
+lpm13595 A1 Allegro.mp3
+lpm13595 A2 Romanze.mp3
+lpm13595 B1 Allegro assai.mp3
+05100518 A1a Andante con moto.mp3
+05100518 A1b Allegro un poco agitato - Assai animato - Andante coma prima.mp3
+05100518 A2 Vivace non troppo.mp3
+05100518 A3 Adagio.mp3
+05100518 B1 Allegro vivacissimo.mp3
+05100518 B2 Allegro maestoso assai.mp3
+05100518 B3 Allegro moderato.mp3
+================= ab hier ab Hannas Reise ==============================================
+chs1165 A1 Allegro molto.mp3
+chs1165 A2 Andante.mp3
+chs1165 A3 Presto.mp3
+chs1165 A4 Allegro.mp3
+chs1165 A5 Andante.mp3
+chs1165 A6 Menuetto 1-2.mp3
+chs1165 A7 Presto.mp3
+chs1165 B1 Allegro.mp3
+chs1165 B2 Andante.mp3
+chs1165 B3 Allegro molto.mp3
+chs1165 B4 Allegro.mp3
+chs1165 B5 Andante.mp3
+chs1165 B6 Menuetto.mp3
+chs1165 B7 Allegro.mp3
+chs1166 A1 Allegro.mp3
+chs1166 A2 Andante.mp3
+chs1166 A3 Presto.mp3
+chs1166 A4 Allegro moderato.mp3
+chs1166 A5 Andante.mp3
+chs1166 A6 Menuetto.mp3
+chs1166 A7 Allegro molto.mp3
+chs1166 B1 Allegro.mp3
+chs1166 B2 Anadante.mp3
+chs1166 B3 Allegro.mp3
+chs1166 B4 Allegro.mp3
+chs1166 B5 Andante.mp3
+chs1166 B6 Allegro.mp3
+chs1177 A1 Allegro.mp3
+chs1177 A2 Andante.mp3
+chs1177 A3 Menuetto.mp3
+chs1177 A4 Finale.mp3
+chs1177 A5 Allegro.mp3
+chs1177 A6 Andante.mp3
+chs1177 A7 Menuetto.mp3
+chs1177 A8 Allegro.mp3
+chs1177 B1 Allegro.mp3
+chs1177 B2 Andante.mp3
+chs1177 B3 Menuetto.mp3
+chs1177 B4 Allegro molto.mp3
+chs1177 B5 Allegro.mp3
+chs1177 B6 Andante.mp3
+chs1177 B7 Menuetto.mp3
+chs1177 B8 Allegro.mp3
+chs1178 A1 Allegro molto.mp3
+chs1178 A2 Andante.mp3
+chs1178 A3 Presto.mp3
+chs1178 A4 Allegro.mp3
+chs1178 A5 Andante.mp3
+chs1178 A6 Menuetto.mp3
+chs1178 A7 Molto Allegro.mp3
+chs1178 B1 Allegro.mp3
+chs1178 B2 Andante.mp3
+chs1178 B3 Menuetto.mp3
+chs1178 B4 Presto.mp3
+chs1178 B5 Allegro maestoso.mp3
+chs1178 B6 Andante grazioso.mp3
+chs1178 B7 Allegro.mp3
+chs1193 A1 Allegro.mp3
+chs1193 A2 Andantino grazioso.mp3
+chs1193 A3 Menuetto.mp3
+chs1193 A4 Allegro.mp3
+chs1193 A5 Allegro.mp3
+chs1193 A6 Andantino grazioso.mp3
+chs1193 A7 Menuetto.mp3
+chs1193 A8 Allegro.mp3
+chs1193 B1 Allegro.mp3
+chs1193 B2 Andante.mp3
+chs1193 B3 Menuetto.mp3
+chs1193 B4 Allegro.mp3
+chs1193 B5 Allegro.mp3
+chs1193 B6 Andante.mp3
+chs1193 B7 Menuetto.mp3
+chs1193 B8 Allegro.mp3
+chs1194 A1 Allegro assai.mp3
+chs1194 A2 Andante grazioso.mp3
+chs1194 A3 Presto assai.mp3
+chs1194 A4 Allegro siritoso.mp3
+chs1194 A5 Andantino grazioso.mp3
+chs1194 A6 Presto assai.mp3
+chs1194 B1 Allegro spiritoso.mp3
+chs1194 B2 Andantino grazioso.mp3
+chs1194 B3 Allegro.mp3
+chs1194 B4 Allegro con brio.mp3
+chs1194 B5 Andante.mp3
+chs1194 B6 Menuetto.mp3
+chs1194 B7 Allegro.mp3
+chs1256 A1 Allegro.mp3
+chs1256 A2 Andante.mp3
+chs1256 A3 Allegro.mp3
+chs1256 A4 Molto Presto.mp3
+chs1256 A5 Andante.mp3
+chs1256 A6 Allegro.mp3
+chs1256 B1 Allegro.mp3
+chs1256 B2 Andantino grazioso.mp3
+chs1256 B3 Presto.mp3
+chs1256 B4 Allegro spiritoso.mp3
+chs1256 B5 Andante.mp3
+chs1256 B6 Menuetto.mp3
+chs1256 B7 Presto.mp3
+chs1257 A1 Allegro moderato.mp3
+chs1257 A2 Andante.mp3
+chs1257 A3 Menuetto.mp3
+chs1257 A4 Allegro con spirito.mp3
+chs1257 A5 Allegro spiritoso.mp3
+chs1257 A6 Andante.mp3
+chs1257 A7 Allegro spiritoso.mp3
+chs1257 B1 Molto Allegro.mp3
+chs1257 B2 Andantino con moto.mp3
+chs1257 B3 Menuetto.mp3
+chs1257 B4 Presto.mp3
+chs1257 B5 Allegro assai.mp3
+chs1257 B6 Andantino.mp3
+chs1257 B7 Allegro.mp3
+chs1258 A1 Allegro assai.mp3
+chs1258 A2 Andante moderato.mp3
+chs1258 A3 Minuetto.mp3
+chs1258 A4 Allegro assai.mp3
+chs1258 A5 Allegro vivace.mp3
+chs1258 B1 Andante di molto.mp3
+chs1258 B2 Finale (Allegro vivace).mp3
+chs1258 B3a Adagio maestoso (Mozart).mp3
+chs1258 B3b Allegro con spirito (Mozart).mp3
+chs1258 B4 Andante sostenuto (Haydn).mp3
+chs1258 B5 Alegro molto (Haydn).mp3
+chs1259 A1a Adagio.mp3
+chs1259 A1b Allegro spiritoso.mp3
+chs1259 A2 Poco Adagio.mp3
+chs1259 A3 Menuetto.mp3
+chs1259 A4 Finale (Presto).mp3
+chs1259 B1a Adagio.mp3
+chs1259 B1b Allegro.mp3
+chs1259 B2 Andante con moto.mp3
+chs1259 B3 Menuetto (Allegretto).mp3
+chs1259 B4 Finale (Allegro).mp3
+chs1260 A1a Adagio.mp3
+chs1260 A1b Allegro.mp3
+chs1260 A2 Andante.mp3
+chs1260 A3 Finale - Presto.mp3
+chs1260 B1 Allegro vivace.mp3
+chs1260 B2 Andante cantabile.mp3
+chs1260 B3 Menuetto.mp3
+chs1260 B4 Finale - Allegro molto.mp3
+chs1261 A1 Allegro con spirito.mp3
+chs1261 A2 Andante.mp3
+chs1261 A3 Menuetto.mp3
+chs1261 A4 Presto.mp3
+chs1261 B1 Molto allegro.mp3
+chs1261 B2 Andante.mp3
+chs1261 B3 Menuetto (Allegretto).mp3
+chs1261 B4 Finale (Allegro assai).mp3
+================= nach meinem Urlaub ==============================================
+lpe17056 A1 Wilhelm Tell Ouvertüre.mp3
+lpe17056 B1 Akademische Festouvertüre op. 80.mp3
+opv017 A1 Ave, Sera Gentile - Donna Non Vidi Mai Simile A Questa.mp3
+opv017 A2 Vedete, Io Son Fedele.mp3
+opv017 A3 Oh, Saro La Piu Bella.mp3
+opv017 A4 Intermezzo.mp3
+opv017 A5 Manon.mp3
+opv017 A6 Sola - Perduta - Abbandonata.mp3
+================= nach Hannas Vorschlägen zum Semesterbeginn ==============================
+lpm18262 A1 Nocturne Op. 9 Nr. 1 in h-Moll.mp3
+lpm18262 A2 Nocturne Op. 9 Nr. 2 in Es-Dur.mp3
+lpm18262 A3 Nocturne Op. 9 Nr. 3 in H-Dur.mp3
+lpm18262 A4 Nocturne Op. 15 Nr. 1 in F-Dur.mp3
+lpm18262 A5 Nocturne Op. 15 Nr. 2 in Fis-Dur.mp3
+lpm18262 B1 Nocturne Op. 15 Nr. 3 in g-Moll.mp3
+lpm18262 B2 Nocturne Op. 27 Nr. 1 in cis-Moll.mp3
+lpm18262 B3 Nocturne Op. 27 Nr. 2 in Des-Dur.mp3
+lpm18262 B4 Nocturne Op. 32 Nr. 1 in H-Dur.mp3
+lpm18262 B5 Nocturne Op. 32 Nr. 2 in As-Dur.mp3
+walp503-04-1 A1 Gute Nacht.mp3
+walp503-04-1 A2 Die Wetterfahne.mp3
+walp503-04-1 A3 Gefrorene Tränen.mp3
+walp503-04-1 A4 Erstarrung.mp3
+walp503-04-1 A5 Der Lindenbaum.mp3
+walp503-04-1 A6 Wasserflut.mp3
+walp503-04-1 B1 Auf dem Flusse.mp3
+walp503-04-1 B2 Rückblick.mp3
+walp503-04-1 B3 Irrlicht.mp3
+walp503-04-1 B4 Rast.mp3
+walp503-04-1 B5 Frühlingstraum.mp3
+walp503-04-1 B6 Einsamkeit.mp3
+walp503-04-2 A1 Die Post.mp3
+walp503-04-2 A2 Der greise Kopf.mp3
+walp503-04-2 A3 Die Krähe.mp3
+walp503-04-2 A4 Letzte Hoffnung.mp3
+walp503-04-2 A5 Im Dorfe.mp3
+walp503-04-2 A6 Der stürmische Morgen.mp3
+walp503-04-2 A7 Täuschung.mp3
+walp503-04-2 B1 Der Wegweiser.mp3
+walp503-04-2 B2 Das Wirtshaus.mp3
+walp503-04-2 B3 Mut.mp3
+walp503-04-2 B4 Die Nebensonnen.mp3
+walp503-04-2 B5 Der Leiermann.mp3
+lpm18614 A1 Allegro.mp3
+lpm18614 A2 Romanze - poco Adagio.mp3
+lpm18614 A3 Allegretto molto moderato e conmoto - Un poco piu animato.mp3
+lpm18614 A4 Allegro.mp3
+lpm18614 B1 Allegro non troppo.mp3
+lpm18614 B2 Andante moderato.mp3
+lpm18614 B3 Quasi Menuetto -moderato - Allegro vivace.mp3
+lpm18614 B4 Finale - Allegro non assai.mp3
+sua10022 A1 Maestoso.mp3
+sua10022 B1 Adagio.mp3
+sua10022 B2 Rondo (Allegro non troppo).mp3
+E70004 A1 Nun will die Sonn so hell aufgehn.mp3
+E70004 A2 Nun seh ich wohl, warum so dunkle Flammen.mp3
+E70004 B1 Wenn dein Mütterlein.mp3
+E70004 B2 Oft denk ich, sie sind nur ausgegangen.mp3
+E70004 B3 In diesem Wetter.mp3

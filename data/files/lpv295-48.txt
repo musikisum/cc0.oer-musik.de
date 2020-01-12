@@ -1,0 +1,6 @@
+lpv295 B1 Lento.mp3
+lpv295 B2 Allegretto.mp3
+lpv295 B3 Allegro.mp3
+lpv295 B4 Lento sostenuto.mp3
+lpv295 B5 Minuetto grazioso.mp3
+lpv295 B6 Allegro scherzando.mp3

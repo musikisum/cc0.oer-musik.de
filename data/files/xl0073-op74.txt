@@ -1,0 +1,19 @@
+xl0073 A1 Moja Pieszczotka (Meine Freuden).mp3
+xl0073 A2 Posel (Der Bote).mp3
+xl0073 A3 Piosnka Litewska (Lithauisches Lied).mp3
+xl0073 A4 Wiosna (Der Frühling).mp3
+xl0073 A5 Zyczenie (Mädchens Wunsch).mp3
+xl0073 A6 Nie Ma Czego Trzeba (Ich möchte, was ich nicht habe).mp3
+xl0073 A7 Sliczny Chlopiec (Mein Geliebter).mp3
+xl0073 A8 Leci Liscie Z Drzewa (Blätter fallen vom Baum).mp3
+xl0073 B1 Pierscien (Das Ringlein).mp3
+xl0073 B2 Dwojaki Koniec (Zwei Leichen).mp3
+xl0073 B3 Gdzie Lubi (Was ein junges Mädchen liebt).mp3
+xl0073 B4 Dumka (Rêverie).mp3
+xl0073 B5 Czary (Zauber).mp3
+xl0073 B6 Melodia (Eine Melodie).mp3
+xl0073 B7 Wojak (Der Reitersmann vor der Schlacht).mp3
+xl0073 B8 Precz Z Moich Oczu (Mir aus den Blicken).mp3
+xl0073 B9 Smutna Rzeka (Trübe Wellen).mp3
+xl0073 B10 Narzeczony (Die Heimkehr).mp3
+xl0073 B11 Hulanka (Bacchanal).mp3

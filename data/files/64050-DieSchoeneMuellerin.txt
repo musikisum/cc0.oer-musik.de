@@ -1,0 +1,16 @@
+64050 A1 Das Wandern.mp3
+64050 A2 Wohin.mp3
+64050 A3 Halt.mp3
+64050 A4 Danksagung an den Bach.mp3
+64050 A5 Am Feierabend.mp3
+64050 A6 Der Neugierige.mp3
+64050 A7 Ungeduld.mp3
+64050 A8 Tränenregen.mp3
+64050 B1 Mein.mp3
+64050 B2 Pause.mp3
+64050 B3 Mit dem grünen Lautenbande.mp3
+64050 B4 Der Jäger.mp3
+64050 B5 Eifersucht und Stolz.mp3
+64050 B6 Die böse Farbe.mp3
+64050 B7 Trockene Blumen.mp3
+64050 B8 Des Baches Wiegenlied.mp3

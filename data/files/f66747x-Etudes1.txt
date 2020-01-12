@@ -1,0 +1,7 @@
+f66747x I1 Pour les cinq Doigts.mp3
+f66747x I2 Pour les Tierces.mp3
+f66747x I3 Pour les Quartes.mp3
+f66747x I4 Pour les Sixtes.mp3
+f66747x I5 Pour les Octaves.mp3
+f66747x I6 Pour les huit Doigts.mp3
+f66747x I7 Pour les Degrés chromatiques.mp3

@@ -1,0 +1,5 @@
+600001006 A5 Allegro ma non troppo (Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande).mp3
+600001006 A6 Andante molto moto (Szene am Bach).mp3
+600001006 A7 Allegro (Lustiges Zusammensein der Landleute).mp3
+600001006 A8 Allegro (Gewitter, Sturm).mp3
+600001006 A9 Allegretto (Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm).mp3

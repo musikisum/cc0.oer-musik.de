@@ -1,0 +1,24 @@
+xl0062 A1 C-Dur Agitato.mp3
+xl0062 A2 a-Moll Lento.mp3
+xl0062 A3 G-Dur Vivace.mp3
+xl0062 A4 e-Moll Largo.mp3
+xl0062 A5 D-Dur Molto Allegro.mp3
+xl0062 A6 h-Moll Lento assai.mp3
+xl0062 A7 A-Dur Andantino.mp3
+xl0062 A8 fis-Moll Molto agitato.mp3
+xl0062 A9 E-Dur Largo.mp3
+xl0062 A10 cis-Moll Molto Allegro.mp3
+xl0062 A11 H-Dur Vivace.mp3
+xl0062 A12 gis-Moll Presto.mp3
+xl0062 A13 Fis-Dur Lento.mp3
+xl0062 A14 es-Moll Allegro.mp3
+xl0062 B1 Des-Dur Sostenuto.mp3
+xl0062 B2 b-Moll Presto con fuoco.mp3
+xl0062 B3 As-Dur Allegretto.mp3
+xl0062 B4 f-Moll Molto Allegro.mp3
+xl0062 B5 Es-Dur Vivace.mp3
+xl0062 B6 c-Moll Largo.mp3
+xl0062 B7 B-Dur Cantabile.mp3
+xl0062 B8 g-Moll Molto agitato.mp3
+xl0062 B9 F-Dur Moderato.mp3
+xl0062 B10 d-Moll Allegro appassionato.mp3
