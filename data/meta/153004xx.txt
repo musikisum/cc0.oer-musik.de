@@ -1,17 +1,8 @@
-Display:: Verdi, Guiseppe - Aida (Gesamtaufnahme)
-Titel:: Verdi Aida. Callas, Tucker, Barbieri, Gobbi, Serafin, Coro Orchestra del Theatro alla Scala di Milano.  
-Label:: EMI Electrola ‎– C 153-00 429/31 M
-Format:: Vinyl, 3 x LP (Box-Set), Mono 
-Land:: Germany
-Veröffentlicht:: 1956
-Trackliste:: Aida (Gesamtaufnahme)
-A1:: Vorspiel - 1. Akt (1. Teil) Nr. 1 - Nr. 6	
-B1:: 1. Akt (Schluß) Nr. 7 und 2. Akt (1. Teil) Nr. 8 Und Nr. 9
-C1:: 2. Akt (Schluß) Nr. 10
-D1:: 3. Akt (1. Teil) Nr. 11 - Nr. 13 (1. Teil)
-E1:: 3. Akt (Schluß) Nr. 13 Schluß und 4. Akt (1. Teil) Nr. 14
-F1:: 4. Akt (Schluß) Nr. 15 Und Nr. 16
-A1a:: Romanze des Radames (Celeste Aida)
-B1a:: Schluss des zweiten Aktes
-Mitwirkende:: Composed By – Giuseppe Verdi, Choir – Coro Del Teatro Alla Scala, Chorus Master – Norberto Mola, Orchestra – Orchestra Del Teatro Alla Scala, Conductor - Tullio Serafin, Bariton (Amonasro) – Tito Gobbi, Bass (Der König) – Nicola Zaccaria, Bass (Ramphis) – Giuseppe Modesti, Mezzosopran (Amneris) – Fedora Barbieri, Sopran (Aida) – Maria Callas, Sopran (Die Erste Priesterin) – Elvira Galassi, Tenor (Ein Bote) – Franco Ricciardi, Tenor (Radames) – Richard Tucker.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+153004xx A1 Vorspiel - 1. Akt (1. Teil) Nr. 1 - Nr. 6.mp3
+153004xx B1 1. Akt (Schluß) Nr. 7 und 2. Akt (1. Teil) Nr. 8 Und Nr. 9.mp3
+153004xx C1 2. Akt (Schluß) Nr. 10.mp3
+153004xx D1 3. Akt (1. Teil) Nr. 11 - Nr. 13 (1. Teil).mp3
+153004xx E1 3. Akt (Schluß) Nr. 13 Schluß und 4. Akt (1. Teil) Nr. 14.mp3
+153004xx F1 4. Akt (Schluß) Nr. 15 Und Nr. 16.mp3
+153004xx A1a Romanze des Radames (Celeste Aida).mp3
+153004xx B1a Schluss des zweiten Aktes.mp3

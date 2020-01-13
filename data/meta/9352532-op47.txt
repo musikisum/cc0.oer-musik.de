@@ -1,14 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 47 Sonate für Violine und Klavier A-Dur (Kreutzer-Sonate)
-Titel:: Ludwig van Beethoven. Violin Sonatas III
-Label:: Brilliant Classics 93525/31
-Format:: CD 
-Land:: Germany
-Veröffentlicht:: 2007
-Erstveröffentlichung:: 1956/1957
-Trackliste:: Sonate für Violine und Klavier A-Dur Op. 47 (Kreutzer-Sonate)
-A4a:: Adagio sostenuto
-A4b:: Presto
-A5:: Andante con Variazioni
-A6:: Finale. Presto
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Violin – Arthur Grumiaux, Piano – Clara Haskil
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+9352532 A4a Adagio sostenuto.mp3
+9352532 A4b Presto.mp3
+9352532 A5 Andante con Variazioni.mp3
+9352532 A6 Finale. Presto.mp3

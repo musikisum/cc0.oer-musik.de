@@ -1,12 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 31, Nr. 2 Sonate für Klavier Nr. 17 in d-Moll (»Der Sturm«) (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1934
-Trackliste:: Sonate für Klavier Nr. 17 in d-Moll Op. 31, Nr. 2
-N1:: Largo - Allegro
-N2:: Adagio
-N3:: Allegretto
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx N1 Largo - Allegro.mp3
+f6678xx N2 Adagio.mp3
+f6678xx N3 Allegretto.mp3

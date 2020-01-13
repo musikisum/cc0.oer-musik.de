@@ -1,14 +1,4 @@
-Display:: Tschaikowski, Peter I. - Op. 36 Sinfonie Nr. 4 in f-Moll (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1960
-Trackliste:: Sinfonie Nr. 4 in f-Moll Op. 36
-A1:: Andante sostenuto – Moderato con anima – Moderato assai, quasi Andante – Allegro vivo
-A2:: Andantino in modo di canzona
-A3:: Scherzo - Pizzicato ostinato – Allegro
-A4:: Finale - Allegro con fuoco
-Mitwirkende:: Composed By – Peter I. Tschaikowski, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001046 A1 Andante sostenuto – Moderato con anima – Moderato assai, quasi Andante – Allegro vivo.mp3
+600001046 A2 Andantino in modo di canzona.mp3
+600001046 A3 Scherzo - Pizzicato ostinato – Allegro.mp3
+600001046 A4 Finale - Allegro con fuoco.mp3

@@ -1,11 +1,1 @@
-Display:: Mozart, Wolfgang Amadé - KV 386 Konzertrondo in A-Dur für Klavier und Orchester
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1960
-Trackliste:: Konzertrondo in A-Dur für Klavier und Orchester KV 386
-A8:: Allegretto
-Mitwirkende:: Composer - Wolfgang Amadeus Mozart, Piano - Annie Fischer, Orchestra - Radio-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793130 A8 Allegretto.mp3

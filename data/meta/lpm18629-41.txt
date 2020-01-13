@@ -1,13 +1,4 @@
-Display:: Händel, Georg Friedrich - Orgelkonzert g-Moll Op. 4, Nr. 1
-Titel:: Georg Friedrich Händel - Orgelkonzert g-Moll, Air B-Dur, Cembalo Suite g-Moll, Sylvia Marlowe - Cembalo, Barock-Kammerorchester
-Label:: Deutsche Grammophon Gesellschaft LPM 18629
-Format:: Vinyl, LP, Album, Mono 
-Land:: Deutschland
-Veröffentlicht:: 1960
-Trackliste:: Orgelkonzert g-Moll Op. 4, Nr. 1
-A1:: Larghetto e staccato
-A2:: Allegro
-A3:: Adagio
-A4:: Andante
-Mitwirkende:: Composed By – Georg Freidrich Händel, Cembalo - Sylvia Marlowe, Barock-Kammerorchester
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm18629 A1 Larghetto e staccato.mp3
+lpm18629 A2 Allegro.mp3
+lpm18629 A3 Adagio.mp3
+lpm18629 A4 Andante.mp3

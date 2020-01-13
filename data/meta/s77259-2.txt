@@ -1,13 +1,4 @@
-﻿Display:: Brahms, Johannes - Op. 83 Klavierkonzert Nr. 2 in B-Dur (Fleisher)
-Title:: Johannes Brahms, Konzerte für Klavier und Orchester. Concertos for Piano and Orchestra. Concerts pour piano et orchestre. Leon Fleisher, Cleveland Orchestra, Georg Szell.
-Label:: CBS S 61 046
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Klavierkonzert in B-Dur Op. 83
-A1:: Allegro non troppo
-A2:: Allegro appassionato
-B1:: Andante
-B2:: Allegretto grazioso
-Mitwirkende:: Klavier - Leon Fleisher, Orchester - Cleveland Orchestra, Dirigent - Georg Szell
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿s77259 A1 Allegro non troppo.mp3
+s77259 A2 Allegro appassionato.mp3
+s77259 B1 Andante.mp3
+s77259 B2 Allegretto grazioso.mp3

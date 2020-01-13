@@ -1,14 +1,4 @@
-﻿Display:: Brahms, Johannes - Op. 90 Sinfonie Nr. 3 in F-Dur (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1960
-Trackliste:: Sinfonie in F-Dur Op. 90
-A1:: Allegro con brio
-A2:: Andante
-A3:: Poco Allegretto
-A4:: Allegro
-Mitwirkende:: Composer - Johannes Brahms, Orchestra - Wiener Philharmoniker, Conductor - Herbert von Karajan
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿600001037 A1 Allegro con brio.mp3
+600001037 A2 Andante.mp3
+600001037 A3 Poco Allegretto.mp3
+600001037 A4 Allegro.mp3

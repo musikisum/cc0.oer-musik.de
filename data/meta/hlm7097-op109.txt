@@ -1,12 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 109 Sonate für Klavier Nr. 30 in E-Dur (Solomon)
-Titel:: Ludwig van Beethoven - Solomon plays Beethoven Sonatas (Pathétique, Moonlight, Waldstein, Appassionata, Les Audieux, Hammerklavier and No.1 in F minor, No.3 in C, No.7 in D, No.13 in E-flat, No.17 in D minor, No.18 in Eflat, No. 22 in F, No.27 in E minor, No.31 in A flat, No.32 in C minor)
-Label:: EMI
-Format:: Vinyl, LP, Mono 
-Land:: Britain
-Veröffentlicht:: 1948-1956 (Aufnahmedaten)
-Trackliste:: Sonate für Klavier Nr. 30 in E-Dur Op. 109
-H3:: Vivace ma non troppo - Adagio espressivo
-H4:: Prestissimo
-H5:: Andante molto cantabile ed espressivo (con Variazioni)
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Solomon Cutner (Solomon)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+hlm7097 H3 Vivace ma non troppo - Adagio espressivo.mp3
+hlm7097 H4 Prestissimo.mp3
+hlm7097 H5 Andante molto cantabile ed espressivo (con Variazioni).mp3

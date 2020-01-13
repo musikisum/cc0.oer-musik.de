@@ -1,13 +1,4 @@
-Display:: Mozart, Wolfgang Amadé - KV 124 Sinfonie in G-Dur
-Titel:: Wolfgang Amadeus Mozart, Sinfonie Nr. 15 G-Dur KV 124, Netherlands Philharmonic Orchestra, Dirigent: Otto Ackermann
-Label:: Concert Hall Society ‎– CHS 1178
-Format:: Vinyl, LP, Mono 
-Land:: US
-Veröffentlicht:: 1952/1953
-Trackliste:: Sinfonie Nr. 15 G-Dur KV 124
-B1:: Allegro
-B2:: Andante
-B3:: Menuetto
-B4:: Presto
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Conductor – Otto Ackermann, Orchestra - Netherlands Philharmonic Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+chs1178 B1 Allegro.mp3
+chs1178 B2 Andante.mp3
+chs1178 B3 Menuetto.mp3
+chs1178 B4 Presto.mp3

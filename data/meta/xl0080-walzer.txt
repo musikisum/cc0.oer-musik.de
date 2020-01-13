@@ -1,11 +1,2 @@
-Display:: Chopin, Frédéric - Op. posth. Zwei Walzer  (Regina Smendziank)
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
-Label:: Muza Polskie Nagrania XL 0080
-Format:: Vinyl, LP, Mono 
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: Zwei Walzer Op. posth.
-B3:: Walzer in e-Moll
-B4:: Walzer in E-Dur
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Regina Smendziank
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+xl0080 B3 Walzer in e-Moll.mp3
+xl0080 B4 Walzer in E-Dur.mp3

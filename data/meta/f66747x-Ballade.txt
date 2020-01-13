@@ -1,10 +1,1 @@
-Display:: Debussy, Claude - Ballade (Gieseking)
-Titel:: Walter Gieseking spielt Debussy
-Label:: EMI Electrola ‎– F 667 473–478
-Format:: Vinyl, LP, Mono
-Land:: Germany
-Veröffentlicht:: 1951–1955
-Trackliste:: Ballade
-B4:: Ballade
-Mitwirkende:: Composer - Claude Debussy, Piano - Walter Gieseking 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f66747x B4 Ballade.mp3

@@ -1,15 +1,5 @@
-Display:: Mozart, Wolfgang Amadé - KV 593 Streichquintett in D-Dur 
-Titel:: Wolfgang Amadeus Mozart, Streichquintett D-Dur KV 593, Streichquintett Es-Dur KV 614
-Untertitel: Amadeus-Quartett Nobert Brainin, 1. Violine; Siegmund Nissel, 2. Violine; Peter Schidlof, Viola; Martin Lovett, Violoncello mit Cecil Aronowitz, 2. Viola
-Label:: Deutsche Grammophon Gesellschaft LPM 18398
-Format:: Vinyl, LP, Mono
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Streichquintett in D-Dur KV 593
-A1a:: Larghetto
-A1b:: Allegro
-A2:: Adagio
-A3:: Menuetto (Allegretto)
-A4:: Allegro
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Amadeus-Quartett – Nobert Brainin, 1. Violine; Siegmund Nissel, 2. Violine; Peter Schidlof, Viola; Martin Lovett, Violoncello mit Cecil Aronowitz, 2. Viola
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm18398 A1a Larghetto.mp3
+lpm18398 A1b Allegro.mp3
+lpm18398 A2 Adagio.mp3
+lpm18398 A3 Menuetto (Allegretto).mp3
+lpm18398 A4 Allegro.mp3

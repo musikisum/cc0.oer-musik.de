@@ -1,13 +1,4 @@
-Display:: Chopin, Frédéric - Op. 41 Vier Mazurken 
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
-Label:: Muza Polskie Nagrania XL 0093 / XL 0094
-Format:: Vinyl, LP, Mono 
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: Vier Mazurken Op. 41
-B5:: Mazurka in cis-Moll Op. 41, Nr. 1
-B6:: Mazurka in e-Moll Op. 41, Nr. 2
-A1:: Mazurka in H-Dur Op. 41, Nr. 3
-A2:: Mazurka in As-Dur Op. 41, Nr. 4
-Mitwirkende:: Composer - Frédéric Chopin, Pianr - Henryk Sztompka
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+xl0093 B5 Mazurka in cis-Moll Op. 41, Nr. 1.mp3
+xl0093 B6 Mazurka in e-Moll Op. 41, Nr. 2.mp3
+xl0094 A1 Mazurka in H-Dur Op. 41, Nr. 3.mp3
+xl0094 A2 Mazurka in As-Dur Op. 41, Nr. 4.mp3

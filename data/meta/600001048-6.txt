@@ -1,15 +1,5 @@
-Display:: Tschaikowski, Peter I. - Op. 74 Sinfonie Nr. 6 in h-Moll (»Pathetique«) (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1955
-Trackliste:: Sinfonie Nr. 6 in h-Moll (»Pathetique«) Op. 74
-A1a:: Adagio
-A1b:: Allegro non troppo
-A2:: Allegro con grazia
-A3:: Allegro molto vivace
-A4:: Adagio lamentoso – Andante
-Mitwirkende:: Composed By – Peter I. Tschaikowski, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001048 A1a Adagio.mp3
+600001048 A1b Allegro non troppo.mp3
+600001048 A2 Allegro con grazia.mp3
+600001048 A3 Allegro molto vivace.mp3
+600001048 A4 Adagio lamentoso – Andante.mp3

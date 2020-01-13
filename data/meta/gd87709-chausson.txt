@@ -1,10 +1,1 @@
-﻿Display:: Chausson, Ernest - Op. 25 Poéme (Heifetz)
-Titel:: Heifetz. Lalo, Saint-Saens, Sarasate, Chausson. Works for Violin. RCA Victor Gold Seal
-Label:: RCA Gold Seal GD 87709
-Format:: CD
-Land:: Germany
-Veröffentlicht:: 1952
-Trackliste:: Poéme Op. 25
-A12:: Poeme
-Mitwirkende:: Composed by - Ernest Chausson, Orchestra - RCA Victor Symphony Orchestra Violine, Conductor - William Steinberg, Violine - Jascha Heifetz
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿gd87709 A12 Poeme.mp3

@@ -1,13 +1,4 @@
-Display:: Chopin, Frédéric - Op. 58 Sonate Nr. 3 für Klavier in h-Moll (Jan Ekier)
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
-Label:: Muza Polskie Nagrania XL 5900
-Format:: Vinyl, LP, Mono 
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: Sonate Nr. 3 für Klavier in h-Moll Op. 58
-B1:: Allegro maestoso
-B2:: Scherzo. Molto vivace 
-B3:: Largo
-B4:: Finale. Presto non tanto
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Jan Ekier
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+xl0059 B1 Allegro maestoso.mp3
+xl0059 B2 Scherzo. Molto vivace.mp3
+xl0059 B3 Largo.mp3
+xl0059 B4 Finale. Presto non tanto.mp3

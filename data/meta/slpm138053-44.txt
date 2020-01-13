@@ -1,10 +1,1 @@
-Display:: Beethoven, Ludwig v. - Op. 44 Variationen für Klavier, Violine und Violoncello in Es-Dur 
-Titel:: Franz Schubert - Klaviertrio in B-Dur op. 99, Ludwig van Beethoven - Variationen in Es-dur op. 44, Trio di Trieste
-Label:: Deutsche Grammophon 138053 SLPM
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Variationen für Klavier, Violine und Violoncello in Es-Dur Op. 44
-B2:: Variationen in Es-Dur
-Mitwirkende:: Composer - Franz Schubert, Trio di Trieste, Piano - Dario de Rosa, Violine Renato Zanettovich, Violoncello - Libero Lana
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+slpm138053 B2 Variationen in Es-Dur.mp3

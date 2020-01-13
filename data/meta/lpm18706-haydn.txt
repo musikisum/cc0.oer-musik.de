@@ -1,14 +1,5 @@
-Display:: Haydn, Joseph - Fünf schottische Lieder und Volkslieder (Fischer-Dieskau)
-Titel:: Dietrich Fischer-Dieskau singt schottische Lieder und Vokslieder von Haydn, Beethoven und Weber
-Label:: Deutsche Grammophon Gesellschaft 
-Format:: Vinyl, LP, Mono
-Land:: Deutschland
-Veröffentlicht:: 1961
-Trackliste:: Fünf schottische Lieder und Volkslieder
-A1:: Schläfst du oder wachst du
-A2:: Heimkehr
-A3:: Maggy Lauder
-A4:: Dort, wo durchs Ried
-A5:: Fliess leise, mein Bächlein
-Mitwirkende:: Composed By – Joseph Haydn, Ludwig v. Beethoven, and Carl Maria v. Weber, Bariton - Dietrich Fischer-Dieskau, Piano - Karl Engel, Violine - Helmut Heller, Violoncello - Irmgard Poppen, Flöte - Aurèle Nicolet 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm18706 A1 Schläfst du oder wachst du.mp3
+lpm18706 A2 Heimkehr.mp3
+lpm18706 A3 Maggy Lauder.mp3
+lpm18706 A4 Dort, wo durchs Ried.mp3
+lpm18706 A5 Fliess leise, mein Bächlein.mp3

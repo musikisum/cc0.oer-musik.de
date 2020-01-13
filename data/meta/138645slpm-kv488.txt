@@ -1,12 +1,3 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 488 Klavierkonzert in A-Dur
-Titel:: Wolfgang Amadeus Mozart, Konzert für Klavier und Orchester Nr. 23 A-Dur KV 488, Konzert für Klavier und Orchester Nr. 24 c-Moll KV 491, Bamberger Sinfoniker, Dirigent: Ferdinand Leitner
-Label:: Deutsche Grammophon ‎– 138 645 SLPM
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Konzert für Klavier und Orchester Nr. 23 A-Dur KV 488
-A1:: Allegro  
-A2:: Adagio  
-A3:: Allegro assai
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Conductor – Ferdinand Leitner, Piano - Wilhelm Kempff, Orchestra – Bamberger Synphoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+138645slpm A1 Allegro.mp3
+138645slpm A2 Adagio.mp3
+138645slpm A3 Allegro assai.mp3

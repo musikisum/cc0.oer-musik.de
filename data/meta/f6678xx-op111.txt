@@ -1,11 +1,2 @@
-Display:: Beethoven, Ludwig v. - Op. 111 Sonate für Klavier Nr. 32 in c-Moll (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1932
-Trackliste:: Sonate für Klavier Nr. 32 in c-Moll Op. 111
-Z1:: Maestoso – Allegro con brio appassionato
-Z2:: Adagio molto semplice e cantabile
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx Z1 Maestoso – Allegro con brio ed appassionato.mp3
+f6678xx Z2 Adagio molto semplice e cantabile.mp3

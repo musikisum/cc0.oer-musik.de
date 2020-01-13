@@ -1,16 +1,7 @@
-Display:: Bach, Johann Sebastian - BWV 830 Partita in e-Moll (Glenn Gould)
-Titel:: Johann Sebastian Bach, Partiten Nr. 1-6 BWV 825-830, Glenn Gould Klavier
-Label:: CBS ‎– 77289
-Format:: 2 x Vinyl, LP, Mono
-Land:: Germany
-Veröffentlicht:: 1973 (Aufn. 1957)
-Trackliste:: Partita in e-Moll BWV 830
-B1:: Toccata
-B2:: Allemande
-B3:: Courante
-B4:: Air
-B5:: Sarabande
-B6:: Tempo di Gavotta
-B7:: Gigue
-Mitwirkende:: Composed By Johann Sebastian Bach, Piano - Glenn Gould
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+77289-e B1 Toccata.mp3
+77289-e B2 Allemande.mp3
+77289-e B3 Courante.mp3
+77289-e B4 Air.mp3
+77289-e B5 Sarabande.mp3
+77289-e B6 Tempo di Gavotta.mp3
+77289-e B7 Gigue.mp3

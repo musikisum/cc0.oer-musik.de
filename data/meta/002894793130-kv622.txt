@@ -1,13 +1,3 @@
-Display:: Mozart, Wolfgang Amadé - KV 622 Konzert in A-Dur für Klarinette und Orchester
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1958
-Trackliste:: Konzert in A-Dur für Klarinette und Orchester KV 622
-A1:: Allegro
-A2:: Adagio
-A3:: Rondo Allegro
-Mitwirkende:: Composer - Wolfgang Amadeus Mozart, Clarinet - Heinrich Geuser, Orchestra - Radio-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793130 A1 Allegro.mp3
+002894793130 A2 Adagio.mp3
+002894793130 A3 Rondo Allegro.mp3

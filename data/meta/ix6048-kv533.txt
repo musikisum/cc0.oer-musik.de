@@ -1,12 +1,3 @@
-Display:: Mozart, Wolfgang Amadé - KV 533/494 Sonate für Klavier in F-Dur (Gieseking)
-Title:: Walter Gieseking / Mozart ‎– The Complete Music For Piano Solo, Vol.2
-Label:: Seraphim Records ID-6048
-Format:: 4 x Vinyl, LP, Mono, Box Set
-Land:: GB
-Veröffentlicht:: 1955
-Trackliste:: Sonate für Klavier in F-Dur KV 533 (494)
-D1:: Allegro
-D2:: Andante
-D3:: Rondo in F
-Mitwirkende:: Walter Gieseking (Klavier)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+ix6048 D1 Allegro.mp3
+ix6048 D2 Andante.mp3
+ix6048 D3 Rondo in F.mp3

@@ -1,13 +1,4 @@
-Display:: Smetana, Bedřich - Streichquartett Nr. 2 in d-Moll
-Titel:: Das Meisterkonzert. Smetana-Quartett (Jiri Novak, Lubomir Kostecki, Jaroslav Rybensky, Antonin Kohout), Friedrich Smetana - Streichquartett Nr. 1 in e-moll "Aus meinem Leben", Streichquartett Nr. 2 in d-moll.
-Label:: Supraphon ‎– SUAM 420
-Format:: Vinyl, LP, Mono 
-Land:: Czechoslovakia
-Veröffentlicht:: 1953
-Trackliste:: Streichquartett Nr. 2 in d-Moll
-B2:: Allegro
-B3:: Allegro moderato - Andante cantabile
-B4:: Allegro non piú moderato, ma agitato e con fuoco
-B5:: Finale presto
-Mitwirkende:: Composed By – Bedřich Smetana, Violine - Jiri Novak, Lubomir Kostecki, Viola - Jaroslav Rybensky, Violoncello - Antonin Kohout.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+suam420 B2 Allegro.mp3
+suam420 B3 Allegro moderato - Andante cantabile.mp3
+suam420 B4 Allegro non piú moderato, ma agitato e con fuoco.mp3
+suam420 B5 Finale presto.mp3

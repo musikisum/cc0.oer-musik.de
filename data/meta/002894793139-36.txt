@@ -1,14 +1,4 @@
-Display:: Tschaikowski, Peter I. - Op. 36 Sinfonie Nr. 4 in f-Moll (Fricsay)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1952
-Trackliste:: Sinfonie Nr. 4 in f-Moll Op. 36
-A1:: Andante sostenuto - Moderato con anima - Moderato assai, quasi Andante - Allegro vivo
-A2:: Andantino in modo di canzone
-A3:: Scherzo Pizzicato ostinato - Allegro
-A4:: Finale Allegro con fuoco
-Mitwirkende:: Composer - Peter I. Tschaikowski, Orchestra - RIAS-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793139 A1 Andante sostenuto - Moderato con anima - Moderato assai, quasi Andante - Allegro vivo.mp3
+002894793139 A2 Andantino in modo di canzone.mp3
+002894793139 A3 Scherzo Pizzicato ostinato - Allegro.mp3
+002894793139 A4 Finale Allegro con fuoco.mp3

@@ -1,13 +1,3 @@
-Display:: Mozart, Wolfgang Amadé - KV 595 Klavierkonzert in B-Dur (Haskil)
-Titel:: Wolfgang Amadeus Mozart, Konzert für Klavier und Orchester Nr. 19 F-Dur KV 459, Konzert für Klavier und Orchester Nr. 27 B-Dur KV 595
-Untertitel:: Clara Haskil, Piano. Bayerisches Staatsorchester. Dirigent: Ferenc Friscay
-Label:: Deutsche Grammophon Gesellschaft LPM 18383
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1959
-Trackliste:: Klavierkonzert in B-Dur KV 595
-B1:: Allegro
-B2:: Larghetto
-B3:: Allegro
-Mitwirkende:: Composer - Wolfgang Amadé Mozart, Piano - Clara Haskil, Orchestra - Bayerisches Staatsorchester, Conductor - Ferenc Friscay 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm18383 B1 Allegro.mp3
+lpm18383 B2 Larghetto.mp3
+lpm18383 B3 Allegro.mp3

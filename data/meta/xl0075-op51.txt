@@ -1,10 +1,1 @@
-Display:: Chopin, Frédéric - Op. 51 Impromptu in Ges-Dur (Grychtolówna)
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
-Label:: Muza Polskie Nagrania XL 0075
-Format:: Vinyl, LP, Mono 
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: Impromptu in Ges-Dur Op. 51
-A3:: Impromptu in Ges-Dur
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Lidia Grychtolówna
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+xl0075 A3 Impromptu in Ges-Dur.mp3

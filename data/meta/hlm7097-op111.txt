@@ -1,12 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 111 Sonate für Klavier Nr. 32 in c-Moll (Solomon)
-Titel:: Ludwig van Beethoven - Solomon plays Beethoven Sonatas (Pathétique, Moonlight, Waldstein, Appassionata, Les Audieux, Hammerklavier and No.1 in F minor, No.3 in C, No.7 in D, No.13 in E-flat, No.17 in D minor, No.18 in Eflat, No. 22 in F, No.27 in E minor, No.31 in A flat, No.32 in C minor)
-Label:: EMI
-Format:: Vinyl, LP, Mono 
-Land:: Britain
-Veröffentlicht:: 1948-1956 (Aufnahmedaten)
-Trackliste:: Sonate für Klavier Nr. 32 in c-Moll Op. 111
-L1a:: Maestoso
-L1b:: Allegro con brio appassionato
-L2:: Arietta (con Variazioni)
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Solomon Cutner (Solomon)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+hlm7097 L1a Maestoso.mp3
+hlm7097 L1b Allegro con brio appassionato.mp3
+hlm7097 L2 Arietta (con Variazioni).mp3

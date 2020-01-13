@@ -1,33 +1,24 @@
-Display:: Chopin, Frédéric - Op. 28 24 Preludes (Anda)
-Titel:: Frédéric Chopin - Op. 28 24 Preludes - Géza Anda
-Label:: Deutsche Grammphon 2535 154 Resonance
-Format:: Vinyl, LP, Stereo 
-Land:: Deutschland
-Veröffentlicht:: 1960
-Trackliste:: 24 Preludes Op. 28
-A1:: C-Dur Agitato
-A2:: a-Moll Lento
-A3:: G-Dur Vivace
-A4:: e-Moll Largo
-A5:: D-Dur Molto Allegro
-A6:: h-Moll Lento assai
-A7:: A-Dur Andantino
-A8:: fis-Moll Molto agitato
-A9:: E-Dur Largo
-A10:: cis-Moll Molto Allegro
-A11:: B-Dur Vivace
-A12:: gis-Moll Presto
-A13:: Fis-Dur Lento
-A14:: es-Moll Allegro
-A15:: Des-Dur Sostenuto
-B1:: b-Moll Presto con fuoco
-B2:: As-Dur Allegretto
-B3:: f-Moll Molto Allegro
-B4:: Es-Dur Vivace
-B5:: c-Moll Largo
-B6:: B-Dur Cantabile
-B7:: g-Moll Molto agitato
-B8:: F-Dur Moderato
-B9:: d-Moll Allegro appassionato
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Géza Anda
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+2535154 A1 C-Dur Agitato.mp3
+2535154 A2 a-Moll Lento.mp3
+2535154 A3 G-Dur Vivace.mp3
+2535154 A4 e-Moll Largo.mp3
+2535154 A5 D-Dur Molto Allegro.mp3
+2535154 A6 h-Moll Lento assai.mp3
+2535154 A7 A-Dur Andantino.mp3
+2535154 A8 fis-Moll Molto agitato.mp3
+2535154 A9 E-Dur Largo.mp3
+2535154 A10 cis-Moll Molto Allegro.mp3
+2535154 A11 B-Dur Vivace.mp3
+2535154 A12 gis-Moll Presto.mp3
+2535154 A13 Fis-Dur Lento.mp3
+2535154 A14 es-Moll Allegro.mp3
+2535154 A15 Des-Dur Sostenuto.mp3
+2535154 B1 b-Moll Presto con fuoco.mp3
+2535154 B2 As-Dur Allegretto.mp3
+2535154 B3 f-Moll Molto Allegro.mp3
+2535154 B4 Es-Dur Vivace.mp3
+2535154 B5 c-Moll Largo.mp3
+2535154 B6 B-Dur Cantabile.mp3
+2535154 B7 g-Moll Molto agitato.mp3
+2535154 B8 F-Dur Moderato.mp3
+2535154 B9 d-Moll Allegro appassionato.mp3

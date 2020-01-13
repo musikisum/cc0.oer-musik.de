@@ -1,14 +1,4 @@
-﻿Display:: Brahms, Johannes - Op. 73 Sinfonie Nr. 2 in D-Dur
-Title:: Bruno Walter. Brahms. Symphony No. 2, Academic Festival Overture/Akademische Festouvertüre/Ouverture pour une Fete Académique. Columbia Symphony Orchestra. 
-Label:: CBS
-Format:: CD, Stereo
-Land:: Holland
-Veröffentlicht:: 1985
-Erstveröffentlichung:: 1960
-Trackliste:: Sinfonie in D-Dur Op. 73
-A2:: Allegro non troppo
-A3:: Adagio non troppo
-A4:: Allegretto grazioso (Quasi Andantino)
-A5:: Allegro con spirito
-Mitwirkende:: Composer - Johannes Brahms, Orchestra - The New York Philharmonic, Conductor - Bruno Walter
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿mk42021 A2 Allegro non troppo.mp3
+mk42021 A3 Adagio non troppo.mp3
+mk42021 A4 Allegretto grazioso (Quasi Andantino).mp3
+mk42021 A5 Allegro con spirito.mp3

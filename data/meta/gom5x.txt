@@ -1,16 +1,7 @@
-Display:: Händel, Georg Friedrich - HWV 34 Alcina
-Titel:: Handel - Alcina. Sutherland, Berganza, Freni, Flagello, Sinclair, Sciutti, Alva, London Symphony, Bonynge    
-Label:: DECCA Ace Of Diamonds ‎– GOM 509-511
-Format:: Vinyl, LP, Mono 
-Land:: England
-Veröffentlicht:: 1962
-Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 1 in C-Dur Op. 21
-A::	Akt I, Part 1 "Oh Dei! Qui Vi Non Scorgo"	
-B::	Akt I, Conclusion "Vò Cercando La Bella Cagiòn"	
-C::	Akt II, Part 1 "Col Celarvi A Chi V'Ama Un Momento"	
-D::	Akt II, Part 2 "Non Scorgo Nel Tuo Viso"	
-E1:: Akt II, Conclusion: "Ombre Pallide"	
-E2:: Akt III, Part 1: "Voglio Amar E Disamar"	
-F::	Akt III, Conclusion "Sta Nell' Ircana"
-Mitwirkende:: Composed By – Georg Friedrich Händel, Conductor – Richard Bonynge, Orchestra – London Symphony Orchestra, Bass Vocals [Melisso] – Ezio Flagello, Cello [Continuo] – Kenneth Heath, Contralto Vocals [Bradamante] – Monica Sinclair, Engineer [Uncredited] – Kenneth Wilkinson, Harpsichord [Continuo] – George Malcolm, Libretto By [English Translation By] – Peggie Cochrane, Liner Notes [Introductory Notes] – Ray Minshull, Liner Notes [Synopsis] – Peggie Cochrane, Mastered By – E (24) (tracks: A to B), W (12) (tracks: C to F), Mezzo-soprano Vocals [Ruggiero] – Teresa Berganza, Orchestra – The London Symphony Orchestra, Producer [Uncredited] – Ray Minshull, Soprano Vocals [Alcina] – Joan Sutherland, Soprano Vocals [Morgana] – Graziella Sciutti, Soprano Vocals [Oberto] – Mirella Freni, Tenor Vocals [Oronte] – Luigi Alva
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+gom5x A1 Act 1 Part 1.mp3
+gom5x B1 Act 1 Conclusion.mp3
+gom5x C1 Act 2 Part 1.mp3
+gom5x D1 Act 2 Part 2.mp3
+gom5x E1 Act 2 Conclusion.mp3
+gom5x E2 Act 3 Part 1.mp3
+gom5x F1 Act 3 Conclusion.mp3

@@ -1,14 +1,4 @@
-Display:: Verdi, Giuseppe - Tänze und Ballette aus Aida und Othello (Fricsay)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1960
-Trackliste:: Tänze und Ballette aus Aida und Othello
-A1:: Danza di piccoli schiavi mori (Akt 2)
-A2:: Danza sacra delle sacerdotesse (Akt 1)
-A3:: Ballabile (Akt 2)
-A4:: Ballabili (Ballett)
-Mitwirkende:: Composer - Giuseppe Verdi, Orchestra - RIAS-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793143 A1 Danza di piccoli schiavi mori (Akt 2).mp3
+002894793143 A2 Danza sacra delle sacerdotesse (Akt 1).mp3
+002894793143 A3 Ballabile (Akt 2).mp3
+002894793143 A4 Ballabili (Ballett).mp3

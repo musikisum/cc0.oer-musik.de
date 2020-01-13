@@ -1,16 +1,6 @@
-﻿Display:: Brahms, Johannes - Op. 68 Sinfonie Nr. 1 in c-Moll (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1959
-Trackliste:: Sinfonie in c-Moll Op. 68
-A1a:: Un poco sostenuto
-A1b:: Allegro - meno Allegro
-A2:: Andante sostenuto
-A3:: Un poco Allegretto e grazioso
-A4a:: Adagio - Piu Andante
-A4b:: Allegro non troppo, ma con brio
-Mitwirkende:: Composer - Johannes Brahms, Orchestra - Wiener Philharmoniker, Conductor - Herbert von Karajan
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿600001035 A1a Un poco sostenuto.mp3
+600001035 A1b Allegro - meno Allegro.mp3
+600001035 A2 Andante sostenuto.mp3
+600001035 A3 Un poco Allegretto e grazioso.mp3
+600001035 A4a Adagio - Piu Andante.mp3
+600001035 A4b Allegro non troppo, ma con brio.mp3

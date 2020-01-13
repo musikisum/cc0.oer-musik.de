@@ -1,14 +1,4 @@
-Display:: Bizet, Georges ‎– Carmen Ballett-Musik
-Title:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1957
-Trackliste:: Ballett-Musik
-A13:: Carmen Farandole
-A14:: Carmen Pastorale
-A15:: Carmen Danse bohémienne
-A16:: Carmen Marche
-Mitwirkende:: Composer – Georges Bizet, Orchestra – RIAS-Symphonie-Orchester Berlin, Choir - RIAS-Kammerchor (Pastorale), Conductor – Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793110 A13 Act 4 - Ballet Music - Farandole.mp3
+002894793110 A14 Act 4 - Ballet Music - Pastorale.mp3
+002894793110 A15 Act 4 - Ballet Music - Danse bohemienne.mp3
+002894793110 A16 Act 4 - Ballet Music - Marche.mp3

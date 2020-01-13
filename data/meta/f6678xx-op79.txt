@@ -1,12 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 79 Sonate für Klavier Nr. 25 in G-Dur (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1932
-Trackliste:: Sonate für Klavier Nr. 25 in G-Dur Op. 79
-W1:: Presto alla tedesca
-W2:: Andante
-W3:: Vivace
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx W1 Presto alla tedesca.mp3
+f6678xx W2 Andante.mp3
+f6678xx W3 Vivace.mp3

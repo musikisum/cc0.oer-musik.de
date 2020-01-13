@@ -1,16 +1,3 @@
-Display:: Vivaldi, Antonio - Op. 10 Nr. 3 Concerto Grosso D-Dur PV 155
-Titel:: Archiv Produktion des historischen Studios der Deutschen Grammophon, VIII. Forschungsbereich 'Das italienische Settecento, Seria A: Das Konzert, Antonio Vivaldi (Op. 3 Nr. 11 PV 250, Op. 10 Nr. 3 PV 155, PV 235, PV 137, PV Sinf. 21)
-Label:: Deutsche Grammophon ‎– 14097 APM
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1956-1957
-Werk:: Concerto Grosso Op. 10 Nr. 3 D-Dur PV 250
-Komponist:: Antonio Vivaldi
-A5:: Allegro
-A6:: Cantabile
-A7:: Allegro
-Mitwirkende:: Violine: Wolfgang Schneiderhan, Rudolf Baumgartner, Violoncello: Claude Stark, Querflöte: André Jaunet, Fagott: Rudolf Klepač, Vestival strings Luverne, Leader: Rudolf Baumgartner
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
-
-
-
+14097apm A5 Allegro.mp3
+14097apm A6 Cantabile.mp3
+14097apm A7 Allegro.mp3

@@ -1,13 +1,4 @@
-Display:: Händel, Georg Friedrich - Konzert Op. 4, Nr. 2 in B-Dur (Paillard)
-Titel:: Georg Friedrich Händel - Werke für Orgel und Orchester
-Label:: Fono-Ring ‎– SFGLP 77944
-Format:: Vinyl, LP, Album, Stereo  
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Konzert Op. 4, Nr. 2 in B-Dur 
-A1:: A tempo ordinario e staccato
-A2:: Allegro
-A3:: Adagio e staccato
-A4:: Allegro ma non presto
-Mitwirkende:: Composed By – Händel, Georg Friedrich, Kammerorchester Jean-Françoise Paillard, Organ - Marie-Clare Allain, Conductor - Jean-Françoise Paillard
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+sfglp77944 A1 A tempo ordinario e staccato.mp3
+sfglp77944 A2 Allegro.mp3
+sfglp77944 A3 Adagio e staccato.mp3
+sfglp77944 A4 Allegro ma non presto.mp3

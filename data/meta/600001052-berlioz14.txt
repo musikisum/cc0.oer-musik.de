@@ -1,15 +1,5 @@
-Display:: Berlioz, Hector - Op. 14 Symphonie Fantastique (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1954
-Trackliste:: Symphonie Fantastique Op. 14
-A1:: Rêveries, Passions (Träumereien, Leidenschaften)
-A2:: Un Bal (Ein Ball)
-A3:: Scène aux champs (Szene auf dem Lande)
-A4:: Marche au supplice (Der Gang zum Richtplatz)
-A5:: Songe d’une nuit du Sabbat (Hexensabbat)
-Mitwirkende:: Composed By – Hector Berlioz, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001052 A1 Rêveries, Passions (Träumereien, Leidenschaften).mp3
+600001052 A2 Un Bal (Ein Ball).mp3
+600001052 A3 Scène aux champs (Szene auf dem Lande).mp3
+600001052 A4 Marche au supplice (Der Gang zum Richtplatz).mp3
+600001052 A5 Songe d’une nuit du Sabbat (Hexensabbat).mp3

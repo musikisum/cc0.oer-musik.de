@@ -1,11 +1,2 @@
-Display:: Bartók, Béla - Sz 037 Deux Portraits Op. 5
-Titel:: Béla Bartók. Musik für Saiteninstrumente, Schlagzeug und Celesta. Deux Portraits Op. 5, Radio-Symphonie-Orchester Berlin - Ferenc Fricsay
-Label:: Heliodor 2548104
-Format:: Vinyl, LP, Mono 
-Land:: Deutschland
-Veröffentlicht:: 1958
-Trackliste:: Deux Portraits Op. 5
-B2:: Une Idéale - Andante
-B3:: Une Grotesque - Presto
-Mitwirkende:: Composer - Béla Bartók, Orchestra - Radio-Symphonie-Orchester Berlin, Violine (solo) - Rudolf Schulz, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+2548104 B2 Une Idéale - Andante.mp3
+2548104 B3 Une Grotesque - Presto.mp3

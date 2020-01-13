@@ -1,10 +1,1 @@
-Display:: Mozart, Wolfgang Amadé - KV 179 (189a) Zwölf Variationen über ein Menuett von Fischer (Gieseking)
-Title:: Walter Gieseking / Mozart ‎– The Complete Music For Piano Solo, Vol.1
-Label:: Seraphim Records IC-6047
-Format:: 4 x Vinyl, LP, Mono, Box Set
-Land:: GB
-Veröffentlicht:: 1955
-Trackliste:: Zwölf Variationen über ein Menuett von Fischer KV 179 (189a)
-E4:: Zwölf Variationen in C-Dur
-Mitwirkende:: Walter Gieseking (Klavier)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+ix6047 E4 Zwölf Variationen in C-Dur.mp3

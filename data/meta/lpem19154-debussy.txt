@@ -1,10 +1,1 @@
-Display:: Debussy, Claude ‎- Préludes à L'après-midi d'un faune
-Title:: Fritz Lehmann Dirigiert Schumann, Brahms, Debussy, Strauss.
-Label:: Deutsche Grammophon Gesellschaft LPEM 19154
-Format:: Vinyl, Mono
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Préludes à L'après-midi d'un faune
-B1:: Préludes à L'après-midi d'un faune
-Mitwirkende:: Composer - Robert Schumann, Orchestra - Berliner Philharmoniker, Soloflöte - Aurèle Nicolet, Conductor – Fritz Lehmann.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpem19154 B1 Préludes à L'après-midi d'un faune.mp3

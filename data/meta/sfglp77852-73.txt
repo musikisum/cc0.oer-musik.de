@@ -1,13 +1,4 @@
-Display:: Händel, Georg Friedrich - Konzert Op. 7, Nr. 3 in B-Dur (Paillard)
-Titel:: Georg Friedrich Händel - Werke für Orgel und Orchester
-Label:: Fono-Ring ‎– SFGLP 77852
-Format:: Vinyl, LP, Album, Stereo 
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Konzert Op. 7, Nr. 3 in B-Dur 
-B1:: Allegro
-B2:: Adagio
-B3:: Spiritoso
-B4:: Menuett
-Mitwirkende:: Composed By – Händel, Georg Friedrich, Kammerorchester Jean-Françoise Paillard, Organ - Marie-Clare Allain, Conductor - Jean-Françoise Paillard
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+sfglp77852 B1 Allegro.mp3
+sfglp77852 B2 Adagio.mp3
+sfglp77852 B3 Spiritoso.mp3
+sfglp77852 B4 Menuett.mp3

@@ -1,13 +1,3 @@
-Display:: Vivaldi, Antonio - PV 436 Concerto in c-Moll 
-Titel:: Vivaldi Konzerte für zwei Violinen, Streicher und Continuo d-Moll P. 281, c-Moll P. 436, g-Moll P. 366, D-Dur P. 189. David Oistrach, Isaak Stern, The Philadelphia Orchestra, Eugene Ormandy 
-Label:: Fontana ‎– 699 061 CL
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1950
-Werk:: Konzert für zwei Violinen, Streicher und Continuo c-Moll P. 436
-Komponist:: Antonio Vivaldi
-A2a:: Allegro ma poco e cantabile
-A2b:: Andante molto
-A2c:: Allegro
-Mitwirkende:: Composer – Antonio Vivaldi; Violins – David Oistrach, Isaak Stern; Orchestra – The Philadelphia Orchestra; Leader – Eugene Ormandy 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+699061cl A2a Allegro ma poco e cantabile.mp3
+699061cl A2b Andante molto.mp3
+699061cl A2c Allegro.mp3

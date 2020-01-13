@@ -1,12 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 27, Nr. 2 Sonate quasi una Fantasia für Klavier Nr. 14 in cis-Moll (Mondschein) (Solomon)
-Titel:: Ludwig van Beethoven - Solomon plays Beethoven Sonatas (Pathétique, Moonlight, Waldstein, Appassionata, Les Audieux, Hammerklavier and No.1 in F minor, No.3 in C, No.7 in D, No.13 in E-flat, No.17 in D minor, No.18 in Eflat, No. 22 in F, No.27 in E minor, No.31 in A flat, No.32 in C minor)
-Label:: EMI
-Format:: Vinyl, LP, Mono 
-Land:: Britain
-Veröffentlicht:: 1948-1956 (Aufnahmedaten)
-Trackliste:: Sonate für Klavier Nr. 14 in cis-Moll Op. 27, Nr. 2
-C5:: Adagio sostenuto
-C6:: Allegretto
-D1:: Presto agitato - Adagio - Tempo I
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Solomon Cutner (Solomon)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+hlm7097 C5 Adagio sostenuto.mp3
+hlm7097 C6 Allegretto.mp3
+hlm7097 D1 Presto agitato - Adagio - Tempo I.mp3

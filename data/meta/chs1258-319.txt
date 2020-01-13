@@ -1,16 +1,4 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 319 Sinfonie in B-Dur
-Titel:: Wolfgang Amadeus Mozart, Sinfonie Nr. 33 in B-Dur KV 319, Netherlands Philharmonic Orchestra, Dirigent: Walter Goehr
-Label:: Concert Hall Society ‎– CHS 1258
-Format:: Vinyl, LP, Mono 
-Land:: US
-Veröffentlicht:: 1952/1953
-Trackliste:: Sinfonie Nr. 33 in B-Dur KV 319
-A1:: Allegro assai
-A2:: Andante moderato
-A3:: Minuetto
-A4:: Allegro assai
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Conductor – Walter Goehr, Orchestra - Netherlands Philharmonic Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
-
-
-
+chs1258 A1 Allegro assai.mp3
+chs1258 A2 Andante moderato.mp3
+chs1258 A3 Minuetto.mp3
+chs1258 A4 Allegro assai.mp3

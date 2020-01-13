@@ -1,12 +1,3 @@
-Display:: Chopin, Frédéric - Op. 59 Drei Mazurken 
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
-Label:: Muza Polskie Nagrania XL 9400
-Format:: Vinyl, LP, Mono 
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: Drei Mazurken Op. 59
-B3:: Mazurka in a-moll Op. 59, Nr. 1
-B4:: Mazurka in As-Dur Op. 59, Nr. 2
-B5:: Mazurka in fis-moll Op. 59, Nr. 3
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Henryk Sztompka
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+xl0094 B3 Mazurka in a-moll Op. 59, Nr. 1.mp3
+xl0094 B4 Mazurka in As-Dur Op. 59, Nr. 2.mp3
+xl0094 B5 Mazurka in fis-moll Op. 59, Nr. 3.mp3

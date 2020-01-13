@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 2, Nr. 3 Sonate für Klavier Nr. 3 in C-Dur (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1934
-Trackliste:: Sonate für Klavier Nr. 3 in C-Dur Op. 2, Nr. 3
-C1:: Allegro con brio
-C2:: Adagio 
-C3:: Menuetto (Allegro) und Trio
-C4:: Allegro assai
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx C1 Allegro con brio.mp3
+f6678xx C2 Adagio.mp3
+f6678xx C3 Menuetto (Allegro) und Trio.mp3
+f6678xx C4 Allegro assai.mp3

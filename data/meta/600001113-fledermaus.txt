@@ -1,11 +1,1 @@
-Display:: Strauss (Sohn), Johann - Die Fledermaus (Ouvertüre) (Karajan)
-Titel:: Herbert von Karajan. 1938–1960 Collection
-Label:: Intense Media
-Format:: CD-Box (117 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1958-1960
-Trackliste:: Die Fledermaus (Ouvertüre)
-A21:: Die Fledermaus (Balettmusik)
-Mitwirkende:: Composer - Johann Strauss (Sohn), Orchestra - Wiener Philharmoniker, Conductor - Herbert v. Karajan.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001113 A21 Die Fledermaus (Balettmusik).mp3

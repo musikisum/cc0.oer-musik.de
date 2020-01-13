@@ -1,12 +1,3 @@
-Display:: Mozart, Wolfgang Amadé - KV 285 Flötenquartett in D-Dur
-Title:: W. A. Mozart, Flötenquartette. D-dur kv285, G-dur kv285A, C-dur kv285b, A-dur kv298. Samuel Baron - Flöte, Mitglieder des Fine Arts Quartet.
-Label:: Bärenreiter - Musicaphon BM 30 SL 1809
-Format:: Vinyl, LP, Stereo
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Flötenquartett in D-Dur KV 285
-A1:: Allegro
-A2:: Adagio
-A3:: Rondeau (Allegretto)
-Mitwirkende:: Composer - Wolfgang Amadeus Mozart, Samuel Baron - Flöte, Leonhard Sorkin - Violine, Irving Ilmer - Viola, George Sopkin - Violoncello [= Mitglieder des Fine Arts Quartett]
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+sl1809 A1 Allegro.mp3
+sl1809 A2 Adagio.mp3
+sl1809 A3 Rondeau (Allegretto).mp3

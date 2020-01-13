@@ -1,13 +1,4 @@
-Display:: Biber, Heinrich Ignaz Franz - Rosenkranz-Sonate Nr. 2 in A-Dur (Lautenbacher)
-Titel:: Biber - Rosenkranz-Sonaten über die 15 Mysterien aus dem Marienleben   
-Label:: VOX ‎– SVBX 552
-Format:: Vinyl, 3 x LP, Stereo 
-Land:: USA
-Veröffentlicht:: 1962
-Trackliste:: Rosenkranz-Sonate Nr. 2 in A-Dur
-A2a:: Sonata 
-A2b:: Presto 
-A2c:: Allemande
-A2d:: Presto
-Mitwirkende:: Composed By – Heinrich Ignaz Franz Biber, Violin – Susanne Lautenbacher, Positiv/Hapsichord/Regal - Rudolf Ewerhart
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+svbx552 A2a Sonata.mp3
+svbx552 A2b Presto.mp3
+svbx552 A2c Allemande.mp3
+svbx552 A2d Presto.mp3

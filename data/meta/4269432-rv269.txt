@@ -1,13 +1,3 @@
-Display:: Vivaldi, Antonio - Op. 8, Nr. 1, Concerto in E-Dur RV 269 (»La primavera«)
-Titel:: Vivaldi 12 Concerti Op. 8. »Il Cimento dell'Armonia e dell'Inventione« incl. »Le quatro Stagioni«. I Musici, Felix Ayo 
-Label:: Philips 426 943-2
-Format:: CD-Box (2 x CD) 
-Land:: Germany
-Veröffentlicht:: 1991
-Erstveröffentlichung:: 1959
-Trackliste:: Concerto in E-Dur RV 269 (»La primavera«)
-A1:: Allegro
-A2:: Largo
-A3:: Allegro
-Mitwirkende:: Composer – Antonio Vivaldi, Orchestra – I Musici, Violine – Felix Ayo, Cembalo - Maria Teresa Garatti 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+426943-2 A1 Allegro.mp3
+426943-2 A2 Largo.mp3
+426943-2 A3 Allegro.mp3

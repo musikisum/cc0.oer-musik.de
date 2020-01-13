@@ -1,12 +1,3 @@
-Display:: Mozart, Wolfgang Amadé - KV 491 Konzert für Klavier in c-Moll (Haskil)
-Titel:: Clara Haskil. Mozart, Klavierkonzert d-Moll KV 466, Klavierkonzert c-Moll KV 491, Orchestre des Concerts Lamoureux, Igor Markevitch.
-Label:: Philips L 02071 L
-Format:: Vinyl, LP, Mono 
-Land:: Deutschland
-Veröffentlicht:: 1960
-Trackliste:: Konzert Nr. 24 für Klavier in c-Moll KV 491
-B1:: (Allegro)
-B2:: Larghetto
-B3:: (Allegretto)
-Mitwirkende:: Composed By – Wolfgang Amdé Mozart, Piano - Clara Haskil, Orchestra - Orchestre des Concerts Lamoureux, Conductor - Igor Markevitch
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+l02071 B1 (Allegro).mp3
+l02071 B2 Larghetto.mp3
+l02071 B3 (Allegretto).mp3

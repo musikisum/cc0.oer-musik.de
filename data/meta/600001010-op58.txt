@@ -1,13 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 58 Klavierkonzert Nr. 4 in G-Dur (Haskil/Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1952
-Trackliste:: Klavierkonzert Nr. 4 in G-Dur Op. 58
-A1:: Allegro moderato
-A2:: Andante con moto
-A3:: Rondo vivace
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Wiener Symphoniker, Piano - Clara Haskil
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001010 A1 Allegro moderato.mp3
+600001010 A2 Andante con moto.mp3
+600001010 A3 Rondo vivace.mp3

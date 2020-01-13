@@ -1,13 +1,4 @@
-Display:: Schubert, Franz - Op. 142 Vier Impromtus
-Titel:: Franz Schubert - Impromptus op. 142, 3 Klavierstücke op. posth., Jörg Demus, Piano 
-Label:: Deutsche Grammophon ‎– SLPM 136008
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Vier Impromtus Op. 142
-A1:: Nr. 1 in f-Moll - Allegro moderato
-A2:: Nr. 2 in As-Dur - Allegretto
-A3:: Nr. 3 in B-Dur - Thema mit Variationen
-B1:: Nr. 4 in f-Moll - Allegro scherzando
-Mitwirkende:: Composed By Franz Schubert, Piano - Jörg Demus
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+slpm136008 A1  Nr. 1 in f-Moll - Allegro moderato.mp3
+slpm136008 A2 Nr. 2 in As-Dur - Allegretto.mp3
+slpm136008 A3 Nr. 3 in B-Dur - Thema mit Variationen.mp3
+slpm136008 B1 Nr. 4 in f-Moll - Allegro scherzando.mp3

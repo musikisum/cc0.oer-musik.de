@@ -1,12 +1,3 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 576 Sonate für Klavier in D-Dur (Gieseking)
-Title:: Walter Gieseking / Mozart ‎– The Complete Music For Piano Solo, Vol.2
-Label:: Seraphim Records ID-6048
-Format:: 4 x Vinyl, LP, Mono, Box Set
-Land:: GB
-Veröffentlicht:: 1955
-Trackliste:: Sonate für Klavier in D-Dur KV 576
-H1:: Allegro
-H2:: Adagio
-H3:: Allegretto
-Mitwirkende:: Walter Gieseking (Klavier)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿ix6048 H1 Allegro.mp3
+ix6048 H2 Adagio.mp3
+ix6048 H3 Allegretto.mp3

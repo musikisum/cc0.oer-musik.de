@@ -1,11 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 47 Sonate für Violine und Klavier A-Dur (Kreutzer-Sonate)
-Titel:: Beethoven - Rubinstein, Szeryng ‎– Kreutzer- und Frühlingsssonate
-Label:: RCA Red Seal ‎– LSC 2377-B
-Format:: Vinyl, LP, Album, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Sonate für Violine und Klavier A-dur Op. 47 (Kreutzer-Sonate)
-A1:: Adagio sostenuto
-A2:: Andante con Variazioni	
-B1:: Finale. Presto
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Liner Notes – Arthur Loesser, Piano – Arthur Rubinstein, Violin – Henryk Szeryng
+lsc2377b A1 Adagio sostenuto.mp3
+lsc2377b A2 Andante con Variazioni.mp3
+lsc2377b B1 Finale. Presto.mp3

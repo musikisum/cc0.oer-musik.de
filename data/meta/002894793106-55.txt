@@ -1,14 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 55 Sinfonie Nr. 3 in Es-Dur (Fricsay)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1960
-Trackliste:: Sinfonie Nr. 3 in Es-Dur Op. 55
-A1:: Allegro con brio
-A2:: Marcia funebre (Adagio assai)
-A3:: Scherzo (Allegro vivace)
-A4:: Finale (Allegro molto)
-Mitwirkende:: Composer - Ludwig v. Beethoven, Orchestra - Berliner Philharmoniker, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793106 A1 Allegro con brio.mp3
+002894793106 A2 Marcia funebre (Adagio assai).mp3
+002894793106 A3 Scherzo (Allegro vivace).mp3
+002894793106 A4 Finale (Allegro molto).mp3

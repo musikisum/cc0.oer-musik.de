@@ -1,14 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 67 Sinfonie Nr. 5 in c-Moll (Fricsay)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1962
-Trackliste:: Sinfonie Nr. 5 in c-Moll Op. 67
-A1:: Allegro con brio
-A2:: Andante con moto
-A3:: Allegro
-A4:: Allegro
-Mitwirkende:: Composer - Ludwig v. Beethoven, Orchestra - Berliner Philharmoniker, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793107 A1 Allegro con brio.mp3
+002894793107 A2 Andante con moto.mp3
+002894793107 A3 Allegro.mp3
+002894793107 A4 Allegro.mp3

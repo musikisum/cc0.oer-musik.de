@@ -1,13 +1,4 @@
-Display:: Schubert, Franz - Op. 99 Trio für Klavier, Violine und Violoncello in B-Dur
-Titel:: Franz Schubert - Klaviertrio in B-Dur op. 99, Ludwig van Beethoven - Variationen in Es-dur op. 44, Trio di Trieste
-Label:: Deutsche Grammophon 138053 SLPM
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Trio für Klavier, Violine und Violoncello in B-Dur Op. 99
-A1:: Allegro moderato
-A2:: Andante un poco mosso
-A3:: Scherzo - Allegro
-B1:: Rondo - Allegro vivace
-Mitwirkende:: Composer - Franz Schubert, Trio di Trieste, Piano - Dario de Rosa, Violine Renato Zanettovich, Violoncello - Libero Lana
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+slpm138053 A1 Allegro moderato.mp3
+slpm138053 A2 Andante un poco mosso.mp3
+slpm138053 A3 Scherzo - Allegro.mp3
+slpm138053 B1 Rondo - Allegro vivace.mp3

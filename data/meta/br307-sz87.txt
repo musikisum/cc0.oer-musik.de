@@ -1,11 +1,2 @@
-Display:: Bartók, Béla - Sz 87 Rhapsodie Nr. 1 für Orchester (Serly)
-Titel:: Béla Bartók. Deux Images for Orchestra (1910) und Two Rhapsodien (1928) - The New Symphony Orchestra - Tibor Serly ( Conductor), Emmanuel Vardi (Violin)
-Label:: Bartók Records BR 307
-Format:: Vinyl, LP, Mono 
-Land:: USA
-Veröffentlicht:: 1951
-Trackliste:: Rhapsodie Nr. 1 für Orchester Sz 87
-B1a:: I Lassu
-B1b:: II Friss
-Mitwirkende:: Composer - Béla Bartók, Orchestra - The New Symphony Orchestra, Conductor - Tibor Serly, Violin - Emmanuel Vardi
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+br307 B1a I Lassu.mp3
+br307 B1b II Friss.mp3

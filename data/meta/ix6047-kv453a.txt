@@ -1,10 +1,1 @@
-Display:: Mozart, Wolfgang Amadé - KV 453a Kleiner Trauermarsch in c-Moll (Gieseking)
-Title:: Walter Gieseking / Mozart ‎– The Complete Music For Piano Solo, Vol.1
-Label:: Seraphim Records IC-6047
-Format:: 4 x Vinyl, LP, Mono, Box Set
-Land:: GB
-Veröffentlicht:: 1955
-Trackliste:: Kleiner Trauermarsch in c-Moll KV 453a
-F6:: Kleiner Trauermarsch
-Mitwirkende:: Walter Gieseking (Klavier)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+ix6047 F6 Kleiner Trauermarsch.mp3

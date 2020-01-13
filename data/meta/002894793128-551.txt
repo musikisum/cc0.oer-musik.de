@@ -1,14 +1,4 @@
-Display:: Mozart, Wolfgang Amadé - KV 551 Sinfonie in C-Dur (»Jupiter«)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1961
-Trackliste:: Sinfonie in C-Dur KV 551
-A5:: Allegro Vivace
-A6:: Andante cantabile
-A7:: Menuetto Allegretto
-A8:: Molto Allegro
-Mitwirkende:: Composer - Wolfgang Amadeus Mozart - Wiener Symphoniker, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793128 A5 Allegro Vivace.mp3
+002894793128 A6 Andante cantabile.mp3
+002894793128 A7 Menuetto Allegretto.mp3
+002894793128 A8 Molto Allegro.mp3

@@ -1,18 +1,9 @@
-Display:: Bach, Johann Sebastian - BWV 807, Englische Suite Nr. 2 in a-Moll (Kirkpatrick)
-Title:: Archiv Produktion des musikhistorischen Studios der Deutschen Grammophon Gesellschaft, IX. Forschungsbereich 'Das Schaffen Johann Sebastian Bachs', Serie G: Werke für Klavier, Englische Suiten Nr. 1 A-Dur, BWV 806 und Nr. 2 a-Moll, BWV 807, Ralph Kirkpatrick, Cembalo
-Label:: Archiv Produktion – 14072 APM
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1956
-Trackliste:: Johann Sebastian Bach - Englische Suite Nr. 2 in a-Moll BWV 807
-B1:: Prélude
-B2:: Allemande
-B3:: Courante
-B4a:: Sarabande
-B4b:: Les agrements de la meme Sarabande
-B5:: Bourée I
-B6:: Bourée II
-B7:: Bourée I
-B8:: Gigue
-Mitwirkende:: Composed By – Johann Sebastian Bach, Cembalo – Ralph Kirkpatrick
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+14072apm B1 Prélude.mp3
+14072apm B2 Allemande.mp3
+14072apm B3 Courante.mp3
+14072apm B4a Sarabande.mp3
+14072apm B4b Les agrements de la meme Sarabande.mp3
+14072apm B5 Bourée I.mp3
+14072apm B6 Bourée II.mp3
+14072apm B7 Bourée I.mp3
+14072apm B8 Gigue.mp3

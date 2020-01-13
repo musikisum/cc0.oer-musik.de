@@ -1,13 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 37 Konzert für Klavier und Orchester in c-Moll (Fricsay)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1960
-Trackliste:: Konzert für Klavier und Orchester in c-Moll Op. 37
-A1:: Allegro con brio
-A2:: Largo
-A3:: Rondo Allegro
-Mitwirkende:: Composer - Ludwig v. Beethoven, Klavier - Annie Fischer, Orchestra - Bayerisches Staatsorchester, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793104 A1 Allegro con brio.mp3
+002894793104 A2 Largo.mp3
+002894793104 A3 Rondo Allegro.mp3

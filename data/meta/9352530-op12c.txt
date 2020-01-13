@@ -1,13 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 12, Nr. 3 Sonate für Violine und Klavier Es-Dur
-Titel:: Ludwig van Beethoven. Violin Sonatas I
-Label:: Brilliant Classics 93525/31
-Format:: CD 
-Land:: Germany
-Veröffentlicht:: 2007
-Erstveröffentlichung:: 1956/1957
-Trackliste:: Sonate für Violine und Klavier Es-Dur Op. 12, Nr. 3
-A7:: Allegro con spirito
-A8:: Adagio con molt'espressione
-A9:: Rondo (Allegro molto)
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Violin – Arthur Grumiaux, Piano – Clara Haskil
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+9352530 A7 Allegro con spirito.mp3
+9352530 A8 Adagio con molt'espressione.mp3
+9352530 A9 Rondo (Allegro molto).mp3

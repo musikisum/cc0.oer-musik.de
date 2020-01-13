@@ -1,13 +1,3 @@
-﻿Display:: Vivaldi, Antonio - Op. 3 Nr. 8 Concerto grosso in a-Moll RV 522
-Titel:: David & Igor Oistrach. Bach, Händel, Vivaldi, Benda, Wieniawski, Sarasate.
-Label:: Deutsche Grammophon ‎– 463 616-2
-Format:: CD, Mono/Stereo
-Land:: Germany
-Veröffentlicht:: 2000
-Erstveröffentlichung:: 1962
-Trackliste:: Concerto grosso Op. 3, Nr. 8 in a-Moll RV 522
-A1:: Vivaldi Op. 8 Nr. 3 RV 522 Allegro
-A2:: Vivaldi Op. 8 Nr. 3 RV 522 Larghetto e spirituoso
-A3:: Vivaldi Op. 8 Nr. 3 RV 522 - Allegro
-Mitwirkende:: Violine – David und Igor Oistrach, Orchestra - Royal Philharmonic Orchestra, Conductor - David Oistrach.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿4636162 A1 Vivaldi Op. 8 Nr. 3 RV 522 Allegro.mp3
+4636162 A2 Vivaldi Op. 8 Nr. 3 RV 522 Larghetto e spirituoso.mp3
+4636162 A3 Vivaldi Op. 8 Nr. 3 RV 522 - Allegro.mp3

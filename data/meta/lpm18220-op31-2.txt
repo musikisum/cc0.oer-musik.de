@@ -1,12 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 31, Nr. 2 Sonate für Klavier in d-Moll (Aeschbacher)
-Titel:: Ludwig v. Beethoven, Klaviersonate Nr. 17 d-Moll op. 31 Nr. 2 (Der Sturm), Klaviersonate Nr. 26 Es-Dur op. 81a (Les Audieux), Rondo a capriccio G-Dur op. 129 (Die Wut über den verlorenen Groschen), Adrian Aeschbacher, Piano.
-Label:: Deutsche Grammophon LPM 18220
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1957
-Trackliste:: Sonate für Klavier in d-Moll Op. 31, Nr. 2
-A1:: Largo - Allegro
-A2:: Adagio
-A3:: Allegretto
-Mitwirkende:: Composer - Ludwig v. Beethoven, Piano - Adrian Aeschbacher
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm18220 A1 Largo - Allegro.mp3
+lpm18220 A2 Adagio.mp3
+lpm18220 A3 Allegretto.mp3

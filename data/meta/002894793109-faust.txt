@@ -1,17 +1,7 @@
-﻿Display:: Gounod, Charles - Ballett Musik (aus ›Faust‹)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1960
-Trackliste:: Ballett Musik (aus ›Faust‹)
-A7:: Waltz (Allegretto)
-A8:: Ensemble (Adagio)
-A9:: Dance of the Nubians
-A10:: Cleopatra's Dance
-A11:: Dance of the Trojan Maidens
-A12:: Helen's Dance
-A13:: Bacchanalia
-Mitwirkende:: Composer - Charles Gounod, Orchestra - Radio-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793109 A7 Waltz (Allegretto).mp3
+002894793109 A8 Ensemble (Adagio).mp3
+002894793109 A9 Dance of the Nubians.mp3
+002894793109 A10 Cleopatra's Dance.mp3
+002894793109 A11 Dance of the Trojan Maidens.mp3
+002894793109 A12 Helen's Dance.mp3
+002894793109 A13 Bacchanalia.mp3

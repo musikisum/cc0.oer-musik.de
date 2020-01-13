@@ -1,10 +1,1 @@
-﻿Display:: Tschaikowski, Peter I. - Fantasie-Ouvertüre aus »Romeo und Julia«
-Titel:: Toscanini Edition, Peter Tschaikowski, Nußknacker-Suite Op. 71a, Fantasie-Ouvertüre aus »Romeo und Julia«, NBC Symphony Orchestra, Dirigent: Arturo Toscanini 
-Label:: RCA ‎– SFGLP 78387
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1959/1960
-Trackliste:: Nußknacker-Suite Op. 71a
-B1:: Fantasie-Ouvertüre aus Romeo und Julia
-Mitwirkende:: Composed by Peter Tschaikowski, Orchestra - NBC Symphony Orchestra, Conductor - Arturo Toscanini
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿sfglp87387 B1 Fantasie-Ouvertüre aus Romeo und Julia.mp3

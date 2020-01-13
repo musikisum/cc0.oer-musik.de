@@ -1,15 +1,5 @@
-Display:: Dvořák, Antonín - Op. 95 Sinfonie Nr. 9 in e-Moll (»Aus der neuen Welt«) (Fricsay)
-Title:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1960
-Trackliste:: Sinfonie Nr. 9 in e-Moll Op. 95
-A1a:: Adagio
-A1b:: Allegro molto
-A2:: Largo
-A3:: Scherzo Molto vivace
-A4:: Allegro con fuoco
-Mitwirkende:: Composer - Antonín Dvořák, Orchestra – Berliner Philharmoniker, Conductor – Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793116 A1a Adagio.mp3
+002894793116 A1b Allegro molto.mp3
+002894793116 A2 Largo.mp3
+002894793116 A3 Scherzo Molto vivace.mp3
+002894793116 A4 Allegro con fuoco.mp3

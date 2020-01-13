@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 31, Nr. 3 Sonate für Klavier in Es-Dur (Haskil)
-Titel:: L'Art De Clara Haskil. Mozart-Beethoven-Schubert-Schumann-Chopin-Scarlatti-Ravel-De Falla
-Label:: Philips 420525-1
-Format:: Vinyl, LP, Box-Set, Stereo 
-Land:: Holland
-Veröffentlicht:: 1962
-Trackliste:: Sonate für Klavier in Es-Dur Op. 31, Nr. 3
-J1:: Allegro
-J2:: Scherzo (Allegro vivace)
-J3:: Menuetto (Moderato e grazioso)
-J4:: Presto con fuoco
-Mitwirkende:: Composer - Ludwig v. Beethoven, Piano - Clara Haskil
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+420525-1 J1 Allegro.mp3
+420525-1 J2 Scherzo (Allegro vivace).mp3
+420525-1 J3 Menuetto (Moderato e grazioso).mp3
+420525-1 J4 Presto con fuoco.mp3

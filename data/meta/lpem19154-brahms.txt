@@ -1,10 +1,1 @@
-Display:: Brahms, Johannes ‎- Op. 81 Tragische Ouvertüre
-Title:: Fritz Lehmann Dirigiert Schumann, Brahms, Debussy, Strauss.
-Label:: Deutsche Grammophon Gesellschaft LPEM 19154
-Format:: Vinyl, Mono
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Tragische Ouvertüre Op. 81
-A2:: Tragische Ouvertüre
-Mitwirkende:: Composer - Robert Schumann, Orchestra - Bamberger Philharmoniker, Conductor – Fritz Lehmann.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpem19154 A2 Tragische Ouvertüre.mp3

@@ -1,13 +1,4 @@
-Display:: Händel, Georg Friedrich - Op. 3 Nr. 4 Concerto grosso in F-Dur
-Titel:: Georg Friedrich Händel - August Wenzinger - Cappella Coloniensis ‎– Concerti Grossi Op.3 (II) - Concerto Grosso C-Dur (Aus dem Alexanderfest)
-Label:: Deutsche Grammphon LPM 18227
-Format:: Vinyl, LP, Album, Mono 
-Land:: Deutschland
-Veröffentlicht:: 1959
-Trackliste:: Concerto Grosso Op.3, Nr. 4 in F-Dur
-A1:: (Ouvertüre) - Allegro - (Ouvertüre)
-A2:: Andante
-A3:: Allegro
-A4:: Allegro (Menuett - Trio)
-Mitwirkende:: Composed By – Georg Friedrich Händel, Orchestra - Cappella Coloniensis, Conductor - August Wenzinger
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm14240 A1 (Ouvertüre) - Allegro - (Ouvertüre).mp3
+lpm14240 A2 Andante.mp3
+lpm14240 A3 Allegro.mp3
+lpm14240 A4 Allegro (Menuett - Trio).mp3

@@ -1,11 +1,1 @@
-Display:: Mascagni, Pietro - Intermezzo aus ›L'Amico Fritz‹ (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1951–1959
-Trackliste:: Intermezzo aus L'Amico Fritz
-A14:: Intermezzo
-Mitwirkende:: Composed By – Pietro Mascagni, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001112 A14 Intermezzo.mp3

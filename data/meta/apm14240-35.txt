@@ -1,14 +1,5 @@
-Display:: Händel, Georg Friedrich - Op. 3 Nr. 5 Concerto grosso in d-Moll
-Titel:: Georg Friedrich Händel - August Wenzinger - Cappella Coloniensis ‎– Concerti Grossi Op.3 (II) - Concerto Grosso C-Dur (Aus dem Alexanderfest)
-Label:: Deutsche Grammphon LPM 18227
-Format:: Vinyl, LP, Album, Mono 
-Land:: Deutschland
-Veröffentlicht:: 1959
-Trackliste:: Concerto Grosso Op.3, Nr. 5 in d-Moll
-A5:: (Ouvertüre)
-A6:: Fuga - Allegro
-A7:: Adagio
-A8:: Allegro ma non troppo
-A9:: Allegro
-Mitwirkende:: Composed By – Georg Friedrich Händel, Orchestra - Cappella Coloniensis, Conductor - August Wenzinger 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm14240 A5 (Ouvertüre).mp3
+lpm14240 A6 Fuga - Allegro.mp3
+lpm14240 A7 Adagio.mp3
+lpm14240 A8 Allegro ma non troppo.mp3
+lpm14240 A9 Allegro.mp3

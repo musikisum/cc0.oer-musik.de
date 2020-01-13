@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 2, Nr. 1 Sonate für Klavier Nr. 1 in f-Moll (Solomon)
-Titel:: Ludwig van Beethoven - Solomon plays Beethoven Sonatas (Pathétique, Moonlight, Waldstein, Appassionata, Les Audieux, Hammerklavier and No.1 in F minor, No.3 in C, No.7 in D, No.13 in E-flat, No.17 in D minor, No.18 in Eflat, No. 22 in F, No.27 in E minor, No.31 in A flat, No.32 in C minor)
-Label:: EMI
-Format:: Vinyl, LP, Mono 
-Land:: Britain
-Veröffentlicht:: 1948-1956 (Aufnahmedaten)
-Trackliste:: Sonate für Klavier Nr. 1 in f-Moll Op. 2, Nr. 1
-A1:: Allegro
-A2:: Adagio
-A3:: Minuetto (Allegretto) und Trio
-A4:: Prestissimo - L'istesso tempo
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Solomon Cutner (Solomon)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+hlm7097 A1 Allegro.mp3
+hlm7097 A2 Adagio.mp3
+hlm7097 A3 Minuetto (Allegretto) und Trio.mp3
+hlm7097 A4 Prestissimo - L'istesso tempo.mp3

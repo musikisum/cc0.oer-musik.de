@@ -1,13 +1,3 @@
-Display:: Bartók, Béla - Sz 119 Konzert für Klavier und Orchester Nr. 3 (Anda)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1955
-Trackliste:: Konzert für Klavier und Orchester Nr. 3 Sz 119
-A4:: Allegretto
-A5:: Adagio religioso
-A6:: Allegro vivace
-Mitwirkende:: Composer - Béla Bartók, Piano - Géza Anda, Orchestra - Radio-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793103 A4 Allegretto.mp3
+002894793103 A5 Adagio religioso.mp3
+002894793103 A6 Allegro vivace.mp3

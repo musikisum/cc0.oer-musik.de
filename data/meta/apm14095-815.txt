@@ -1,16 +1,7 @@
-Display:: Bach, Johann Sebastian - BWV 815, Französische Suite Nr. 4 in Es-Dur (Kirkpatrick)
-Title:: Archiv Produktion des musikhistorischen Studios der Deutschen Grammophon Gesellschaft, IX. Forschungsbereich 'Das Schaffen Johann Sebastian Bachs', Serie G: Werke für Klavier, Französische Suiten Nr. 1 d-Moll BWV 812, Nr. 2 c-Moll BWV 811, Nr. 3 h-Moll BWV 814 und Nr. 4 Es-Dur BWV 815. Ralph Kirkpatrick, Cembalo
-Label:: Archiv Produktion – APM 14095
-Format:: Vinyl, LP, Mono
-Land:: Germany
-Veröffentlicht:: 1957
-Trackliste:: Johann Sebastian Bach - Französische Suite Nr. 4 in Es-Dur BWV 815
-B7:: Allemande
-B8:: Courante
-B9:: Sarabande
-B10:: Gavotte
-B11:: Menuett
-B12:: Air
-B13:: Gigue
-Mitwirkende:: Composed By – Johann Sebastian Bach, Cembalo – Ralph Kirkpatrick
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+apm14095 B7 Allemande.mp3
+apm14095 B8 Courante.mp3
+apm14095 B9 Sarabande.mp3
+apm14095 B10 Gavotte.mp3
+apm14095 B11 Menuett.mp3
+apm14095 B12 Air.mp3
+apm14095 B13 Gigue.mp3

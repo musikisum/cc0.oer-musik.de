@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 67 Sinfonie Nr. 5 in c-Moll (Maazel)
-Titel:: Beethoven - Symphonie Nr. 5, Schubert, Symphonie Nr. 8. Berliner Philharmoniker, Dirigent: Lorin Maazel   
-Label:: Deutsche Grammophon Gesellschaft (Resonance) ‎– 2535103
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1961
-Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 5 in c-Moll Op. 67
-A3:: Allegro con brio
-B1:: Andante con moto
-B2:: Allegro
-B3:: Allegro (attacca)
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Lorin Maazel, Orchestra – Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+2535193 A3 Allegro con brio.mp3
+2535193 B1 Andante con moto.mp3
+2535193 B2 Allegro.mp3
+2535193 B3 Allegro (attacca).mp3

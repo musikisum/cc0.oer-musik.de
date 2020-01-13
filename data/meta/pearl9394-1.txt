@@ -1,14 +1,4 @@
-Display:: Helge Roswaenge - Arien 1928–1938 (Mozart, Beethoven, Weber)
-Titel:: Helge Roswaenge - Puccini/Verdi/Mozart/Beethoven/Weber
-Label:: Pearl 9394
-Format:: CD, Mono
-Land:: UK
-Veröffentlicht:: 1989
-Erstveröffentlichung:: 1928–1938
-Trackliste:: Arien 1928–1938 (auf deutsch gesungen)
-A2:: Un'aura amorosa (Mozart - Cosi van Tutte)
-A3:: Il mio tesoro (Mozart - Don Giovanni)
-A12:: Szene des Florestan (Beethoven - Fidelio)
-A13:: Szene des Max (Carl Maria von Weber - Freischütz)
-Mitwirkende:: Tenor - Helge Roswaenge, Sopran - Hedwig von Debicka (A4/A5/A7), Sopran - Margherita Perras (A8), Bariton - Gerhard Hüsch (A6/A11.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+pearl9394 A2 Un'aura amorosa (Mozart - Cosi van Tutte).mp3
+pearl9394 A3 Il mio tesoro (Mozart - Don Giovanni).mp3
+pearl9394 A12 Szene des Florestan (Beethoven - Fidelio).mp3
+pearl9394 A13 Szene des Max (Carl Maria von Weber - Freischütz).mp3

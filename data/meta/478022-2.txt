@@ -1,12 +1,3 @@
-Display:: Tschaikowski, Peter I. - Op. 44 Klavierkonzert Nr. 2 in G-Dur
-Titel:: Peter Tschaikowsky, Klavierkonzert Nr. 1 in b-moll, Klavierkonzert Nr. 2 in G-dur, Edith Farnadi  
-Label:: Heliodor ‎– 478022
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1959
-Trackliste:: Klavierkonzert Nr. 2 in G-Dur Op. 44
-B1:: Allegro brillante
-B2:: Andantino semplice
-B3:: Allegro con fuoco
-Mitwirkende:: Composed By – P. I. Tschaikowsky, Conductor – Hermann Scherchen, Orchestra – Orchester der Wiener Staatsoper, Klavier - Edith Farnadi.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+478022 B1 Allegro brillante.mp3
+478022 B2 Andantino semplice.mp3
+478022 B3 Allegro con fuoco.mp3

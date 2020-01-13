@@ -1,12 +1,3 @@
-Display:: Schubert, Franz - Op. posth. Drei Klavierstücke (Impromtus Op. posth.)
-Titel:: Franz Schubert - Impromptus op. 142, 3 Klavierstücke op. posth., Jörg Demus, Piano 
-Label:: Deutsche Grammophon ‎– SLPM 136008
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Drei Klavierstücke (Impromtus Op. posth.)
-B2:: Nr. 1 in es-Moll - Allegro assai
-B3:: Nr. 2 in Es-Dur - Allegretto
-B4:: Nr. 3 in C-Dur - Allegro
-Mitwirkende:: Composed By Franz Schubert, Piano - Jörg Demus
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+slpm136008 B2 Nr. 1 in es-Moll - Allegro assai.mp3
+slpm136008 B3 Nr. 2 in Es-Dur - Allegretto.mp3
+slpm136008 B4 Nr. 3 in C-Dur - Allegro.mp3

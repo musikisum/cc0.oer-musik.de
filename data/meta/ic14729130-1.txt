@@ -1,57 +1,1 @@
-Display:: Bach, Johann Sebastian ‎– BWV 846-857 Wohltemperierte Clavier 1 (Walcha)
-Title:: Johann Sebastian Bach, Das Cembalowerk 3. Folge, Das Wohltemperierte Clavier erster und zweiter Teil, Helmut Walcha, Ammer-Cembalo
-Label:: EMI Electrola C147-291302/34
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1961
-Trackliste:: Präludien und Fugen
-B1a:: Präludium in C-Dur BWV 846
-B1b:: Fuge in C-Dur BWV 846
-B2a:: Präludium in c-Moll BWV 847
-B2b:: Fuge in c-Moll BWV 847
-B3a:: Präludium in Cis-Dur BWV 848
-B3b:: Fuge in Cis-Dur BWV 848
-B4a:: Präludium in cis-Moll BWV 849
-B4b:: Fuge in cis-Moll BWV 849
-B5a:: Präludium in D-Dur BWV 850
-B5b:: Fuge in D-Dur BWV 850
-B6a:: Präludium in d-Moll BWV 851
-B6b:: Fuge in d-Moll BWV 851
-C1a:: Präludium in Es-Dur BWV 852
-C1b:: Fuge in Es-Dur BWV 852
-C2a:: Präludium in es-Moll BWV 853
-C2b:: Fuge in dis-Moll BWV 853
-C3a:: Präludium in E-Dur BWV 854
-C3b:: Fuge in E-Dur BWV 854
-C4a:: Präludium in e-Moll BWV 855
-C4b:: Fuge in e-Moll BWV 855
-C5a:: Präludium in F-Dur BWV 856
-C5b:: Fuge in F-Dur BWV 856
-C6a:: Präludium in f-Moll BWV 857
-C6b:: Fuge in f-Moll BWV 857
-D1a:: Präludium in Fis-Dur BWV 858
-D1b:: Fuge in Fis-Dur BWV 858
-D2a:: Präludium in fis-Moll BWV 859
-D2b:: Fuge in fis-Moll BWV 859
-D3a:: Präludium in G-Dur BWV 860
-D3b:: Fuge in G-Dur BWV 860
-D4a:: Präludium in g-Moll BWV 861
-D4b:: Fuge in g-Moll BWV 861
-D5a:: Präludium in As-Dur BWV 862
-D5b:: Fuge in As-Dur BWV 862
-D6a:: Präludium in gis-Moll BWV 863
-D6b:: Fuge in gis-Moll BWV 863
-D7a:: Präludium in A-Dur BWV 864
-D7b:: Fuge in A-Dur BWV 864
-E1a:: Präludium in a-Moll BWV 865
-E1b:: Fuge in a-Moll BWV 865
-E2a:: Präludium in B-Dur BWV 866
-E2b:: Fuge in B-Dur BWV 866
-E3a:: Präludium in b-Moll BWV 867
-E3b:: Fuge in b-Moll BWV 867
-E4a:: Präludium in H-Dur BWV 868
-E4b:: Fuge in H-Dur BWV 868
-E5a:: Präludium in h-Moll BWV 869
-E5b:: Fuge in h-Moll BWV 869
-Mitwirkende:: Composed By – Johann Sebatian Bach, Helmut Walcha, Ammer-Cembalo
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+ic1472913 B1a Präludium in C-Dur BWV 846.mp3ic1472913 B1b Fuge in C-Dur BWV 846.mp3ic1472913 B2a Präludium in c-Moll BWV 847.mp3ic1472913 B2b Fuge in c-Moll BWV 847.mp3ic1472913 B3a Präludium in Cis-Dur BWV 848.mp3ic1472913 B3b Fuge in Cis-Dur BWV 848.mp3ic1472913 B4a Präludium in cis-Moll BWV 849.mp3ic1472913 B4b Fuge in cis-Moll BWV 849.mp3ic1472913 B5a Präludium in D-Dur BWV 850.mp3ic1472913 B5b Fuge in D-Dur BWV 850.mp3ic1472913 B6a Präludium in d-Moll BWV 851.mp3ic1472913 B6b Fuge in d-Moll BWV 851.mp3ic1472913 C1a Präludium in Es-Dur BWV 852.mp3ic1472913 C1b Fuge in Es-Dur BWV 852.mp3ic1472913 C2a Präludium in es-Moll BWV 853.mp3ic1472913 C2b Fuge in dis-Moll BWV 853.mp3ic1472913 C3a Präludium in E-Dur BWV 854.mp3ic1472913 C3b Fuge in E-Dur BWV 854.mp3ic1472913 C4a Präludium in e-Moll BWV 855.mp3ic1472913 C4b Fuge in e-Moll BWV 855.mp3ic1472913 C5a Präludium in F-Dur BWV 856.mp3ic1472913 C5b Fuge in F-Dur BWV 856.mp3ic1472913 C6a Präludium in f-Moll BWV 857.mp3ic1472913 C6b Fuge in f-Moll BWV 857.mp3ic1472913 D1a Präludium in Fis-Dur BWV 858.mp3ic1472913 D1b Fuge in Fis-Dur BWV 858.mp3ic1472913 D2a Präludium in fis-Moll BWV 859.mp3ic1472913 D2b Fuge in fis-Moll BWV 859.mp3ic1472913 D3a Präludium in G-Dur BWV 860.mp3ic1472913 D3b Fuge in G-Dur BWV 860.mp3ic1472913 D4a Präludium in g-Moll BWV 861.mp3ic1472913 D4b Fuge in g-Moll BWV 861.mp3ic1472913 D5a Präludium in As-Dur BWV 862.mp3ic1472913 D5b Fuge in As-Dur BWV 862.mp3ic1472913 D6a Präludium in gis-Moll BWV 863.mp3ic1472913 D6b Fuge in gis-Moll BWV 863.mp3ic1472913 D7a Präludium in A-Dur BWV 864.mp3ic1472913 D7b Fuge in A-Dur BWV 864.mp3ic1472913 E1a Präludium in a-Moll BWV 865.mp3ic1472913 E1b Fuge in a-Moll BWV 865.mp3ic1472913 E2a Präludium in B-Dur BWV 866.mp3ic1472913 E2b Fuge in B-Dur BWV 866.mp3ic1472913 E3a Präludium in b-Moll BWV 867.mp3ic1472913 E3b Fuge in b-Moll BWV 867.mp3ic1472913 E4a Präludium in H-Dur BWV 868.mp3ic1472913 E4b Fuge in H-Dur BWV 868.mp3ic1472913 E5a Präludium in h-Moll BWV 869.mp3ic1472913 E5b Fuge in h-Moll BWV 869.mp3

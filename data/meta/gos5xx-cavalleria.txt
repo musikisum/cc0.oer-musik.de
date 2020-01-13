@@ -1,12 +1,4 @@
-Display:: Mascagni, Pietro - Cavalleria Rusticana (Opera in einem Akt)
-Title:: Pietro Mascagni, Cavalleria Rusticana / Ruggiero Leoncavallo, I Pagliacci
-Label:: Decca GOS 588 - GOS 590
-Format:: Vinyl, 3x LP, Stereo 
-Land:: England
-Veröffentlicht:: 1960
-Tracks:: Pietro Mascagni, Cavalleria Rusticana
-A1:: Prelude And Siciliana-Oh Lola, Ch'Ai Di Latti-Ah, Gil Aranci Olezzano-Dite, Mamma Lucia-Il Cavallo Scalpita  
-B1:: Beato Vio, Compar Alfio-Regina Coeli-Inneggiamo Il Signor-Voi Lo Sapete-Tu Qui Santuzza-Fior Di Giaggiolo-Ah Lo Vedi  
-C1:: Ah, Il Signore Vi-Intermezzo-A Casa-Viva El Vino (Brindis)-A Voi Tutti Salute-Mamma, Quel Vino E Generoso  
-Mitwirkende:: Chorus And Orchestra Of The Appedemia Of Santa Cecilia Roma, Baritone Vocals – Cornell MacNeil, Composed By – Pietro Mascagni, Conductor – Tullio Serafin, Mezzo-soprano Vocals – Ana Raquel Satre, Anna Di Stasio, Giulietta Simionato, Tenor Vocals – Mario del Monaco
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+gos5xx A1 Prelude And Siciliana-Oh Lola, Ch'Ai Di Latti-Ah, Gil Aranci Olezzano-Dite, Mamma Lucia-Il Cavallo Scalpita.mp3
+gos5xx B1 Beato Vio, Compar Alfio-Regina Coeli-Inneggiamo Il Signor-Voi Lo Sapete-Tu Qui Santuzza-Fior Di Giaggiolo-Ah Lo Vedi.mp3
+gos5xx C1 Ah, Il Signore Vi-Intermezzo-A Casa-Viva El Vino (Brindis)-A Voi Tutti Salute-Mamma, Quel Vino E Generoso.mp3
+gos5xx C1z Arie des Turriddu (Mamma, quel vino è generoso).mp3

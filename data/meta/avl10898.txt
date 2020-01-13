@@ -1,14 +1,5 @@
-Display:: Berlioz, Hector - Op. 14 Symphonie Fantastique
-Titel:: H. Berlioz ‎– Symphonie Fantastique - Charles Munch	
-Label:: RCA Victrola
-Format:: Vinyl, LP, Album, Stereo 
-Land:: France
-Veröffentlicht:: 1962
-Trackliste:: Symphonie Fantastique Op. 14
-A1:: Rêverie, Passions
-A2:: Un Bal
-B1:: Scène aux Champs
-B2:: Marche au Supplice
-B3:: Songe d'une Nuit de Sabbat
-Mitwirkende:: Composed By – Hector Berlioz, Conductor - Charles Munch, Orchestre - Boston Symphonique Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+avl10898 A1 Rêverie, Passions.mp3
+avl10898 A2 Un Bal.mp3
+avl10898 B1 Scène aux Champs.mp3
+avl10898 B2 Marche au Supplice.mp3
+avl10898 B3 Songe d'une Nuit de Sabbat.mp3

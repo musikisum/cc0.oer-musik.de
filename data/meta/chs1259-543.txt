@@ -1,14 +1,5 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 543 Sinfonie in Es-Dur
-Titel:: Wolfgang Amadeus Mozart, Sinfonie Nr. 39 Es-dur KV 543, Winterthur Symphonic Orchestra, Dirigent: Walter Goehr
-Label:: Concert Hall Society ‎– CHS 1259
-Format:: Vinyl, LP, Mono 
-Land:: US
-Veröffentlicht:: 1952/1953
-Trackliste:: Sinfonie Nr. 39 Es-dur KV 543 
-B1a:: Adagio 
-B1b:: Allegro  
-B2:: Andante con moto
-B3:: Menuetto (Allegretto)
-B4:: Finale (Allegro)
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Conductor – Walter Goehr, Orchestra - Winterthur Symphonic Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+chs1259 B1a Adagio.mp3
+chs1259 B1b Allegro.mp3
+chs1259 B2 Andante con moto.mp3
+chs1259 B3 Menuetto (Allegretto).mp3
+chs1259 B4 Finale (Allegro).mp3

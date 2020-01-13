@@ -1,13 +1,4 @@
-Display:: Händel, Georg Friedrich - Konzert Op. 7, Nr. 2 in A-Dur (Paillard)
-Titel:: Georg Friedrich Händel - Werke für Orgel und Orchester
-Label:: Fono-Ring ‎– SFGLP 77852
-Format:: Vinyl, LP, Album, Stereo 
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Konzert Op. 7, Nr. 2 in A-Dur 
-A4:: Ouvertüre
-A5:: A tempo ordinario
-A6:: Adagio
-A7:: Allegro
-Mitwirkende:: Composed By – Händel, Georg Friedrich, Kammerorchester Jean-Françoise Paillard, Organ - Marie-Clare Allain, Conductor - Jean-Françoise Paillard
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+sfglp77852 A4 Ouvertuere.mp3
+sfglp77852 A5 A tempo ordinario.mp3
+sfglp77852 A6 Adagio.mp3
+sfglp77852 A7 Allegro.mp3

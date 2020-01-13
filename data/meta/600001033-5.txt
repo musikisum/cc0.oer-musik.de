@@ -1,14 +1,4 @@
-Display:: Schubert, Franz - D 485 Sinfonie Nr. 5 in B-Dur (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1958
-Trackliste:: Sinfonie Nr. 5 in B-Dur D 485
-A1:: Allegro
-A2:: Andante con moto
-A3:: Menuetto. Allegro molto - Trio
-A4:: Allegro vivace
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001033 A1 Allegro.mp3
+600001033 A2 Andante con moto.mp3
+600001033 A3 Menuetto. Allegro molto - Trio.mp3
+600001033 A4 Allegro vivace.mp3

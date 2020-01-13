@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 93 Sinfonie Nr. 8 in F-Dur (Karajan)
-Titel:: Ludwig v. Beethoven, 9 Symphonien, Berliner Philharmoniker, Dirigent: Herbert v. Karajan   
-Label:: Deutsche Grammophon Gesellschaft ‎– 004307
-Format:: Vinyl, LP, Mono
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 8 in F-Dur Op. 93 
-M1:: Allegro vivace e con brio
-M2:: Allegretto scherzando
-M3:: Tempo di Menuetto
-M4:: Allegro vivace
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+004307 M1 Allegro vivace e con brio.mp3
+004307 M2 Allegretto scherzando.mp3
+004307 M3 Tempo di Menuetto.mp3
+004307 M4 Allegro vivace.mp3

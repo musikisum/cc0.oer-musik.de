@@ -1,16 +1,6 @@
-Display:: Schumann, Robert - Op. 120 Sinfonie Nr. 4 in d-Moll (Konwitschny)
-Titel:: Schumann-Edition
-Label:: Brilliant Classics 95020-1 - 95020-45
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2015
-Erstveröffentlichung:: 1962
-Trackliste:: Sinfonie Nr. 4 in d-Moll Op. 120
-A6a:: Ziemlich langsam
-A6b:: Lebhaft
-A7:: Romanze - Ziemlich langsam
-A8:: Scherzo. Lebhaft – Trio
-A9a:: Langsam
-A9b:: Lebhaft – Presto
-Mitwirkende:: Composer - Robert Schumann, Orchestra - Gewandhausorchester Leipzig, Conductor - Franz Konwitschny.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+950202 A6a Ziemlich langsam.mp3
+950202 A6b Lebhaft.mp3
+950202 A7 Romanze - Ziemlich langsam.mp3
+950202 A8 Scherzo. Lebhaft – Trio.mp3
+950202 A9a Langsam.mp3
+950202 A9b Lebhaft – Presto.mp3

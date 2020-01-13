@@ -1,14 +1,4 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 504 Sinfonie in D-Dur (»Prager«)
-Titel:: Wolfgang Amadeus Mozart, Sinfonie Nr. 38 D-Dur KV 504 (Prager Sinfonie), Netherlands Philharmonic Orchestra, Dirigent: Otto Ackermann
-Label:: Concert Hall Society ‎– CHS 1260
-Format:: Vinyl, LP, Mono 
-Land:: US
-Veröffentlicht:: 1952/1953
-Trackliste:: Sinfonie Nr. 38 D-Dur KV 504 (Prager Sinfonie) 
-A1a:: Adagio  
-A1b:: Allegro
-A2:: Andante
-A3:: Finale - Presto
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Conductor – Otto Ackermann, Orchestra - Netherlands Philharmonic Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
-
+chs1260 A1a Adagio.mp3
+chs1260 A1b Allegro.mp3
+chs1260 A2 Andante.mp3
+chs1260 A3 Finale - Presto.mp3

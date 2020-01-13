@@ -1,13 +1,4 @@
-Display:: Schubert, Franz - D 417 Sinfonie Nr. 4 in c-Moll (»Tragische«)
-Titel:: Franz Schubert, Sinfonie Nr. 4 c-Moll (Tragische) - Nr. 8 h-Moll (Unvollendete), Berliner Philharmoniker, Dirigent: Lorin Maazel
-Label:: Deutsche Grammophon ‎– LPM 18 128
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Sinfonie Nr. 4 in c-Moll D 417 (»Tragische«)
-A1:: Adagio molto - Allegro vivace  
-A2:: Andante  
-A3:: Menuetto: Allegro vivace  
-A4:: Allegro 
-Mitwirkende:: Composed By Franz Schubert, Conductor – Lorin Maazel, Orchestra - Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm18628 A1 Adagio molto - Allegro vivace.mp3
+lpm18628 A2 Andante.mp3
+lpm18628 A3 Menuetto (Allegro vivace).mp3
+lpm18628 A4 Allegro.mp3

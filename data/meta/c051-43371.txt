@@ -1,42 +1,32 @@
-Display:: Bach, Johann Sebastian - BWV 988 Goldberg-Variationen
-Titel:: J. S. Bach Variations Goldberg
-Untertitel:: Wanda Landowska
-Label:: EMI Références C 051-43371
-Format:: Vinyl, LP, Mono 
-Land:: France
-Veröffentlicht:: 1934
-Werk:: Goldberg Variationen BWV 988
-A1:: Aria
-A10:: Variatio 9 (Canone alla Terza)
-A11:: Variatio 10 (Fugetta)
-A12:: Variatio 11
-A13:: Variatio 12 (Canone alla Quarta)
-A14:: Variatio 13
-A15:: Variatio 14
-A16:: Variatio 15 (andante. Canone alla Quinta)
-A17:: Variatio 16 (Ouverture)
-A2:: Variatio 1
-A3:: Variatio 2
-A4:: Variatio 3 (Canone all Unisuono)
-A5:: Variatio 4
-A6:: Variatio 5
-A7:: Variatio 6 (Canone alla Seconda)
-A8:: Variatio 7 (al tempo di Giga)
-A9:: Variatio 8
-B1:: Variatio 17
-B10:: Variatio 26
-B11:: Variatio 27 (Canone alla Nona)
-B12:: Variatio 28
-B13:: Variatio 29
-B14:: Variatio 30 (Quodlibet)
-B15:: Aria da Capo è Fine
-B2:: Variatio 18 (Canone alla Sexta)
-B3:: Variatio 19
-B4:: Variatio 20
-B5:: Variatio 21 (Canone alla Settima)
-B6:: Variatio 22 (alla breve)
-B7:: Variatio 23
-B8:: Variatio 24 (Canone all Ottava)
-B9:: Variatio 25 (adagio)
-Mitwirkende:: Cembalo - Wanda Landowska
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+c051-43371 A1 Aria.mp3
+c051-43371 A10 Variatio 9 (Canone alla Terza).mp3
+c051-43371 A11 Variatio 10 (Fugetta).mp3
+c051-43371 A12 Variatio 11.mp3
+c051-43371 A13 Variatio 12 (Canone alla Quarta).mp3
+c051-43371 A14 Variatio 13.mp3
+c051-43371 A15 Variatio 14.mp3
+c051-43371 A16 Variatio 15 (andante. Canone alla Quinta).mp3
+c051-43371 A17 Variatio 16 (Ouverture).mp3
+c051-43371 A2 Variatio 1.mp3
+c051-43371 A3 Variatio 2.mp3
+c051-43371 A4 Variatio 3 (Canone all Unisuono).mp3
+c051-43371 A5 Variatio 4.mp3
+c051-43371 A6 Variatio 5.mp3
+c051-43371 A7 Variatio 6 (Canone alla Seconda).mp3
+c051-43371 A8 Variatio 7 (al tempo di Giga).mp3
+c051-43371 A9 Variatio 8.mp3
+c051-43371 B1 Variatio 17.mp3
+c051-43371 B10 Variatio 26.mp3
+c051-43371 B11 Variatio 27 (Canone alla Nona).mp3
+c051-43371 B12 Variatio 28.mp3
+c051-43371 B13 Variatio 29.mp3
+c051-43371 B14 Variatio 30 (Quodlibet).mp3
+c051-43371 B15 Aria da Capo è Fine.mp3
+c051-43371 B2 Variatio 18 (Canone alla Sexta).mp3
+c051-43371 B3 Variatio 19.mp3
+c051-43371 B4 Variatio 20.mp3
+c051-43371 B5 Variatio 21 (Canone alla Settima).mp3
+c051-43371 B6 Variatio 22 (alla breve).mp3
+c051-43371 B7 Variatio 23.mp3
+c051-43371 B8 Variatio 24 (Canone all Ottava).mp3
+c051-43371 B9 Variatio 25 (adagio).mp3

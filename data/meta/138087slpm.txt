@@ -1,12 +1,3 @@
-﻿Display:: Beethoven, Ludwig v. - Op. 37 Klavierkonzert Nr. 3 c-Moll
-Titel:: Ludwig van Beethoven, Konzert für Klavier und Orchester Nr. 3 c-Moll op. 37 - Wolfgang Amadeus Mozart, Konzertrondos für Klavier D-Dur KV 382 und A-Dur KV 386 - Annie Fischer, Piano - Bayerisches Staatsorchester - Dirigent: Ferenc Fiscay
-Label:: Deutsche Grammophon ‎– 138 087 SLPM
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Klavierkonzert Nr. 3 c-Moll op. 37  
-A1:: Allegro con brio
-A2:: Largo
-B1:: Rondo - Allegro
-Mitwirkende:: Composed By – Ludwig v. Beethoven, Piano - Annie Fischer, Orchestra - Bayerisches Staatsorchester, Conductor – Ferenc Fiscay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿138087slpm A1 Allegro con brio.mp3
+138087slpm A2 Largo.mp3
+138087slpm B1 Rondo - Allegro.mp3

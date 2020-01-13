@@ -1,14 +1,4 @@
-﻿Display:: Bach, Johann Sebastian - BWV 1018 Sonate für Violine und Cembalo Nr. 5 in f-Moll
-Titel:: David Oistrach spielt Bach - Sonate für Violine und Cembalo Nr. 5 in f-Moll BWV 1018, Sonate für Violine und Cembalo Nr. 6 in G-Dur BWV 1019
-Untertitel:: David und Igor Oistrach, Gewandhausorchester Leipzig, Dirigent: Franz Konwitchny
-Label:: Deutsche Grammophon ‎– 138 677 SLPM
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1961
-Werk:: Sonate für Violine und Cembalo Nr. 5 in f-Moll BWV 1018
-A1:: Largo
-A2:: Allegro
-A3:: Adagio
-A4:: Vivace
-Mitwirkende:: Violin – David Oistrach, Cembalo - Hans Pischner
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+138677slpm A1 Largo.mp3
+138677slpm A2 Allegro.mp3
+138677slpm A3 Adagio.mp3
+138677slpm A4 Vivace.mp3

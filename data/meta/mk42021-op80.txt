@@ -1,11 +1,1 @@
-Display:: Brahms, Johannes ‎- Op. 80 Akademische Festouvertüre
-Titel:: Bruno Walter. Brahms. Symphony No. 4, Tragic Overture/Tragische Ouvertüre/Ouverture Tragique. Columbia Symphony Orchestra. 
-Label:: CBS
-Format:: CD, Stereo
-Land:: Holland
-Veröffentlicht:: 1985
-Erstveröffentlichung:: 1960
-Trackliste:: Akademische Festouvertüre Op. 80
-A1:: Akademische Festouvertüre
-Mitwirkende:: Composer - Brahms, Johannes, Orchestra - Columbia Symphony Orchestra, Conductor – Bruno Walter.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+mk42021 A1 Akademische Festouvertüre.mp3

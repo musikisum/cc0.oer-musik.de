@@ -1,11 +1,2 @@
-Display:: Chopin, Frédéric - Op. 40 Polonaisen in A-Dur und c-Moll (Czerny-Stefańska)
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
-Label:: Muza Polskie Nagrania XL 0059 
-Format:: Vinyl, LP, Mono 
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: Polonaisen in A-Dur und c-Moll Op. 40
-A1:: Polonaise A-Dur Nr. 1
-A2:: Polonaise c-Moll Nr. 2
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Halina Czerny-Stefańska
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+xl0058 A1 Polonaise A-Dur Nr. 1.mp3
+xl0058 A2 Polonaise c-Moll Nr. 2.mp3

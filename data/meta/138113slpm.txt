@@ -1,13 +1,4 @@
-Display:: Brahms, Johannes - Op. 68 Sinfonie Nr. 1 in c-Moll
-Titel:: Johannes Brahms - Sinfonie Nr. 1 in c-Moll op. 68, Symphony No. 1 in C minor, Op. 68, Berliner Philharmoniker, Dirgent: Karl Böhm
-Label:: Deutsche Grammophon ‎– 138 113 SLPM
-Format:: Vinyl, LP, Stereo 
-Land:: London
-Veröffentlicht:: 1960
-Trackliste:: Sinfonie Nr. 1 in c-Moll Op. 68 
-A1:: Un poco sostenuto - Allegro - meno Allegro  
-A2:: Andante sostenuto  
-B1:: Un poco Allegretto e grazzioso attacca 
-B2:: Adagio - Piu Andante - Allegro non troppo, ma con brio - Piu Allegro
-Mitwirkende:: Composed By – Johannes Brahms, Conductor – Karl Böhm, Orchestra – Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+138113slpm A1 Un poco sostenuto - Allegro - meno Allegro.mp3
+138113slpm A2 Andante sostenuto.mp3
+138113slpm B1 Un poco Allegretto e grazzioso attacca.mp3
+138113slpm B2 Adagio - Piu Andante - Allegro non troppo, ma con brio - Piu Allegro.mp3

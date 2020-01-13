@@ -1,10 +1,1 @@
-Display:: Schumann, Robert ‎- Op. 115 Manfred-Ouverture
-Title:: Fritz Lehmann Dirigiert Schumann, Brahms, Debussy, Strauss.
-Label:: Deutsche Grammophon Gesellschaft LPEM 19154
-Format:: Vinyl, Mono
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Manfred-Ouverture Op. 115
-A1:: Manfred Ouvertüre
-Mitwirkende:: Composer - Robert Schumann, Orchestra - Bamberger Philharmoniker, Conductor – Fritz Lehmann.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpem19154 A1 Manfred Ouvertüre.mp3

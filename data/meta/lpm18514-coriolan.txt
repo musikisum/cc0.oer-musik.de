@@ -1,13 +1,1 @@
-﻿Display:: Beethoven, Ludwig v. ‎- Op. 62 Coriolan-Ouvertüre
-Title:: Ludwig van Beethoven, Sinfonie Nr. 7 A-Dur und Coriolan-Ouvertüre, Berliner Philharmoniker, Dirigent: Karl Böhm
-Label:: Deutsche Grammophon ‎– LPM 18 514
-Format:: Vinyl, LP, Album, Mono 
-Land:: Germany
-Veröffentlicht:: 1959
-Trackliste:: Sinfonie Nr. 7 A-Dur op. 92  
-A1:: Poco sostenuto - vivace  
-A2:: Allegretto  
-B1:: Assai meno presto (quasi attacca)  
-B2:: Allegro con brio  
-B3:: Coriolan-Ouvertüre, op. 62  
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Karl Böhm, Orchestra – Berliner Philharmoniker
+﻿lpm18514 B3 Coriolan Overtüre op62.mp3

@@ -1,11 +1,2 @@
-Display:: Chopin, Frédéric - Op. 22 Andante spianato und Grande Polonaise Brilliante in Es-Dur (Czerny-Stefańska)
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
-Label:: Muza Polskie Nagrania XL 0057
-Format:: Vinyl, LP, Mono 
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: 
-A1a:: Andante spianato
-A1b:: Grande Polonaise Brilliante in Es-Dur
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Halina Czerny-Stefańska, Conductor - Witold Rowicki, Orchestra – Orkiestra Symfoniczna Filharmonii Narodowej (Warschauer Philharmonisches Symphonieorchester)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+xl0057 A1a Andante spianato.mp3
+xl0057 A1b Grande Polonaise Brilliante in Es-Dur.mp3

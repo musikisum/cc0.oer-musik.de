@@ -1,13 +1,4 @@
-Display:: Carissimi, Giacomo - Duette (Schwarzkopf/Seefried)
-Titel:: Duette von Monteverdi, Carissimi und Dvořák. Irmgard Seefried, Elisabeth Schwarzkopf, Gerald Moore 
-Label:: EMI Dacapo 1C 037 1432401 
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1956
-Werk:: Duette von Giacomo Carissimi
-A5:: Detesta la cativa sorte in Amore
-A6:: Lungi omai
-A7:: Il mio Core
-A8:: A pie d'un verde alloro
-Mitwirkende:: Composed By – Claudio Monteverdi, Sopran - Elisabeth Schwarzkopf, Sopran - Irmgard Seefried, Klavier - Gerald Moore. 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+1c0371432401 A5 Detesta la cativa sorte in Amore.mp3
+1c0371432401 A6 Lungi omai.mp3
+1c0371432401 A7 Il mio Core.mp3
+1c0371432401 A8 A pie d'un verde alloro.mp3

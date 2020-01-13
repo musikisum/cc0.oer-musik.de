@@ -1,14 +1,5 @@
-Display:: Mozart, Wolfgang Amadé - KV 516 Quintett in g-Moll (Heifetz-Piatigorsky)
-Titel:: The Heifetz-Piatigorsky Concerts with Primrose an Guests. Mozart Quintette (G minor), Mendelssohn Octette (E flat major), Schubert Quintette (C major), Brahms Sextette (G major)m Frank Piano Quintette (f minor)
-Label:: RCA ‎– LSC 6159-1/6159-2/6159-3
-Format:: Vinyl, 3 x LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Quintett in g-Moll KV 516
-B1:: Allegro	
-B2:: Menuetto - Allegretto
-B3:: Adagio ma non troppo	
-B4a:: Adagio
-B4b:: Allegro
-Mitwirkende:: Composed by Wolfgang Amadé Mozart, Violine - Jascha Heifetz, Israel Baker, Viola - William Primrose, Virginia Majewski, Cello - Gregor Piatigorsky
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lsc6159 B1 Allegro.mp3
+lsc6159 B2 Menuetto - Allegretto.mp3
+lsc6159 B3 Adagio ma non troppo.mp3
+lsc6159 B4a Adagio.mp3
+lsc6159 B4b Allegro.mp3

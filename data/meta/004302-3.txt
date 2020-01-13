@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 55 Sinfonie Nr. 3 in Es-Dur (Karajan)
-Titel:: Ludwig v. Beethoven, 9 Symphonien, Berliner Philharmoniker, Dirigent: Herbert v. Karajan   
-Label:: Deutsche Grammophon Gesellschaft ‎– 004302
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 3 in Es-Dur Op. 55
-A1:: Allegro con brio
-A2:: Marcia funebre (Adagio assai)
-B1:: Scherzo (Allegro vivace)
-B2:: Finale (Allegro molto - poco Andante - Presto)
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+004302 C1 Allegro con brio.mp3
+004302 C2 Marcia funebre (Adagio assai).mp3
+004302 D1 Scherzo (Allegro vivace).mp3
+004302 D2 Finale (Allegro molto - poco Andante - Presto).mp3

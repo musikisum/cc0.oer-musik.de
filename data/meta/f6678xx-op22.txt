@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 22 Sonate für Klavier Nr. 11 in B-Dur (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1935
-Trackliste:: Sonate für Klavier Nr. 11 in B-Dur Op. 22
-I1:: Allegro con brio
-I2:: Adagio con molto espressione
-I3:: Menuetto
-I4:: Rondo (Allegretto)
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx I1 Allegro con brio.mp3
+f6678xx I2 Adagio con molto espressione.mp3
+f6678xx I3 Menuetto.mp3
+f6678xx I4 Rondo (Allegretto).mp3

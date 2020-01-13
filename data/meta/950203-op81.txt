@@ -1,11 +1,1 @@
-Display:: Schumann, Robert - Op. 81 Ouvertüre zu Genoveva (Konwitschny)
-Titel:: Schumann-Edition
-Label:: Brilliant Classics 95020-1 - 95020-45
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2015
-Erstveröffentlichung:: 1962
-Trackliste:: Ouvertüre zu Genoveva Op. 81
-A4:: Overtüre
-Mitwirkende:: Composer - Robert Schumann, Orchestra - Gewandhausorchester Leipzig, Conductor - Franz Konwitschny.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+950203 A4 Overtüre.mp3

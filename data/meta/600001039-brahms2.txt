@@ -1,14 +1,4 @@
-Display:: Brahms, Johannes - Op. 83 Klavierkonzert Nr. 2 in B-Dur (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1955
-Trackliste:: Klavierkonzert Nr. 2 in B-Dur Op. 83
-A1:: Allegro non troppo
-A2:: Allegro appassionato
-A3:: Andante
-A4:: Allegretto grazioso
-Mitwirkende:: Composed By – Johannes Brahms, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001039 A1 Allegro non troppo.mp3
+600001039 A2 Allegro appassionato.mp3
+600001039 A3 Andante.mp3
+600001039 A4 Allegretto grazioso.mp3

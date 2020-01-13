@@ -1,12 +1,3 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 181 Sinfonie in D-Dur
-Titel:: Wolfgang Amadeus Mozart, Sinfonie Nr. 22 D-Dur KV 181, Netherlands Philharmonic Orchestra, Dirigent: Otto Ackermann
-Label:: Concert Hall Society ‎– CHS 1194
-Format:: Vinyl, LP, Mono 
-Land:: US
-Veröffentlicht:: 1952/1953
-Trackliste:: Sinfonie Nr. 22 D-Dur KV 181 
-A4:: Allegro spiritoso
-A5:: Andantino grazioso
-A6:: Presto assai
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Conductor – Otto Ackermann, Orchestra - Netherlands Philharmonic Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+chs1194 A4 Allegro spiritoso.mp3
+chs1194 A5 Andantino grazioso.mp3
+chs1194 A6 Presto assai.mp3

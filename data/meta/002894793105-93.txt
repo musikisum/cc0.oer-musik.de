@@ -1,14 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 93 Sinfonie Nr. 8 in F-Dur  (Fricsay)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1953
-Trackliste:: Sinfonie Nr. 8 in F-Dur Op. 93 
-A5:: Allegro vivace e con brio
-A6:: Allegretto scherzando
-A7:: Tempo di Menuetto
-A8:: Allegro vivace
-Mitwirkende:: Composer - Ludwig v. Beethoven, Orchestra - Berliner Philharmoniker, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793105 A5 Allegro vivace e con brio.mp3
+002894793105 A6 Allegretto scherzando.mp3
+002894793105 A7 Tempo di Menuetto.mp3
+002894793105 A8 Allegro vivace.mp3

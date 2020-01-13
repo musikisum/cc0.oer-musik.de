@@ -1,14 +1,4 @@
-Display:: Bach, Johann Sebastian - BWV 1003 Sonate für Violine solo in a-Moll (Szeryng)
-Titel:: Johann Sebastian Bach, Sonaten und Partiten für Violine solo BWV 1001-1006
-Untertitel:: Henryk Szeryng, Violine
-Label:: Dacapo. C047-28561 M / 563 M
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1955 (Aufnahme-Datum)
-Werk:: Sonate für Violine solo in a-Moll BWV 1003
-C1:: Grave
-C2:: Fuga
-C3:: Andante
-C4:: Allegro
-Mitwirkende:: Violine - Henryk Szeryng
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+c047-2856x C1 Grave.mp3
+c047-2856x C2 Fuga.mp3
+c047-2856x C3 Andante.mp3
+c047-2856x C4 Allegro.mp3

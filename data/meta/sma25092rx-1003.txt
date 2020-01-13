@@ -1,13 +1,4 @@
-﻿Display:: Bach, Johann Sebastian - BWV 1003 Sonate Nr. 2 a-Moll für Violine solo (Heifetz)
-Titel:: Johannn Sebastian Bach, 6 Sonatas & Partitas für Violine solo, Jascha Heifetz
-Label:: RCA (Red Seal) SMA 25092-R-2
-Format:: 3 × LP, Box-Set
-Land:: Germany
-Veröffentlicht:: 1957
-Trackliste:: Sonate Nr. 2 a-Moll BWV 1003
-B1:: Grave
-B2:: Fuga 
-B3:: Andante 
-B4:: Allegro	
-Mitwirkende:: Composed by - Johann Sebastioan Bach, Violine - Jascha Heifetz
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿sma25092rx B1 Grave.mp3
+sma25092rx B2 Fuga.mp3
+sma25092rx B3 Andante.mp3
+sma25092rx B4 Allegro.mp3

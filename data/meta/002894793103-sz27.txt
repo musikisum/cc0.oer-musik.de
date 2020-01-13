@@ -1,12 +1,2 @@
-Display:: Bartók, Béla - SZ 27 Rhapsodie für Klavier und Orchester Op. 1 (Anda)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1961
-Trackliste:: Rhapsodie für Klavier und Orchester Op. 1
-A7:: Adagio molto
-A8:: Poco Allgretto
-Mitwirkende:: Composer - Béla Bartók, Piano - Géza Anda, Orchestra - Radio-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793103 A7 Adagio molto.mp3
+002894793103 A8 Poco Allgretto.mp3

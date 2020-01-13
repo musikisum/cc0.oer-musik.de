@@ -1,13 +1,4 @@
-﻿Display:: Brunetti, Gaetano - Sinfonie in g-Moll
-Titel:: Maitres et Contemporains de Mozart. Brunetti - Boccherini. 3 Symphonies.
-Label:: Erato LDE 3022
-Format:: Vinyl, LP, Mono
-Land:: France
-Veröffentlicht:: 1955
-Trackliste:: Sinfonie in g-Moll
-B3:: Allegro vivace
-B4:: Andantino amorosa
-B5:: Allegro con moto
-B6:: Allegro non molto
-Mitwirkende:: Composer - Luigi Bocherini, Orchestra – Orchestre de Chambre Italien, Conductor – Newell Jenkins
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿lde3022 B3 Allegro vivace.mp3
+lde3022 B4 Andantino amorosa.mp3
+lde3022 B5 Allegro con moto.mp3
+lde3022 B6 Allegro non molto.mp3

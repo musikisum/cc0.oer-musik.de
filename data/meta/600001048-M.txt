@@ -1,12 +1,2 @@
-Display:: Moussorgsky, Modest - Chowanschtschina (Auszüge) (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1959
-Trackliste:: Chowanschtschina (Auszüge)
-A5:: Tanz der persischen Sklaven
-A6:: Vorspiel 4. Akt
-Mitwirkende:: Composed By – Modest Moussorgsky, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001048 A5 Tanz der persischen Sklaven (aus Chowanschtschina).mp3
+600001048 A6 Vorspiel 4. Akt (aus Chowanschtschina).mp3

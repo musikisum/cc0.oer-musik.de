@@ -1,13 +1,4 @@
-Display:: Mendelssohn, Felix - Op. 64 Konzert für Violine und Orchester e-Moll (Oistrach)
-Titel:: Felix Mendelssohn-Bartholdy, Konzert für Violine und Orchester in e-Moll op. 64; Henri Wieniawski, Konzert für Violine und Orchester Nr. 2 d-Moll op. 22; Igor Oistrach - Violine, Gewandhausorchester Leipzig, Dirigent - Franz Konwitschny
-Label:: Deutsche Grammophon ‎– LPM 18329
-Format:: Vinyl, LP, Mono
-Land:: Germany
-Veröffentlicht:: 1956
-Werk:: Konzert für Violine und Orchester e-Moll Op. 64
-A1:: Allegro molto appassionato - Cadenza Tempo I - Presto
-A2:: Andante
-A3a:: Allegretto non troppo
-A3b:: Allegro molto vivace
-Mitwirkende:: Composer - Felix Mendelssohn, Orchestra - Gewandhausorchester Leipzig, Conducer - Franz Konwitschny, Violin - Igor Oistrach
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm18329 A1 Allegro molto appassionato - Cadenza Tempo I - Presto.mp3
+lpm18329 A2 Andante.mp3
+lpm18329 A3a Allegretto non troppo.mp3
+lpm18329 A3b Allegro molto vivace.mp3

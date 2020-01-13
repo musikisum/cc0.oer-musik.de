@@ -1,15 +1,6 @@
-Display:: Biber, Heinrich Ignaz Franz - Rosenkranz-Sonate Nr. 12 in C-Dur (Lautenbacher)
-Titel:: Biber - Rosenkranz-Sonaten über die 15 Mysterien aus dem Marienleben   
-Label:: VOX ‎– SVBX 552
-Format:: Vinyl, 3 x LP, Stereo 
-Land:: USA
-Veröffentlicht:: 1962
-Trackliste:: Rosenkranz-Sonate Nr. 12 in C-Dur
-E1a:: Intrada
-E1b:: Aria Tubicinum
-E1c:: Intrada
-E1d:: Allemande
-E1e:: Courante
-E1f:: Double
-Mitwirkende:: Composed By – Heinrich Ignaz Franz Biber, Violin – Susanne Lautenbacher, Positiv/Hapsichord/Regal - Rudolf Ewerhart
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+svbx552 E1a Intrada.mp3
+svbx552 E1b Aria Tubicinum.mp3
+svbx552 E1c Intrada.mp3
+svbx552 E1d Allemande.mp3
+svbx552 E1e Courante.mp3
+svbx552 E1f Double.mp3

@@ -1,13 +1,3 @@
-Display:: Vivaldi, Antonio - Op. 11, Nr. 2 (RV 277) Concerto in e-Moll »Il favorito«
-Titel:: Vivaldi. 5 Concerti con titoli, für zwei Violinen, Il favorito, Il riposo, Il sospetto, L'inquietudine, L'amoroso. I Musici
-Label:: Philips ‎– 422 493-2
-Format:: CD 
-Land:: Germany
-Veröffentlicht:: o.J.
-Erstveröffentlichung:: 1958
-Trackliste:: Concerto in e-Moll »Il favorito« Op. 11, Nr. 2
-A1:: Allegro
-A2:: Andante
-A3:: Allegro
-Mitwirkende:: Composer – Antonio Vivaldi; Violin – Roberto Michelucci, Orchestra – I Musici. 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+4224932 A1 Allegro.mp3
+4224932 A2 Andante.mp3
+4224932 A3 Allegro.mp3

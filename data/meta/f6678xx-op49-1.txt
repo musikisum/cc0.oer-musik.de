@@ -1,11 +1,2 @@
-Display:: Beethoven, Ludwig v. - Op. 49, Nr. 1 Sonate für Klavier Nr. 19 in g-Moll (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1933
-Trackliste:: Sonate für Klavier Nr. 19 in g-Moll Op. 49, Nr. 1
-P1:: Andante
-P2:: Rondo (Allegro)
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx P1 Andante.mp3
+f6678xx P2 Rondo (Allegro).mp3

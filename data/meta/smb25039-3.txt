@@ -1,13 +1,4 @@
-Display:: Bruckner, Anton - Sinfonie Nr. 3 in d-Moll
-Titel:: Anton Bruckner, Sinfonie Nr. 3, Nr. 4, Nr. 5, Wiener Philharmoniker, Hans Knappertsbusch 	
-Label:: DECCA SMB 25039-D/1-3
-Format:: 2 × Vinyl, LP, Stereo
-Land:: Germany
-Veröffentlicht:: 1954
-Trackliste:: Symphonie Nr. 3 in d-Moll
-A1:: Gemässigt - misterioso
-A2:: Adagio - feierlich
-B2:: Scherzo - ziemlich schnell
-B3:: Finale - Allegro
-Mitwirkende:: Composed By – Anton Bruckner, Conductor – Hans Knappertsbusch, Orchestra – Wiener Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+smb25039 A1 Gemässigt - misterioso.mp3
+smb25039 A2 Adagio - feierlich.mp3
+smb25039 B2 Scherzo - ziemlich schnell.mp3
+smb25039 B3 Finale - Allegro.mp3

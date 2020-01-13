@@ -1,14 +1,4 @@
-﻿Display:: Brahms, Johannes - Op. 98 Sinfonie Nr. 4 in e-Moll
-Title:: Bruno Walter. Brahms. Symphony No. 4, Tragic Overture/Tragische Ouvertüre/Ouverture Tragique. Columbia Symphony Orchestra. 
-Label:: CBS
-Format:: CD, Stereo
-Land:: Holland
-Veröffentlicht:: 1985
-Erstveröffentlichung:: 1960
-Trackliste:: Sinfonie in e-Moll Op. 98
-A2:: Allegro non troppo
-A3:: Andante moderato
-A4:: Allegro giocoso – Poco meno presto – Tempo I
-A5:: Allegro energico e passionato – Più Allegro
-Mitwirkende:: Composer - Johannes Brahms, Orchestra - Columbia Symphony Orchestra, Conductor - Bruno Walter
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿mk42023 A2 Allegro non troppo.mp3
+mk42023 A3 Andante moderato.mp3
+mk42023 A4 Allegro giocoso – Poco meno presto – Tempo I.mp3
+mk42023 A5 Allegro energico e passionato – Più Allegro.mp3

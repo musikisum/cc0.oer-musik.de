@@ -1,16 +1,6 @@
-Display:: Bartók, Béla - Sz 112 Tanz-Suite für Orchester
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1953
-Trackliste:: Tanz-Suite für Orchester Sz 112
-A6:: Moderato
-A7:: Allegro molto
-A8:: Allegro vivace
-A9:: Molto tranquillo
-A10:: Comodo
-A11:: Finale Allegro
-Mitwirkende:: Composer - Béla Bartók, Orchestra - Radio-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793101 A6 Moderato.mp3
+002894793101 A7 Allegro molto.mp3
+002894793101 A8 Allegro vivace.mp3
+002894793101 A9 Molto tranquillo.mp3
+002894793101 A10 Comodo.mp3
+002894793101 A11 Finale Allegro.mp3

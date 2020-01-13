@@ -1,10 +1,1 @@
-Display:: Jacopo da Bologna - Fenice fu
-Titel:: Archiv Produktion des historischen Studios der Deutschen Grammophon Gesellschaft, III. Forschungsbereich Frührenaissance, Serie A, Der florentiner Stilkreis, Serie D, Die Neiderländer bis Ockeghem. Madrigale und Caccien aus dem Codex Squarcialupi, Guillaume Dufay, Geistliche Werke. Pro Musica Antiqua, Dirigent: Safford Cape.
-Label:: Archiv Produktion ‎– 14019 APM
-Format:: Vinyl, LP, Mono 
-Land:: Deutschland
-Veröffentlicht:: 1955
-Trackliste:: Werke aus dem Codex Squarcialupi
-A2:: Fenice fu
-Mitwirkende:: Composed By – Jacopo da Bologna, Conductor - Safford Cape, Ensemble - Pro Musica Antiqua.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+apm14019 A2 Fenice fu (Jacopo da Bologna).mp3

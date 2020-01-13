@@ -1,13 +1,4 @@
-Display:: Mendelssohn, Felix - Op. 20 Oktette in Es-Dur (Heifetz-Piatigorsky)
-Titel:: The Heifetz-Piatigorsky Concerts with Primrose an Guests. Mozart Quintette (G minor), Mendelssohn Octette (E flat major), Schubert Quintette (C major), Brahms Sextette (G major)m Frank Piano Quintette (f minor)
-Label:: RCA ‎– LSC 6159-1/6159-2/6159-3
-Format:: Vinyl, 3 x LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Oktette in Es-Dur Op. 20
-A1:: Allegro moderato ma con fuoco	
-A2:: Andante	
-A3:: Scherzo - Allegro leggierissimo	
-A4:: Presto	
-Mitwirkende:: Composed by Felix Mendelssohn, Violine - Jascha Heifetz, Israel Baker, Arnold Belnick, Joseph Stepansky, Viola - William Primrose, Virginia Majewski, Cello - Gregor Piatigorsky, Gabor Rejtö
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lsc6159 A1 Allegro moderato ma con fuoco.mp3
+lsc6159 A2 Andante.mp3
+lsc6159 A3 Scherzo - Allegro leggierissimo.mp3
+lsc6159 A4 Presto.mp3

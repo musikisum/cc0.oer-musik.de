@@ -1,10 +1,1 @@
-Display:: Liszt, Franz - Funérailles (Harmonies poétiques et religieuses Nr. 7) (Horowitz)
-Titel:: Homage to Liszt. Vladimir Horowitz
-Label:: RCA Red Seal ‎– LM-2584
-Format:: Vinyl, LP, Mono
-Land:: USA
-Veröffentlicht:: 1961
-Trackliste:: Funérailles (Harmonies poétiques et religieuses Nr. 7)
-A1:: Funérailles
-Mitwirkende:: Composed By Franz Liszt, Piano - Vladimir Horowitz
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lm2584 A1 Funérailles.mp3

@@ -1,13 +1,5 @@
-Display:: Leoncavallo, Ruggiero - I Pagliacci (Oper in zwei Akten und einem Prolog)
-Title:: Pietro Mascagni, Cavalleria Rusticana / Ruggiero Leoncavallo, I Pagliacci
-Label:: Decca GOS 588 - GOS 590
-Format:: Vinyl, 3x LP, Stereo 
-Land:: England
-Veröffentlicht:: 1960
-Tracks:: Ruggiero Leoncavallo, I Pagliacci
-D1:: Acto 1 (Parte 1) - Son Qua-Un Grande Spettacolo-Un Tal Gioco-I Zampognari-Qual Fiamma Avea Nel Guardo, Stridono Lassu  
-E1:: Acto 1 (Conclusion) - Sei La Credea Che Te Ne Fossi Andato-So Ben Che Diforme-Nedda, Silvio-Cammina Adagio-Recitar, Vestila La Giubba 
-E2:: Intermezzo  
-F1:: Acto 2 - Presto Affretiamoci-Plagiaccio Mio Marito (La Comedia)-No, Pagliaccio Non Son
-Mitwirkende:: Chorus And Orchestra Of The Appedemia Of Santa Cecilia Roma, Baritone Vocals – Cornell MacNeil, Renato Capecchi, Composed By – Ruggiero Leoncavallo, Conductor – Francesco Molinari-Pradelli, Soprano Vocals – Gabriella Tucci, Tenor Vocals – Mario del Monaco, Piero De Palma
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+gos5xx D1 Acto 1 (Parte 1).mp3
+gos5xx E1 Acto 1 (Conclusion).mp3
+gos5xx E2 Intermezzo.mp3
+gos5xx F1  Acto 2.mp3
+gos5xx E1p  Rezitativ und Arie des Canio (Vesti la giubba).mp3

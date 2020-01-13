@@ -1,15 +1,5 @@
-Display:: Schumann, Robert - Op. 38 Sinfonie Nr. 1 in B-Dur (»Frühling«) (Fricsay)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1955
-Trackliste:: Sinfonie Nr. 1 in B-Dur (»Frühling«) Op. 38
-A3a:: Andante un poco maestoso
-A3b:: Allegro molto vivace
-A4:: Larghetto
-A5:: Scherzo, Molto vivace
-A6:: Allegro animato e grazioso
-Mitwirkende:: Composer - Robert Schumann, Orchestra - RIAS-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793133 A3a Andante un poco maestoso.mp3
+002894793133 A3b Allegro molto vivace.mp3
+002894793133 A4 Larghetto.mp3
+002894793133 A5 Scherzo, Molto vivace.mp3
+002894793133 A6 Allegro animato e grazioso.mp3

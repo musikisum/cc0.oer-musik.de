@@ -1,24 +1,15 @@
-Display:: Verdi, Giuseppe - Messa da Requiem (Serafin)
-Titel:: Giuseppe Verdi ‎– Requiem
-Label:: Regal/EMI sreg2042-43
-Format:: Vinyl, 2 x LP (Box-Set), Stereo 
-Land:: Great Britain
-Veröffentlicht:: 1960
-Trackliste:: Messa da Requiem
-A1:: Requiem und Kyrie
-A2:: Dies irae
-A3:: Tuba mirum
-A4:: Liber scriptus
-A5:: Quid sum miser
-B1:: Rex tremendae
-B2:: Recordare
-B3:: Ingemisco
-B4:: Confutatis
-B5:: Lacrimosa
-C1:: Offertorium - Domine Jesu Christe
-C2:: Sanctus
-C3:: Agnus Dei
-D1:: Lux Aeterna
-D2:: Libera me
-Mitwirkende:: Composer - Giuseppe Verdi, Orchestra and Choir – Orchestra And Chorus Of The Opera House Rome, Conducter – Tullio Serafin, Soprano Vocals – Shakeh Vartenissian, Mezzo-soprano Vocals – Fiorenza Cossotto, Tenor Vocals – Eugenio Fernandi, Bass – Boris Christoff, Bass Vocals – Boris Christoff
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+sreg204x A1 Requiem und Kyrie.mp3
+sreg204x A2 Dies irae.mp3
+sreg204x A3 Tuba mirum.mp3
+sreg204x A4 Liber scriptus.mp3
+sreg204x A5 Quid sum miser.mp3
+sreg204x B1 Rex tremendae.mp3
+sreg204x B2 Recordare.mp3
+sreg204x B3 Ingemisco.mp3
+sreg204x B4 Confutatis.mp3
+sreg204x B5 Lacrimosa.mp3
+sreg204x C1 Offertorium - Domine Jesu Christe.mp3
+sreg204x C2 Sanctus.mp3
+sreg204x C3 Agnus Dei.mp3
+sreg204x D1 Lux Aeterna.mp3
+sreg204x D2 Libera me.mp3

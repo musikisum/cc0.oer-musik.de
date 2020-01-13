@@ -1,12 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 24 Sonate für Violine und Klavier F-Dur (Frühlings-Sonate)
-Titel:: Beethoven - Rubinstein, Szeryng ‎– Kreutzer- und Frühlingsssonate
-Label:: RCA Red Seal ‎– LSC 2377-B
-Format:: Vinyl, LP, Album, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Sonate für Violine und Klavier F-dur Op. 24 (Kreutzer-Sonate)
-B2:: Allegro	
-B3:: Adagio molto expressivo	
-B4:: Scherzo. Allegro molto	
-B5:: Rondo - Allegro ma non troppo
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Liner Notes – Arthur Loesser, Piano – Arthur Rubinstein, Violin – Henryk Szeryng
+lsc2377b B2 Allegro.mp3
+lsc2377b B3 Adagio molto expressivo.mp3
+lsc2377b B4 Scherzo. Allegro molto.mp3
+lsc2377b B5 Rondo - Allegro ma non troppo.mp3

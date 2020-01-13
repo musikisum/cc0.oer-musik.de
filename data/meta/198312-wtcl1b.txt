@@ -1,33 +1,24 @@
-Display:: Bach, Johann Sebastian ‎– BWV 846-857 Wohltemperierte Clavier 1/2 (Kirkpatrick)
-Title:: Johann Sebastian Bach, Das Wohltemperierte Clavier 1. Teil (2), Ralph Kirkpatrick, Clavicord
-Label:: Archiv Produktion/Deutsche Grammpohopn ‎– 198312
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1959
-Trackliste:: Präludien und Fugen
-C1a:: Präludium in Fis-Dur BWV 858
-C1b:: Fuge in Fis-Dur BWV 858
-C2a:: Präludium in fis-Moll BWV 859
-C2b:: Fuge in fis-Moll BWV 859
-C3a:: Präludium in G-Dur BWV 860
-C3b:: Fuge in G-Dur BWV 860
-C4a:: Präludium in g-Moll BWV 861
-C4b:: Fuge in g-Moll BWV 861
-C5a:: Präludium in As-Dur BWV 862
-C5b:: Fuge in As-Dur BWV 862
-C6a:: Präludium in gis-Moll BWV 863
-C6b:: Fuge in gis-Moll BWV 863
-C7a:: Präludium in A-Dur BWV 864
-C7b:: Fuge in A-Dur BWV 864
-D1a:: Präludium in a-Moll BWV 865
-D1b:: Fuge in a-Moll BWV 865
-D2a:: Präludium in B-Dur BWV 866
-D2b:: Fuge in B-Dur BWV 866
-D3a:: Präludium in b-Moll BWV 867
-D3b:: Fuge in b-Moll BWV 867
-D4a:: Präludium in H-Dur BWV 868
-D4b:: Fuge in H-Dur BWV 868
-D5a:: Präludium in h-Moll BWV 869
-D5b:: Fuge in h-Moll BWV 869
-Mitwirkende:: Composed By – Johann Sebatian Bach, Ralph Kirkpatrick, Clavicord
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+198312 C1a Präludium in Fis-Dur BWV 858.mp3
+198312 C1b Fuge in Fis-Dur BWV 858.mp3
+198312 C2a Präludium in fis-Moll BWV 859.mp3
+198312 C2b Fuge in fis-Moll BWV 859.mp3
+198312 C3a Präludium in G-Dur BWV 860.mp3
+198312 C3b Fuge in G-Dur BWV 860.mp3
+198312 C4a Präludium in g-Moll BWV 861.mp3
+198312 C4b Fuge in g-Moll BWV 861.mp3
+198312 C5a Präludium in As-Dur BWV 862.mp3
+198312 C5b Fuge in As-Dur BWV 862.mp3
+198312 C6a Präludium in gis-Moll BWV 863.mp3
+198312 C6b Fuge in gis-Moll BWV 863.mp3
+198312 C7a Präludium in A-Dur BWV 864.mp3
+198312 C7b Fuge in A-Dur BWV 864.mp3
+198312 D1a Präludium in a-Moll BWV 865.mp3
+198312 D1b Fuge in a-Moll BWV 865.mp3
+198312 D2a Präludium in B-Dur BWV 866.mp3
+198312 D2b Fuge in B-Dur BWV 866.mp3
+198312 D3a Präludium in b-Moll BWV 867.mp3
+198312 D3b Fuge in b-Moll BWV 867.mp3
+198312 D4a Präludium in H-Dur BWV 868.mp3
+198312 D4b Fuge in H-Dur BWV 868.mp3
+198312 D5a Präludium in h-Moll BWV 869.mp3
+198312 D5b Fuge in h-Moll BWV 869.mp3

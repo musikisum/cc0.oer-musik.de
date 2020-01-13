@@ -1,15 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 13 Sonate für Klavier Nr. 8 in c-Moll (Pathetique) (Backhaus)
-Titel:: Beethoven. Sonate per Pinaoforte. Wilheilm Backhaus
-Label:: DECCA 467 258-2
-Format:: CD Box-Set (8 x CD) 
-Land:: Germany
-Veröffentlicht:: 2000
-Erstveröffentlichung:: 1959
-Trackliste:: Sonate für Klavier Nr. 8 in c-Moll Op. 13 
-A12a:: Grave
-A12b:: Allegro di molto e con brio
-A13:: Adagio cantabile
-A14:: Rondo Allegro
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Wilhelm Backhaus
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
-
+4672582 A18a Grave.mp3
+4672582 A18b Allegro di molto e con brio.mp3
+4672582 A19 Adagio cantabile.mp3
+4672582 A20 Rondo Allegro.mp3

@@ -1,15 +1,5 @@
-Display:: Schumann, Robert - Op. 97 Sinfonie Nr. 3 in Es-Dur (»Rheinische«) (Konwitschny)
-Titel:: Schumann-Edition
-Label:: Brilliant Classics 95020-1 - 95020-45
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2015
-Erstveröffentlichung:: 1962
-Trackliste:: Sinfonie Nr. 3 in Es-Dur (»Rheinische«) Op. 97
-A1:: Lebhaft
-A2:: Scherzo - Sehr mäßig
-A3:: Nicht schnell
-A4:: Feierlich
-A5:: Lebhaft
-Mitwirkende:: Composer - Robert Schumann, Orchestra - Gewandhausorchester Leipzig, Conductor - Franz Konwitschny.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+950202 A1 Lebhaft.mp3
+950202 A2 Scherzo - Sehr mäßig.mp3
+950202 A3 Nicht schnell.mp3
+950202 A4 Feierlich.mp3
+950202 A5 Lebhaft.mp3

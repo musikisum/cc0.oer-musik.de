@@ -1,15 +1,5 @@
-Display:: Beethoven, Ludwig v. - Op. 36 Sinfonie Nr. 2 in D-Dur (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1953
-Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 2 in D-Dur Op. 36
-A1a:: Adagio molto
-A1b:: Allegro con brio
-A2:: Larghetto
-A3:: Scherzo, Allegro
-A4:: Allegro molto
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001005 A1a Adagio molto.mp3
+600001005 A1b Allegro con brio.mp3
+600001005 A2 Larghetto.mp3
+600001005 A3 Scherzo, Allegro.mp3
+600001005 A4 Allegro molto.mp3

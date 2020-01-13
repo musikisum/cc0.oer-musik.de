@@ -1,19 +1,10 @@
-Display:: Bach, Johann Sebastian - BWV 806, Englische Suite Nr. 1 in A-Dur (Kirkpatrick)
-Title:: Archiv Produktion des musikhistorischen Studios der Deutschen Grammophon Gesellschaft, IX. Forschungsbereich 'Das Schaffen Johann Sebastian Bachs', Serie G: Werke für Klavier, Englische Suiten Nr. 1 A-Dur, BWV 806 und Nr. 2 a-Moll, BWV 807, Ralph Kirkpatrick, Cembalo
-Label:: Archiv Produktion – 14072 APM
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1956
-Trackliste:: Johann Sebastian Bach - Englische Suite Nr. 1 in A-Dur BWV 806
-A1:: Prélude
-A2:: Allemande
-A3:: Courante I
-A4::a Courante II
-A4::b Double I
-A4::c Double II
-A5:: Sarabande
-A6:: Bourée I
-A7:: Bourée II
-A8:: Gigue
-Mitwirkende:: Composed By – Johann Sebastian Bach, Cembalo – Ralph Kirkpatrick
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+14072apm A1 Prélude.mp3
+14072apm A2 Allemande.mp3
+14072apm A3 Courante I.mp3
+14072apm A4a Courante II.mp3
+14072apm A4b Double I.mp3
+14072apm A4c Double II.mp3
+14072apm A5 Sarabande.mp3
+14072apm A6 Bourée I.mp3
+14072apm A7 Bourée II.mp3
+14072apm A8 Gigue.mp3

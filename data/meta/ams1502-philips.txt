@@ -1,11 +1,2 @@
-Display:: Phillips, Peter - 2 Motetten
-Titel:: Die englische Motette im ›Goldenen Zeitalter‹
-Label:: Musica Sacra (L. Schwann Verlag Düsseldorf) ‎– AMS 1502
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Motetten von Peter Philips
-A4:: Peter Philips - Ne reminiscaris
-B1:: Peter Philips - Cantantibus organis
-Mitwirkende:: The Choir of St. John's Collage/Cambridge, Leitung: George Guest
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+ams1502 A4 Ne reminiscaris.mp3
+ams1502 B1 Cantantibus organis.mp3

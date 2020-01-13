@@ -1,12 +1,3 @@
-Display:: Bruch, Max - Op. 26 Konzert für Violine in g-Moll (Oistrach)
-Titel:: Max Bruch, Ludwig van Beethoven - David & Igor Oistrach ‎– Konzert Für Violine & Orchester Nr. 1 g-Moll Op. 26 / Romanzen Für Violine & Orchester Nr. 1 G-Dur Op. 40 · Nr. 2 F-Dur Op. 50
-Label:: Deutsche Grammophon 135039
-Format:: Vinyl, LP, Album, Stereo 
-Land:: Deutschland
-Veröffentlicht:: 1961
-Trackliste:: Konzert für Violine in g-Moll Op. 26
-A1:: Allegro moderato (attacca)	
-A2:: Adagio
-A3:: Allegro energico
-Mitwirkende:: Composed By – Max Bruch, Violin - David & Igor Oistrach, Orchestra - Royal Philharmonic Orchestra London, Conductors - David Oistrach (Bruch), Sir Eugène Goossens (Beethoven)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+135039 A1 Allegro moderato (attacca).mp3
+135039 A2 Adagio.mp3
+135039 A3 Allegro energico.mp3

@@ -1,14 +1,4 @@
-Display:: Mendelssohn, Felix - Op. 64 Konzert Für Violine Und Orchester e-Moll
-Titel:: Tschaikowsky: Violin Concerto in D, Mendelssohn: Violin Concerto in E minor
-Untertitel:: Christian Ferras with the Philharmonia Orchestra conducted by Constantin Silvestri
-Label:: EMI Records Limited ‎– ALP 1543
-Format:: Vinyl, LP, Stereo 
-Land:: Britain
-Veröffentlicht:: 1958
-Werk:: Konzert Für Violine Und Orchester e-Moll Op. 64
-B1:: Allegro molto appassionato - Cadenza Tempo I - Presto
-B2:: Andante
-B3a:: Allegretto non troppo
-B3b:: Allegro molto vivace
-Mitwirkende:: Orchestra - Philharmonia Orchestra, Conducer - Constantin Silvestri, Violin - Christian Ferras
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+alp1543 B1 Allegro molto appassionato - Cadenza Tempo I - Presto.mp3
+alp1543 B2 Andante.mp3
+alp1543 B3a Allegretto non troppo.mp3
+alp1543 B3b Allegro molto vivace.mp3

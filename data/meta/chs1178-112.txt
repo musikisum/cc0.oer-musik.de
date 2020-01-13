@@ -1,13 +1,4 @@
-Display:: Mozart, Wolfgang Amadé - KV 112 Sinfonie in F-Dur
-Titel:: Wolfgang Amadeus Mozart, Sinfonie Nr. 13 F-Dur KV 112, Netherlands Philharmonic Orchestra, Dirigent: Otto Ackermann
-Label:: Concert Hall Society ‎– CHS 1178
-Format:: Vinyl, LP, Mono 
-Land:: US
-Veröffentlicht:: 1952/1953
-Trackliste:: Sinfonie Nr. 13 F-Dur KV 112 
-A4:: Allegro
-A5:: Andante
-A6:: Menuetto
-A7:: Molto Allegro
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Conductor – Otto Ackermann, Orchestra - Netherlands Philharmonic Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+chs1178 A4 Allegro.mp3
+chs1178 A5 Andante.mp3
+chs1178 A6 Menuetto.mp3
+chs1178 A7 Molto Allegro.mp3

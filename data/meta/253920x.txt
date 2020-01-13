@@ -1,15 +1,6 @@
-Display:: Bruckner, Anton - Sinfonie Nr. 5 in B-Dur (WAB 105)
-Titel:: Eugen Jochum - Anton Bruckner - Ferdinand Leitner - Hans Pfitzner ‎– Anton Bruckner : Symphonie Nr.5 - Eugen Jochum	
-Label:: Deutsche Grammophon ‎– 2726074
-Format:: 2 × Vinyl, LP, Stereo
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Symphonie Nr.5 B-Dur (Originalfassung)
-A1a:: Adagio
-A1b:: Allegro  
-B1:: Adagio (sehr langsam)  
-B2:: Scherzo (molto vivace)  
-C1a:: Adagio
-C1b:: Allegro moderato  
-Mitwirkende:: Composed By – Anton Bruckner, Conductor – Eugen Jochum, Orchestra – Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+253920x A1a Adagio.mp3
+253920x A1b Allegro.mp3
+253920x B1 Adagio (sehr langsam).mp3
+253920x B2 Scherzo (molto vivace).mp3
+253920x C1a Adagio.mp3
+253920x C1b Allegro moderato.mp3

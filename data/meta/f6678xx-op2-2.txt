@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 2, Nr. 2 Sonate für Klavier Nr. 2 in A-Dur (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1933
-Trackliste:: Sonate für Klavier Nr. 2 in A-Dur Op. 2, Nr. 2
-B1:: Allegro vivace
-B2:: Largo appasionato
-B3:: Scherzo (Allegretto)
-B4:: Rondo grazioso
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx B1 Allegro vivace.mp3
+f6678xx B2 Largo appasionato.mp3
+f6678xx B3 Scherzo (Allegretto).mp3
+f6678xx B4 Rondo grazioso.mp3

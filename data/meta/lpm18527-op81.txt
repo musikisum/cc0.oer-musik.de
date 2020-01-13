@@ -1,10 +1,1 @@
-﻿Display:: Mendelssohn, Felix - Capriccio un Fuge e-Moll (Aus: Vier Stücke für Streichquartette op. 81)
-Titel:: Franz Schubert, Streichquartett B-Dur op. 168, Streichquartett Es-Dur op. 125 Nr. 1, Felix Mendelsoohn Bartholdy Capriccio un Fuge e-Moll (Aus Vier Stücke für Streichquartette op. 81) 
-Label:: Deutsche Grammophon ‎– LPM 18 527
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Capriccio un Fuge e-Moll (Aus Vier Stücke für Streichquartette op. 81)	
-B5:: Capriccio Und Fuge E-moll
-Mitwirkende:: Composed By Franz Schubert, Violin – Norbert Brainin, Siegmund Nissel, Viola – Peter Schidlof, Violoncello – Martin Lovett
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lpm18527 B5 Capriccio und Fuge e-Moll (aus op. 81).mp3

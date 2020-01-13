@@ -1,14 +1,5 @@
-Display:: Brahms, Johannes - Op. 034 Klavierquintett F-moll
-Titel:: Johannes Brahms - Eva Bernáthová - Janáček Quartet ‎– Klavierquintett F-moll Op. 34
-Label:: Deutsche Grammophon ‎– 138 009 SLPM
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Klavierquintett F-moll Op. 34
-A1:: Allegro non troppo
-A2:: Andante, un poco adagio
-B1:: Scherzo allegro
-B2a:: Poco sostenuto
-B2b:: Allegro non troppo
-Mitwirkende:: Composed By – Johannes Brahms, Ensemble – Janáček Quartet (Piano – Eva Bernáthová, Viola – Jiří Kratochvíl, Violin [1st] – Jiří Trávníček, Violin [2nd] – Adolf Sýkora, Cello – Karel Krafka)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+slpm138009 A1 Allegro non troppo.mp3
+slpm138009 A2 Andante, un poco adagio.mp3
+slpm138009 B1 Scherzo allegro.mp3
+slpm138009 B2a Poco sostenuto.mp3
+slpm138009 B2b Allegro non troppo.mp3

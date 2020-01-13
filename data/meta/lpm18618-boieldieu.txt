@@ -1,20 +1,3 @@
-﻿Display:: Boieldieu, Francois Adrien - Konzert C-Dur für Harfe und Orchester
-Title:: Francois Adrien Boieldieu, Konzert C-Dur für Harfe und Orchester, Joaquin Rodrigo, Konzert-Serenade für Harfe und Orchster 
-Label:: Deutsche Grammpohopn ‎– SLPEM 136 239
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Konzert C-Dur für Harfe und Orchester
-A1:: Allegro brillante
-A2:: Andante - Lento attacca
-A3:: Rondeau - Allegro agitato
-B1:: Estudiantina: Allegro (urheberrechtlich geschützt, daher leider nicht verfügbar)
-B2:: Intermesso: Molto tranquillo (urheberrechtlich geschützt, daher leider nicht verfügbar)
-B3:: Sarao: Allegro agitato (urheberrechtlich geschützt, daher leider nicht verfügbar)
-Mitwirkende:: Composed By – Francois Adrien Boieldieu, Joaquin Rodrigo, Orchestra - Radio-Symphonie-Orchester Berlin, Conductor - Ernst Märzendorfer
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
-
-
-
-
-
+lpm18618 A1 Allegro brillante.mp3
+lpm18618 A2 Andante - Lento attacca.mp3
+lpm18618 A3 Rondeau - Allegro agitato.mp3

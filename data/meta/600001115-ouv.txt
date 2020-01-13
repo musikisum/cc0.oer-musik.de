@@ -1,11 +1,1 @@
-Display:: Strauss (Sohn), Johann - Ouvertüre aus ›Der Zigeunerbaron‹ (Karajan) 
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1960
-Trackliste:: Ouvertüre aus ›Der Zigeunerbaron‹
-A1:: Der Zigeunerbaron - Ouvertüre
-Mitwirkende:: Composed By – Johann Strauss (Sohn), Conductor – Herbert v. Karajan, Orchestra – Wiener Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001115 A1 Der Zigeunerbaron - Ouvertüre.mp3

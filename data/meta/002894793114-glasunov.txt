@@ -1,15 +1,5 @@
-Display:: Glasunov, Alexander - Op. 82 Konzert für Violine und Orchester a-Moll (Fricsay)
-Title:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1959
-Trackliste:: Konzert für Violine und Orchester a-Moll Op. 82
-A7:: Moderato
-A8:: Andante sostenuto
-A9:: Tempo I
-A10:: Cadenza
-A11:: Animato - Allegro
-Mitwirkende:: Composer - Alexander Glasunov, Orchestra – Radio-Symphonie-Orchester Berlin, Violine - Erica Morini Martzy, Conductor – Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793114 A7 Moderato.mp3
+002894793114 A8 Andante sostenuto.mp3
+002894793114 A9 Tempo I.mp3
+002894793114 A10 Cadenza.mp3
+002894793114 A11 Animato - Allegro.mp3

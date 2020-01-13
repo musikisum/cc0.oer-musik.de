@@ -1,12 +1,3 @@
-Display:: Biber, Heinrich Ignaz Franz - Rosenkranz-Sonate Nr. 11 in G-Dur (Lautenbacher)
-Titel:: Biber - Rosenkranz-Sonaten über die 15 Mysterien aus dem Marienleben   
-Label:: VOX ‎– SVBX 552
-Format:: Vinyl, 3 x LP, Stereo 
-Land:: USA
-Veröffentlicht:: 1962
-Trackliste:: Rosenkranz-Sonate Nr. 11 in G-Dur
-D2a:: Sonata
-D2b:: (Surrexit Christus hodie)
-D2c:: Adagio
-Mitwirkende:: Composed By – Heinrich Ignaz Franz Biber, Violin – Susanne Lautenbacher, Positiv/Hapsichord/Regal - Rudolf Ewerhart
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+svbx552 D2a Sonata.mp3
+svbx552 D2b (Surrexit Christus hodie).mp3
+svbx552 D2c Adagio.mp3

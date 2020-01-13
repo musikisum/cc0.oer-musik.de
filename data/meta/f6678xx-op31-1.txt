@@ -1,12 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 31, Nr. 1 Sonate für Klavier Nr. 16 in G-Dur (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1937
-Trackliste:: Sonate für Klavier Nr. 16 in G-Dur Op. 31, Nr. 1
-M1:: Allegro vivace
-M2:: Adagio grazioso
-M3:: Rondo (Allegretto)
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx M1 Allegro vivace.mp3
+f6678xx M2 Adagio grazioso.mp3
+f6678xx M3 Rondo (Allegretto).mp3

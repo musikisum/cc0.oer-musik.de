@@ -1,22 +1,13 @@
-﻿Display:: Chopin, Frédéric ‎– Walzer (Regina Smendzianka)
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists
-Label:: Muza Polskie Nagrania XL 0068
-Format:: Vinyl, LP, Mono
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: Walzer
-A1:: Walzer in Es-Dur Op. 18
-A2:: Walzer in As-Dur Op. 34 Nr. 1
-A3:: Walzer in a-Moll Op. 34 Nr. 2
-A4:: Walzer in F-Dur Op. 34 Nr. 3
-A5:: Walzer in As-Dur Op. 42
-B1:: Walzer in Des-Dur Op. 64 Nr. 1 (Anfang beschädigt)
-B2:: Walzer in cis-Moll Op. 64 Nr. 2
-B3:: Walzer in As-Dur Op. 64 Nr. 3
-B4:: Walzer in As-Dur Op. 69 Nr. 1
-B5:: Walzer in h-Moll Op. 69 Nr. 2
-B6:: Walzer in Ges-Dur Op. 70 Nr. 1
-B7:: Walzer in f-Moll Op. 70 Nr. 2
-B8:: Walzer in Des-Dur Op. 70 Nr. 3
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Regina Smendzianka
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿xl0068 A1 Walzer in Es-Dur Op. 18 (Anfang beschädigt).mp3
+xl0068 A2 Walzer in As-Dur Op. 34 Nr. 1.mp3
+xl0068 A3 Walzer in a-Moll Op. 34 Nr. 2.mp3
+xl0068 A4 Walzer in F-Dur Op. 34 Nr. 3.mp3
+xl0068 A5 Walzer in As-Dur Op. 42.mp3
+xl0068 B1 Walzer in Des-Dur Op. 64 Nr. 1 (Anfang beschädigt).mp3
+xl0068 B2 Walzer in cis-Moll Op. 64 Nr. 2.mp3
+xl0068 B3 Walzer in As-Dur Op. 64 Nr. 3.mp3
+xl0068 B4 Walzer in As-Dur Op. 69 Nr. 1.mp3
+xl0068 B5 Walzer in h-Moll Op. 69 Nr. 2.mp3
+xl0068 B6 Walzer in Ges-Dur Op. 70 Nr. 1.mp3
+xl0068 B7 Walzer in f-Moll Op. 70 Nr. 2.mp3
+xl0068 B8 Walzer in Des-Dur Op. 70 Nr. 3.mp3

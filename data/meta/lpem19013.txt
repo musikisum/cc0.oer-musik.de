@@ -1,21 +1,10 @@
-﻿Display:: Weber, Carl Maria v. - Der Freischütz (Auszüge)
-Titel:: Carl Maria von Weber, "Der Freischütz", Aschnitte Excerpts Extraits, Anny Schlemm Sopran, Rita Streich Sopran, Wolfgang Windgassen Tenor, Hermann Uhde Bass-Bariton, Chor der Württembergischen Staatstheater Stuttgart 
-Label:: Deutsche Grammophon ‎– LPEM 19013
-Format:: Vinyl, LP, (Stereo)
-Land:: Germany
-Veröffentlicht:: 1959
-Trackliste:: Der Freischütz (Auszüge)  
-A1:: Ouvertüre
-A2:: Nein, länger trag ich nicht die Qualen (Szene des Max)
-A3:: Hier im ird'schen Jammertal
-A4:: Schweig, damit dich niemand warnt
-A5:: Kommt ein schlanker Bursch gegangen
-B1:: Wie nahte mir der Schlummer
-B2:: Entre-Act
-B3:: Und ob die Wolke sie verhüllte
-B4:: Einst träumte meiner sel'gen Base
-B5:: Jägerchor
-Mitwirkende:: Composed By – Carl Maria v. Weber, Conductors – Ferdinand Leitner, Artur Rother, Orchestras – Bamberger Symphoniker, RIAS Symphonie-Orchester Berlin, Anny Schlemm Sopran, Rita Streich Sopran, Wolfgang Windgassen Tenor, Hermann Uhde Bass-Bariton, Chor der Württembergischen Staatstheater Stuttgart
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
-
-
+lpem19013 A1 Ouvertüre.mp3
+lpem19013 A2 Nein, länger trag ich nicht die Qualen (Szene des Max).mp3
+lpem19013 A3 Hier im ird'schen Jammertal.mp3
+lpem19013 A4 Schweig, damit dich niemand warnt.mp3
+lpem19013 A5 Kommt ein schlanker Bursch gegangen.mp3
+lpem19013 B1 Wie nahte mir der Schlummer.mp3
+lpem19013 B2 Entre-Act.mp3
+lpem19013 B3 Und ob die Wolke sie verhüllte.mp3
+lpem19013 B4 Einst träumte meiner sel'gen Base.mp3
+lpem19013 B5 Jägerchor.mp3

@@ -1,13 +1,3 @@
-Display:: Bach, Johann Sebastian - BWV 226 Motette 'Der Geist hilft unserer Schwachheit auf'
-Titel:: Johann Sebastian Bach
-Untertitel:: 'Singet dem Herrn ein neues Lied', 'Der Geist hilft unserer Schwachheit auf', 'Jesu meine Freude', Thomanerchor Leipzig, Gewandhausorchester Leipzig, Kurt Thomas
-Label:: Archiv Production Resonance ‎– IC 2547 009
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1959
-Werk:: 'Der Geist hilft unserer Schwachheit auf' BWV 226
-A4:: Der Geist hilft
-A5:: Der aber die Herzen forschet
-A6:: Choral - Du heilige Brunst
-Mitwirkende:: Thomanerchor Leipzig, Gewandhausorchester Leipzig, Kurt Thomas
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+ic2547009 A4 Der Geist hilft.mp3
+ic2547009 A5 Der aber die Herzen forschet.mp3
+ic2547009 A6 Choral - Du heilige Brunst.mp3

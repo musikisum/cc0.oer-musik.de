@@ -1,13 +1,4 @@
-﻿Display:: Brahms, Johannes - Op. 90 Sinfonie Nr. 3 in F-Dur
-Titel:: Johannes Brahms and Rafael Kubelik and The Vienna Philharmonic Orchestra ‎– Symphony No. 3 In F Major
-Label:: Decca ‎– 5419 LXT
-Format:: Vinyl, LP, Mono 
-Land:: London
-Veröffentlicht:: 1957
-Trackliste:: Sinfonie Nr. 3 in F-Dur Op. 90  
-A1:: Allegro con brio	
-A2:: Andante	
-B1:: Poco Allegretto	
-B2:: Allegro
-Mitwirkende:: Composed By – Johannes Brahms, Conductor – Rafael Kubelik, Orchestra – Wiener Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lxt5419 A1 Allegro con brio.mp3
+lxt5419 A2 Andante.mp3
+lxt5419 B1 Poco Allegro.mp3
+lxt5419 B2 Alegro.mp3

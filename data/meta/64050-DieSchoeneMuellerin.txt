@@ -1,27 +1,16 @@
-Display:: Schubert, Franz ‎– D 795 Die schöne Müllerin op. 25 (Auswahl) (Wunderlich/Stolze)
-Title:: Schubert. Die schöne Müllerin. Liederzyklus von Wilhelm Müller op. 25 (Auswahl), Fritz Wunderlich, Tenor, Kurt Heinz Stolze, Klavier
-Label:: Eurodisc Auslese (Club Sonderauflage) ‎– 64050
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: ca. 1957
-Trackliste:: Loewe-Balladen
-A1:: Das Wandern
-A2:: Wohin
-A3:: Halt
-A4:: Danksagung an den Bach
-A5:: Am Feierabend
-A6:: Der Neugierige
-A7:: Ungeduld
-A8:: Tränenregen
-B1:: Mein
-B2:: Pause
-B3:: Mit dem grünen Lautenbande
-B4:: Der Jäger
-B5:: Eifersucht und Stolz
-B6:: Die böse Farbe
-B7:: Trockene Blumen
-B8:: Des Baches Wiegenlied
-Mitwirkende:: Composed By – Franz Schubert, Fritz Wunderlin, Tenor - Kurt Heinz Stolze, Klavier
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
-
-
+64050 A1 Das Wandern.mp3
+64050 A2 Wohin.mp3
+64050 A3 Halt.mp3
+64050 A4 Danksagung an den Bach.mp3
+64050 A5 Am Feierabend.mp3
+64050 A6 Der Neugierige.mp3
+64050 A7 Ungeduld.mp3
+64050 A8 Tränenregen.mp3
+64050 B1 Mein.mp3
+64050 B2 Pause.mp3
+64050 B3 Mit dem grünen Lautenbande.mp3
+64050 B4 Der Jäger.mp3
+64050 B5 Eifersucht und Stolz.mp3
+64050 B6 Die böse Farbe.mp3
+64050 B7 Trockene Blumen.mp3
+64050 B8 Des Baches Wiegenlied.mp3

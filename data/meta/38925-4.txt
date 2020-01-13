@@ -1,12 +1,3 @@
-Display:: Schumann, Robert - Op. 54 Klavierkonzert in a-Moll
-Titel:: Grieg - Liszt - Schumann Klavierkonzerte. Van Cliburn, Fritz Reiner und das Chicago Symphony Orchestra, Eugene Ormandy und Philadelphia Orchestra.
-Label:: RCA Red Seal ‎– 38 925-4
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1960
-Trackliste:: Klavierkonzert in a-Moll Op. 54
-A1:: Allegro affettuoso
-B1:: Intermezzo - Andantino grazioso  
-B2:: Allegro vivace 
-Mitwirkende:: Composer – Robert Schumann, Conductor – Fritz Reiner, Orchestra - Chicago Symphony Orchestra, Piano – Van Cliburn
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+38925-4 A1 Allegro affettuoso.mp3
+38925-4 B1 Intermezzo - Andantino grazioso.mp3
+38925-4 B2 Allegro vivace.mp3

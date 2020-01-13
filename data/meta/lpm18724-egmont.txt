@@ -1,10 +1,1 @@
-﻿Display:: Beethoven, Ludwig v. - Op. 84 Overtüre zu ›Egmont‹  (Furtwängler)
-Titel:: Ludwig van Beethoven. Symphonie Nr. 5 c-Moll, Egmont-Ouvertüre, Berliner Philharmoniker - Wilhelm Furtwängler
-Label:: Deutsche Grammophon ‎– 18 724 LPM
-Format:: Vinyl, LP, Stereo
-Land:: Germany
-Veröffentlicht:: 1961
-Trackliste:: Egmont-Ouvertüre Op. 84
-B2:: Sostenuto ma non troppo - Allegro
-Mitwirkende:: Composed By: Ludwig van Beethoven, Conductor: Wilhelm Furtwängler, Orchestra: Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿lpm18724 B2 Sostenuto ma non troppo - Allegro.mp3

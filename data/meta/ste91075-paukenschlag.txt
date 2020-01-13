@@ -1,15 +1,5 @@
-Display:: Haydn, Joseph - Hob.I:094 Sinfonie in G-Dur (›Paukenschlag‹)
-Titel:: Joseph Haydn - Sinfonie Nr. 94 ›mit dem Paukenschlag‹, Wolfgang Amadeus Mozart, Sinfonie Nr. 40 in g-Moll KV 550
-Untertitel:: Wiener Philharmoniker, Furtwängler
-Label:: Electrola Breitklang ‎– STE 91075 (WALP 562) 
-Format:: Vinyl, LP, Breitklang
-Land:: Germany
-Veröffentlicht:: 1951
-Trackliste:: Sinfonie in G-Dur (›Paukenschlag‹) Hob.I:94
-A1a:: Adagio cantabile
-A1b:: Vavace assai
-A2:: Andante
-A3:: Menuett (Allegro molto)
-A4:: Allegro di molto
-Mitwirkende:: Conductor – Wilhelm Furtwängler; Orchestra – Wiener Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+ste91075 A1a Adagio cantabile.mp3
+ste91075 A1b Vivace assai.mp3
+ste91075 A2 Andante.mp3
+ste91075 A3 Menuett (Allegro molto).mp3
+ste91075 A4 Allegro di molto.mp3

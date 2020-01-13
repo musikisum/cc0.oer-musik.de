@@ -1,14 +1,5 @@
-Display:: Mahler, Gustav - Kindertotenlieder (Kempe/Dieskau) 
-Titel:: Gustav Mahler, Kindertotenlieder, Berliner Philharmoniker, Dirigent: Rudolf Kempe, Bariton: Dietrich Fischer-Dieskau 
-Label:: Deutsche Grammophon Gesellschaft ‎– 004301
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1955
-Trackliste:: Gustav Mahler - Kindertotenlieder
-A1:: Nun will die Sonn so hell aufgehn
-A2:: Nun seh ich wohl, warum so dunkle Flammen
-B1:: Wenn dein Mütterlein
-B2:: Oft denk ich, sie sind nur ausgegangen
-B3:: In diesem Wetter
-Mitwirkende:: Composed By – Gustav Mahler, Conductor – Rudolf Kempe, Orchestra – Berliner Philharmoniker, Bariton – Dietrich Fischer-Dieskau
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+E70004 A1 Nun will die Sonn so hell aufgehn.mp3
+E70004 A2 Nun seh ich wohl, warum so dunkle Flammen.mp3
+E70004 B1 Wenn dein Mütterlein.mp3
+E70004 B2 Oft denk ich, sie sind nur ausgegangen.mp3
+E70004 B3 In diesem Wetter.mp3

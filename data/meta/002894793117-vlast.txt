@@ -1,12 +1,2 @@
-﻿Display:: Smetana, Bedřich - Mein Vaterland (Má Vlast) (Fricsay)
-Title:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1953
-Trackliste:: Mein Vaterland (Má Vlast)
-A5:: Die Moldau
-A6:: Von Böhmens Wäldern und Feldern
-Mitwirkende:: Composer - Bedřich Smetana, Orchestra – Berliner Philharmoniker, Conductor – Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793117 A5 Die Moldau.mp3
+002894793117 A6 Von Böhmens Wäldern und Feldern.mp3

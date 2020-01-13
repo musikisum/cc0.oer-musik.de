@@ -1,17 +1,7 @@
-Display:: Brahms, Johannes - Op. 45 Ein deutsches Requiem (Klemperer)
-Titel:: Brahms. Ein deutsches Requiem
-Untertitel:: Elisabeth Schwarzkopf, Dietrich Fischer Dieskau, Philharmonia Chor und Orchester London, Otto Klemperer
-Label:: EMI Electrola ‎– LC 161-00545 S/16
-Format:: Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1962
-Werk:: Ein deutsches Requiem Op. 45
-B1:: Selig sind, die das Leid tragen
-B2:: Denn alles Fleisch, es ist wie Gras
-C1:: Herr, lehre doch mich
-C2:: Wie lieblich sind deine Wohnungen
-C3:: Ihr habt nun Traurigkeit
-D1:: Denn wir haben hier keine bleibende Statt
-D2:: Selig sind die Toten
-Mitwirkende:: Orchestra - Philharmonia Chor und Orchester London, Conductor - Otto Klemperer, Soprano - Elisabeth Schwarzkopf, Bariton - Dietrich Fischer Dieskau
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lc161-00545 B1 Selig sind, die das Leid tragen.mp3
+lc161-00545 B2 Denn alles Fleisch, es ist wie Gras.mp3
+lc161-00545 C1 Herr, lehre doch mich.mp3
+lc161-00545 C2 Wie lieblich sind deine Wohnungen.mp3
+lc161-00545 C3 Ihr habt nun Traurigkeit.mp3
+lc161-00545 D1 Denn wir haben hier keine bleibende Statt.mp3
+lc161-00545 D2 Selig sind die Toten.mp3

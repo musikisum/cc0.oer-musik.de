@@ -1,19 +1,10 @@
-Display:: Dvořák, Antonín - Op. 58 Stabat Mater
-Titel:: Anton Dvořák -  Stabat Mater Op. 58, Stefania Woytowicz, Vera Soukupová, Ivo Zidek, Kim Borg, Tschechische Philharmonie, Dirigent: Václav Smetáček
-Label:: Deutsche Grammophon ‎– 138 818/19 SLPM
-Format: 2 × Vinyl, LP, Stereo 
-Land:: Germany
-Veröffentlicht:: 1962
-Trackliste:: Stabat Mater Op. 58
-A1::	I Stabat Mater Dolorosa	
-C1::	II Quis Est Homo, Qui Non Fleret	
-C2::	III Eja Mater, Fons Amoris	
-C3::	IV Fac, Ut Ardeat Cor Meum	
-D1::	V Tui Nati Vulnerati	
-D2::	VI Fac Me Vere Tecum Flere	
-D3::	VII Virgo Virginum Praeclare	
-B1::	VIII Fac, Ut Portem Christi Mortem	
-B2::	IX Inflammatus Et Accensus	
-B3::	X Quando Corpus Morietur	
-Mitwirkende:: Alto Vocals – Vera Soukupová, Bass Vocals – Kim Borg, Chorus – Tschechischer Sängerchor, Chorus Master – Josef Vesalka, Conductor – Václav Smetáček, Engineer, Photography By – Heinz Wildhagen, Liner Notes – Dr. Kamil Šlapák, Orchestra – Tschechische Philharmonie, Recording Supervisor – Hans Weber, Soprano Vocals – Stefania Woytowicz, Tenor Vocals – Ivo Zidek.
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+slpm13881x A1 I Stabat Mater Dolorosa.mp3
+slpm13881x C1 II Quis Est Homo, Qui Non Fleret.mp3
+slpm13881x C2 III Eja Mater, Fons Amoris.mp3
+slpm13881x C3 IV Fac, Ut Ardeat Cor Meum.mp3
+slpm13881x D1 V Tui Nati Vulnerati.mp3
+slpm13881x D2 VI Fac Me Vere Tecum Flere.mp3
+slpm13881x D3 VII Virgo Virginum Praeclare.mp3
+slpm13881x B1 VIII Fac, Ut Portem Christi Mortem.mp3
+slpm13881x B2 IX Inflammatus Et Accensus.mp3
+slpm13881x B3 X Quando Corpus Morietur.mp3

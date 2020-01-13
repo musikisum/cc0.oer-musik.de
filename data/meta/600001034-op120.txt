@@ -1,15 +1,5 @@
-Display:: Schumann, Robert - Op. 120 Sinfonie Nr. 4 in d-Moll (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1957
-Trackliste:: Sinfonie Nr. 4 in d-Moll
-A4a:: Ziemlich langsam
-A4b:: Lebhaft
-A5:: Romanze, Ziemlich langsam
-A6:: Scherzo. Lebhaft - Trio
-A7:: Langsam - Lebhaft - Presto
-Mitwirkende:: Composed By – Robert Schumann, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001034 A4a Ziemlich langsam.mp3
+600001034 A4b Lebhaft.mp3
+600001034 A5 Romanze, Ziemlich langsam.mp3
+600001034 A6 Scherzo. Lebhaft - Trio.mp3
+600001034 A7 Langsam - Lebhaft - Presto.mp3

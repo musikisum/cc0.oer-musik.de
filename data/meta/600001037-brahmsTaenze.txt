@@ -1,18 +1,8 @@
-﻿Display:: Brahms, Johannes - Acht Ungarische Tänze (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1959
-Trackliste:: Acht Ungarische Tänze (Nrn. 1, 3, 5, 6, 17, 18, 19, 20)
-A5:: Nr. 1 - Allegro molto
-A6:: Nr. 3 - Allegretto
-A7:: Nr. 5 - Allegro
-A8:: Nr. 6 - Vivace
-A9:: Nr. 17 - Andantino
-A10:: Nr. 18 - Molto vivace
-A11:: Nr. 19 - Allegretto
-A12:: Nr. 20 - Poco allegretto
-Mitwirkende:: Composer - Johannes Brahms, Orchestra - Wiener Philharmoniker, Conductor - Herbert von Karajan
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿600001037 A5 Nr. 1 - Allegro molto.mp3
+600001037 A6 Nr. 3 - Allegretto.mp3
+600001037 A7 Nr. 5 - Allegro.mp3
+600001037 A8 Nr. 6 - Vivace.mp3
+600001037 A9 Nr. 17 - Andantino.mp3
+600001037 A10 Nr. 18 - Molto vivace.mp3
+600001037 A11 Nr. 19 - Allegretto.mp3
+600001037 A12 Nr. 20 - Poco allegretto.mp3

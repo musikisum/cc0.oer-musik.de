@@ -1,14 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 55 Sinfonie Nr. 3 in Es-Dur (Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1953
-Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 3 in Es-Dur Op. 55 
-A5:: Allegro con brio
-A6:: Marcia funebre (Adagio assai)
-A7:: Scherzo (Allegro vivace)
-A8:: Finale (Allegro molto - poco Andante - Presto)
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001004 A5 Allegro con brio.mp3
+600001004 A6 Marcia funebre (Adagio assai).mp3
+600001004 A7 Scherzo (Allegro vivace).mp3
+600001004 A8 Finale (Allegro molto - poco Andante - Presto).mp3

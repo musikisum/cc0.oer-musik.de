@@ -1,21 +1,12 @@
-﻿Display:: Chopin, Frederic ‎– Op. 25 Zwölf Etüden (Laimer)
-Title:: Frederic Chopin - 12 Etüden Op. 25, Kurt Laimer, Piano
-Label:: Deutsche Grammophon ‎– 16048
-Format:: Vinyl, LP, Mono, 10'
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: 12 Etüden Op. 25
-A1:: As-Dur (Harfen-Etüde)
-A2:: f-Moll
-A3:: F-Dur
-A4:: a-Moll
-A5:: e-Moll
-A6:: gis-Moll (Terzen-Etüde)
-B1:: cis-Moll
-B2:: Des-Dur (Sexten-Etüde)
-B3:: Ges-Dur
-B4:: h-Moll (Oktaven-Etüde)
-B5:: a-Moll (Sturm-Etüde)
-B6:: c-Moll
-Mitwirkende:: Composed By – Frederic Chopin, Kurt Laimer, Piano
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿dg-16048 A1 As-Dur (Harfen-Etüde).mp3
+dg-16048 A2 f-Moll.mp3
+dg-16048 A3 F-Dur.mp3
+dg-16048 A4 a-Moll.mp3
+dg-16048 A5 e-Moll.mp3
+dg-16048 A6 gis-Moll (Terzen-Etüde).mp3
+dg-16048 B1 cis-Moll.mp3
+dg-16048 B2 Des-Dur (Sexten-Etüde).mp3
+dg-16048 B3 Ges-Dur.mp3
+dg-16048 B4 h-Moll (Oktaven-Etüde).mp3
+dg-16048 B5 a-Moll (Sturm-Etüde).mp3
+dg-16048 B6 c-Moll.mp3

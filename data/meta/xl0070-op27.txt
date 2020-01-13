@@ -1,11 +1,2 @@
-Display:: Chopin, Frédéric - Op. 27 Zwei Nocturnes in cis-Moll und Des-Dur (Sztompka)
-Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
-Label:: Muza Polskie Nagrania XL 0070
-Format:: Vinyl, LP, Mono 
-Land:: Poland
-Veröffentlicht:: 1960
-Trackliste:: Zwei Nocturnes Op. 27 in cis-Moll und Des-Dur
-B4:: Nocturne Nr. 1 in cis-Moll
-B5:: Nocturne Nr. 2 in Des-Dur
-Mitwirkende:: Composer - Frédéric Chopin, Piano - Henryk Sztompka
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+xl0070 B4 Nocturne Nr. 1 in cis-Moll.mp3
+xl0070 B5 Nocturne Nr. 2 in Des-Dur.mp3

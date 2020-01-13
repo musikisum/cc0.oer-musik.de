@@ -1,17 +1,8 @@
-Display:: Monteverdi, Claudio - L'Orfeo
-Titel:: Claudio Monteverdi (1567-1643) - L'Orfeo
-Label:: Eterna ‎– 821 036 (VEB Deutsche Schallplatten Berlin)
-Format:: Vinyl, 3xLP, Mono 
-Land:: Germany
-Veröffentlicht:: 1949
-Werk:: L'Orfeo
-A1::Prologo - 1. Akt, 1. Teil (La Musica, Hirten, Chor, Ninfa, Orfeo, Euridice)
-B1::1. Akt, 2. Teil (La Musica, Hirten, Chor, Ninfa, Orfeo, Euridice)
-B2::2. Akt, 1. Teil (Orfeo, Hirten, Messagiera. Chor)
-C1::2. Akt, 2. Teil (Orfeo, Hirten, Messagiera. Chor)
-C2::3. Akt, 1. Teil (Orfeo, Hirten, Messagiera. Chor, Speranza, Caronte)
-D1::3. Akt, 2. Teil (Orfeo, Caronte, Chor)
-E1::4. Akt (Proserpina, Plutone, Geisterstimmen, Orfeo, Euridice, Chor)
-F1::5. Akt (Orfeo, Apollo, Chor)
-Mitwirkende:: Composed By – Claudio Monteverdi, Orchestra – Solistenvereinigung des Berliner Rundfunks Kammerorchester Berlin, Conductor – Helmut Koch, Tenor (Orfeo) - Max Meili, Soprano Vocals (Euridice) – Elfride Trötschel, Alto Vocals (Messagiera) – Eva Fleischer, Walter Hauck, Gerhard Räker, Werner Kahl, Gerda Lammers, Bernhard Michaelis, Helmut Krebs, Josef Hausmann 
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+821036 A1 Prologo - 1. Akt, 1. Teil (La Musica, Hirten, Chor, Ninfa, Orfeo, Euridice).mp3
+821036 B1 1. Akt, 2. Teil (La Musica, Hirten, Chor, Ninfa, Orfeo, Euridice).mp3
+821036 B2 2. Akt, 1. Teil (Orfeo, Hirten, Messagiera. Chor).mp3
+821036 C1 2. Akt, 2. Teil (Orfeo, Hirten, Messagiera. Chor).mp3
+821036 C2 3. Akt, 1. Teil (Orfeo, Hirten, Messagiera. Chor, Speranza, Caronte).mp3
+821036 D1 3. Akt, 2. Teil (Orfeo, Caronte, Chor).mp3
+821036 E1 4. Akt (Proserpina, Plutone, Geisterstimmen, Orfeo, Euridice, Chor).mp3
+821036 F1 5. Akt (Orfeo, Apollo, Chor).mp3

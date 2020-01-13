@@ -1,14 +1,3 @@
-﻿Display:: Tschaikowski, Peter I. - Op. 35 Konzert für Violine und Orchester D-Dur (Oistrach)
-Titel:: Peter I.Tschaikowski - Konzert Für Violine Und Orchester D-dur, Op. 35
-Untertitel:: Staatskapelle Dresden - Franz Konwitschny - David Oistrach
-Label:: Deutsche Grammophon ‎– LPE 17 163 
-Format:: LP, 10", Mono
-Land:: Germany
-Veröffentlicht:: 1958
-Trackliste:: Konzert Für Violine Und Orchester Op. 77
-A1:: Allegro moderato 
-B1:: Canzonetta
-B2:: Finale, Allegro vivacissimo
-Record Company:: Deutsche Grammophon
-Mitwirkende:: Composed By – Peter I. Tschaikowski; Conductor – Franz Konwitschny; Liner Notes – Karl Laux; Orchestra – Staatskapelle Dresden; Violin – David Oistrach
-Urheberrecht:: Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+﻿lpe17163 A1 Allegro moderato.mp3
+lpe17163 B1 Canzonetta.mp3
+lpe17163 B2 Allegro vivacissimo.mp3

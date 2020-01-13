@@ -1,13 +1,4 @@
-Display:: Verdi, Guiseppe - La Traviata (Gesamtaufnahme/Toscanini)
-Titel:: Guiseppe Verdi. La Traviata. Toscanini Edition
-Label:: Telefunken-DECCA (nach einem Master von RCA Records)
-Format:: Vinyl, LP, Mono
-Land:: Germany / USA
-Veröffentlicht:: 1973/1957
-Trackliste:: La Traviata (Gesamtaufnahme)
-A1:: Vorspiel und 1. Akt
-B1:: 2. Akt, erste Szene
-C1:: 2. Akt, zweite Szene
-D1:: 3. Akt
-Mitwirkende:: Composer - Guiseppe Verdi, Orchestra and Choir - NBC-Symphony Orchestra und Chor, Conductor - Arturo Toscanini, Violetta - Licia Albanese, Alfred Germont - Jan Peerce, Georg Germont - Robert Merrill, Flora Bervoix - Maxine Stellman, Gaston - John Garris, Baron Douphol - Georg Cehanovsky, Marquis von Obigny - Paul Dennis, Doktor Grenvil - Arthur Newman, Annina (Dienerin) - Johanne Moreland  
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+at202x A1 Vorspiel und 1. Akt.mp3
+at202x B1 2. Akt, erste Szene.mp3
+at202x C1 2. Akt, zweite Szene.mp3
+at202x D1 3. Akt.mp3

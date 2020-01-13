@@ -1,16 +1,7 @@
-Display:: Wagner, Richard - Der fliegende Holländer (Gesamtaufnahme)
-Titel:: Richard Wagner, Der fliegende Holländer. Orchester und Chorus of the Royal Opera House Covent Garden, Dirgent: Antal Dorati	
-Label:: Telefunken DEKKA ‎– 66.30076-1/-2/-3
-Format:: 3 × Vinyl, LP, Stereo
-Land:: Germany
-Veröffentlicht:: 1962 (1985)
-Trackliste:: Der fliegende Holländer
-A1:: Overture
-A2:: Hojohe, hallojo
-B1:: Die Frist ist um, und abermals verstrichen sind sieben Jahr
-C1:: Wie, hört ich recht
-D1:: Johohoe, johohohoe
-E1:: Mögst du, mein Kind, den fremden Mann wilkommen heissen
-F1:: Haha, wahrhaftig, sie sind todt
-Mitwirkende:: Composed By – Richard Wagner, Conductor – Antal Dorati, Orchestra and Choir – Orchester und Chorus of the Royal Opera House Covent Garden, Der Holländer – George London, Daland – Richard Lewis, Mary – Rosalind Elias, Senta – Leonie Rysanek, Der Steuermann – Richard Lewis, Erik – Karl Liebl
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+6630076 A1 Overture.mp3
+6630076 A2 Hojohe, hallojo.mp3
+6630076 B1 Die Frist ist um, und abermals verstrichen sind sieben Jahr.mp3
+6630076 C1 Wie, hört ich recht.mp3
+6630076 D1 Johohoe, johohohoe.mp3
+6630076 E1 Mögst du, mein Kind, den fremden Mann wilkommen heissen.mp3
+6630076 F1 Haha, wahrhaftig, sie sind todt.mp3

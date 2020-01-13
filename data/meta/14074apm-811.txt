@@ -1,17 +1,8 @@
-Display:: Bach, Johann Sebastian - BWV 811, Englische Suite Nr. 6 in d-Moll (Kirkpatrick)
-Title:: Archiv Produktion des musikhistorischen Studios der Deutschen Grammophon Gesellschaft, IX. Forschungsbereich 'Das Schaffen Johann Sebastian Bachs', Serie G: Werke für Klavier, Englische Suiten Nr. 5 e-Moll, BWV 810 und Nr. 6 d-Moll, BWV 811, Ralph Kirkpatrick, Cembalo
-Label:: Archiv Produktion – 14074 APM
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1957
-Trackliste:: Johann Sebastian Bach - Englische Suite Nr. 6 in d-Moll BWV 811
-B1:: Prélude
-B2:: Allemande
-B3:: Courante
-B4:: Sarabande
-B5a:: Gavotte I
-B5b:: Gavotte II
-B5c:: Gavotte I
-B6:: Gigue
-Mitwirkende:: Composed By – Johann Sebastian Bach, Cembalo – Ralph Kirkpatrick
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+apm14074 B1 Prélude.mp3
+apm14074 B2 Allemande.mp3
+apm14074 B3 Courante.mp3
+apm14074 B4 Sarabande.mp3
+apm14074 B5a Gavotte I.mp3
+apm14074 B5b Gavotte II.mp3
+apm14074 B5c Gavotte I.mp3
+apm14074 B6 Gigue.mp3

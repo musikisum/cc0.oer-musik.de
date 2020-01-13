@@ -1,12 +1,3 @@
-Display:: Mozart, Wolfgang Amadé - KV 84 Sinfonie in D-Dur
-Titel:: Wolfgang Amadeus Mozart, Sinfonie Nr. 11 D-Dur KV 84, Netherlands Philharmonic Orchestra, Dirigent: Otto Ackermann
-Label:: Concert Hall Society ‎– CHS 1166
-Format:: Vinyl, LP, Mono 
-Land:: US
-Veröffentlicht:: 1952/1953
-Trackliste:: Sinfonie Nr. 11 D-Dur KV 84 
-B4:: Allegro
-B5:: Andante
-B6:: Allegro
-Mitwirkende:: Composed By – Wolfgang Amadeus Mozart, Conductor – Otto Ackermann, Orchestra - Netherlands Philharmonic Orchestra
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+chs1166 B4 Allegro.mp3
+chs1166 B5 Andante.mp3
+chs1166 B6 Allegro.mp3

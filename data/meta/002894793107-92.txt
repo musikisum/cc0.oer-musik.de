@@ -1,15 +1,5 @@
-Display:: Beethoven, Ludwig v. - Op. 92 Sinfonie Nr. 7 in A-Dur (Fricsay)
-Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
-Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2014
-Erstveröffentlichung:: 1962
-Trackliste:: Sinfonie Nr. 7 in A-Dur Op. 92
-A5a:: Poco sostenuto
-A5b:: Vivace
-A6:: Allegretto
-A7:: Scherzo Presto
-A8:: Allegro con brio
-Mitwirkende:: Composer - Ludwig v. Beethoven, Orchestra - Berliner Philharmoniker, Conductor - Ferenc Fricsay
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+002894793107 A5a Poco sostenuto.mp3
+002894793107 A5b Vivace.mp3
+002894793107 A6 Allegretto.mp3
+002894793107 A7 Scherzo Presto.mp3
+002894793107 A8 Allegro con brio.mp3

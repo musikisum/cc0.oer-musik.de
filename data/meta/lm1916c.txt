@@ -1,19 +1,10 @@
-Display:: Verdi, Giuseppe - Die Macht des Schicksals - La forza del destino (Auszüge)
-Titel:: Verdi Highlights - The Force of Destiny (La Forza del Destino) 
-Label:: RCA ‎– LM-1916-C
-Format:: Vinyl, LP, Mono 
-Land:: Deutschland
-Veröffentlicht:: 1955
-Trackliste:: Die Macht des Schicksals - La forza del destino (Auszüge)
-A1:: Me pellegrina ed orfana
-A2:: Son giunta grazie, O Dio - Madre, pietosa Vergine
-A3:: La Vergine degli angeli
-A4:: La vita è inferno all'infelice - O tu che in seno agli angeli
-A5:: Solenne in quest' ora
-A6-B1:: Morir! Tremenda cosa - Urna fatale del mio destino
-B2:: Invano Alvaro
-B3:: Pace, pace, mio Dio!
-B4:: Io muojo! Confessione
-B5:: Non imprecare
-Mitwirkende:: Composer - Giuseppe Mahler, Orchestra – RCA Victor Orchester, Conductor – Renato Cellini and Jonel Perlea, Soprano - Zinka Milano (Leonora), Tenor - Jan Peerce (Alvaro), Bariton - Leonard Warren (Don Charlos), Bariton - Raymond Keast (Chirurgus), Bass - Nicola Moscona (Pater Guardian)
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+lm1916c A1 Me pellegrina ed orfana.mp3
+lm1916c A2 Son giunta grazie, O Dio - Madre, pietosa Vergine.mp3
+lm1916c A3 La Vergine degli angeli.mp3
+lm1916c A4 La vita è inferno all'infelice - O tu che in seno agli angeli.mp3
+lm1916c A5 Solenne in quest' ora.mp3
+lm1916c A6-B1 Morir! Tremenda cosa - Urna fatale del mio destino.mp3
+lm1916c B2 Invano Alvaro.mp3
+lm1916c B3 Pace, pace, mio Dio!.mp3
+lm1916c B4 Io muojo! Confessione.mp3
+lm1916c B5 Non imprecare.mp3

@@ -1,13 +1,4 @@
-Display:: Beethoven, Ludwig v. - Op. 27, Nr. 1 Sonate für Klavier Nr. 13 in Es-Dur (Schnabel)
-Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
-Label:: EMI His Masters Voice F 667.809-667.826
-Format:: Vinyl, LP, Mono 
-Land:: Germany
-Veröffentlicht:: 1933
-Trackliste:: Sonate für Klavier Nr. 13 in Es-Dur Op. 27, Nr. 1
-K1:: Allabreve – Allegro
-K2:: Allegro molto e vivace
-K3:: Adagio con espressione
-K4:: Allegro vivace - Tempo I - Presto
-Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+f6678xx K1 Allabreve – Allegro.mp3
+f6678xx K2 Allegro molto e vivace.mp3
+f6678xx K3 Adagio con espressione.mp3
+f6678xx K4 Allegro vivace - Tempo I - Presto.mp3

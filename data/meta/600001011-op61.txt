@@ -1,13 +1,3 @@
-Display:: Beethoven, Ludwig v. - Op. 61 Violinkonzert in D-Dur (Schneiderhan/Karajan)
-Title:: Herbert von Karajan. 1938–1960 Collection
-Label:: Membran Music Ltd./MCPS 600001/1–600001/117
-Format:: CD-Box (45 x CD) 
-Land:: Germany
-Veröffentlicht:: 2012
-Erstveröffentlichung:: 1955
-Trackliste:: Violinkonzert in D-Dur Op. 61
-A1:: Allegro ma non troppo
-A2:: Larghetto – attacca
-A3:: Rondo (Allegro)
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Lucerne Festival Orchestra, Violin - Wolfgang Schneiderhan
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+600001011 A1 Allegro ma non troppo.mp3
+600001011 A2 Larghetto – attacca.mp3
+600001011 A3 Rondo (Allegro).mp3

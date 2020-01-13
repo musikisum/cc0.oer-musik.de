@@ -1,24 +1,15 @@
-Display:: Verdi, Giuseppe - Messa da Requiem
-Titel:: Giuseppe Verdi ‎– Requiem
-Label:: RCA Victrola ‎– AT 201-202
-Format:: Vinyl, 2 x LP (Box-Set), Mono 
-Land:: Deutschland
-Veröffentlicht:: 1957
-Trackliste:: Messa da Requiem
-A1:: Requiem und Kyrie
-A2:: Dies irae
-A3:: Tuba mirum
-A4::  Liber scriptus
-B1:: Quid sum miser
-B2:: Rex tremendae
-B3:: Recordare
-B4:: Ingemisco
-B5:: Confutatis
-B6:: Lacrimosa
-C1:: Offertorium - Domine Jesu Christe
-C2:: Sanctus
-C3:: Agnus Dei
-D1:: Lux Aeterna
-D2:: Libera me
-Mitwirkende:: Orchestra – NBC Symphony Orchestra, Conducter – Arturo Toscanini, Choir – The Robert Shaw Chorale, Choir-Conductor – Robert Shaw, Soprano – Herva Nelli, Mezzo-soprano – Fedora Barbieri, Tenor Vocals – Giuseppe di Stefano, Bass – Cesare Siepi
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+at201 A1 Requiem und Kyrie.mp3
+at201 A2 Dies irae.mp3
+at201 A3 Tuba mirum.mp3
+at201 A4  Liber scriptus.mp3
+at201 B1 Quid sum miser.mp3
+at201 B2 Rex tremendae.mp3
+at201 B3 Recordare.mp3
+at201 B4 Ingemisco.mp3
+at201 B5 Confutatis.mp3
+at201 B6 Lacrimosa.mp3
+at201 C1 Offertorium - Domine Jesu Christe.mp3
+at201 C2 Sanctus.mp3
+at201 C3 Agnus Dei.mp3
+at201 D1 Lux Aeterna.mp3
+at201 D2 Libera me.mp3

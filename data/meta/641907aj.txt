@@ -1,14 +1,5 @@
-Display:: Beethoven, Ludwig v. - Op. 106 Sonate für Klavier in B-Dur (»Hammerklavier«)
-Titel:: Dokumente. Wilhelm Backhaus spielt die Hammerklaviersonate
-Label:: Decca ‎– 6.41907 AJ
-Format:: Vinyl, LP, Mono
-Land:: Germany
-Veröffentlicht:: 1954
-Trackliste:: Sonate für Klavier in B-Dur (»Hammerklavier«) Op. 106
-A1:: Allegro
-A2:: Scherzo – Assai vivace
-B1:: Adagio sostenuto - Appassionato e con molto sentimento
-B2a:: Largo
-B2b:: Allegro risoluto (Fuge)
-Mitwirkende:: Composed By Lidvig van Beethoven, Piano - Wilhelm Backhaus
-Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+641907aj A1 Allegro.mp3
+641907aj A2 Scherzo - Allegro assai.mp3
+641907aj B1 Adagio sostenuto - Appassionato e con molto sentimento.mp3
+641907aj B2a Largo.mp3
+641907aj B2b Allegro risoluto (Fuge).mp3
