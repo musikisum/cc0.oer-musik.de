@@ -33,7 +33,7 @@ module.exports = class MetaParser {
 
     return this.getNonEmptyLines(content).reduce((map, item) => {
       const [key, value] = item.split('::');
-      map[key.trim()] = value.trim();
+      try { map[key.trim()] = value.trim(); } catch (err) { console.log('item', item); throw err; }
       return map;
     }, {});
   }
@@ -57,6 +57,7 @@ module.exports = class MetaParser {
 
   getNonEmptyLines(str) {
     return str
+      .replace(/^\uFEFF/, '')
       .replace('\r')
       .split('\n')
       .map(x => x.trim())

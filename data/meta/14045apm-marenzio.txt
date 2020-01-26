@@ -3,12 +3,12 @@ Title:: Archiv Produktion des musikhistorischen Studios der Deutschen Grammophon
 Label:: Archiv Produktion - 14045 APM
 Format:: Vinyl, LP, Mono 
 Land:: Germany
-Veröffentlicht:: 1955
+VerÃ¶ffentlicht:: 1955
 Trackliste:: Luca Marenzio - Madrigale
 A1:: Vezzosi augelli
 A2:: Ahi, dispietata morte!
 A3:: Zefiro torna
-A4:: Ecco più che mai bellae
+A4:: Ecco piÃ¹ che mai bellae
 A5:: Scaldav'il sol
 A6:: O dolce anima mia
 Mitwirkende:: Composed By: Luca Marenzio, Singgemeinschaft Rudolf Lami, Dirigent: Rudolf Lami

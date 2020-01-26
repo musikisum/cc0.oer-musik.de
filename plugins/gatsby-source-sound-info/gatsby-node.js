@@ -16,5 +16,23 @@ exports.sourceNodes = async ({ actions, createNodeId, createContentDigest }, con
   // plugin code goes here...
   const { dataDirectory } = configOptions;
   const metaPaths = await globP(path.join(dataDirectory, './meta/*.txt'));
-  return Promise.all(metaPaths.map(f => parser.parse(f, f.replace(/[\\\/]meta[\\\/]/, '/files/'))));
+  const items = await Promise.all(metaPaths.map(f => parser.parse(f, f.replace(/[\\\/]meta[\\\/]/, '/files/'))));
+  items.forEach(item => {
+    const nodeId = `sound-info-id-${item.id}`;
+    const nodeContent = JSON.stringify(item);
+    const nodeData = {
+      id: nodeId,
+      parent: null,
+      children: [],
+      internal: {
+        type: `SoundInfoItem`,
+        content: nodeContent,
+        contentDigest: createContentDigest(item),
+      },
+      meta: item.meta,
+      tracks: item.tracks
+    };
+
+    createNode(nodeData);
+  });
 }

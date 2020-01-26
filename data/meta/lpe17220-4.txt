@@ -1,13 +1,11 @@
 Display:: Bach, Johann Sebastian ‎– Brandenburgisches Konzerte Nr. 4 G-Dur
 Label:: Deutsche Grammophon ‎– LPE 17 220
-Format:: Vinyl, 10", Album, Mono 
+Format:: Vinyl, 10", Album, Mono
 Land:: Germany
 Veröffentlicht:: 1961
 Trackliste:: Brandenburgisches Konzert Nr. 4 G-dur
 B1:: Allegro
 B2:: Andante
 B3:: Presto
-Flute:: Aurèle Nicolet, Hugo Storni
-Violin:: Wolfgang Schneiderhan
-Mitwirkende:: Leader – Rudolf Baumgartner, Orchestra – Festival Strings Lucerne
+Mitwirkende:: Leader – Rudolf Baumgartner, Orchestra – Festival Strings Lucerne, Flute – Aurèle Nicolet, Hugo Storni, Violin – Wolfgang Schneiderhan
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

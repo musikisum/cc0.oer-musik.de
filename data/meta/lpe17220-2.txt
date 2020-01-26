@@ -1,15 +1,11 @@
 Display:: Bach, Johann Sebastian ‎– Brandenburgisches Konzerte Nr. 2 F-Dur
 Label:: Deutsche Grammophon ‎– LPE 17 220
-Format:: Vinyl, 10", Album, Mono 
+Format:: Vinyl, 10", Album, Mono
 Land:: Germany
 Veröffentlicht:: 1961
 Trackliste:: Brandenburgisches Konzert Nr. 2 F-dur
 A1:: Allegro
 A2:: Andante
 A3:: Allegro Assai
-Flute:: Aurèle Nicolet
-Oboe:: Helmut Winschermann
-Trumpet:: Adolf Scherbaum
-Violin::Rudolf Baumgartner
-Mitwirkende:: Leader – Rudolf Baumgartner, Orchestra – Festival Strings Lucerne
+Mitwirkende:: Leader – Rudolf Baumgartner, Orchestra – Festival Strings Lucerne, Flute – Aurèle Nicolet, Oboe – Helmut Winschermann, Hugo Storni, Trumpet – Adolf Scherbaum, Violin – Rudolf Baumgartner
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
