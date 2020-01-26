@@ -1,6 +1,15 @@
-14182 A1 Kyrie.mp3
-14182 A2 Gloria.mp3
-14182 A3 Credo.mp3
-14182 A4 Sanctus.mp3
-14182 A5 Benedictus.mp3
-14182 A6 Agnus Dei.mp3
+Display:: Palestrina, Giovanni Pierluigi da - Missa Papae Marcelli
+Titel:: Archiv Produktion des Musikhistorischen Studios der Deutschen Grammophon Gesellschaft - Hochrenaissance (16. Jh.) 
+Label:: Archiv Produktion – 14182
+Format:: Vinyl, LP, Mono 
+Land:: Germany
+Veröffentlicht:: 1961
+Trackliste:: Missa Papae Marcelli
+A1:: Kyrie
+A2:: Gloria
+A3:: Credo
+A4:: Sanctus
+A5:: Benedictus
+A6:: Agnus Dei
+Mitwirkende:: Regensburger Domspatzen, Dirigent: Theobald Schrems
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

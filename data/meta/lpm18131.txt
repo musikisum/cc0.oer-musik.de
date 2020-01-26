@@ -1,3 +1,13 @@
-lpm18131 A1 Allegro.mp3
-lpm18131 B1 Adagio un poco moto.mp3
-lpm18131 B2 Allegro.mp3
+﻿Display:: Beethoven, Ludwig v. - Op. 73 Klavierkonzert Nr. 5 in Es-Dur (Kempff)
+Titel:: Ludwig v. Beethoven, Klavierkonzert Nr. 5 in Es-Dur op. 73
+Untertitel:: Wilhelm Kempff, Piano - Berliner Philharmoniker - Dirigent: Paul van Kempen
+Label:: Deutsche Grammophon Gesellschaft ‎– LPM 18131
+Format:: Vinyl, LP, Mono
+Land:: Germany
+Veröffentlicht:: 1959
+Trackliste:: Klavierkonzert Nr. 5 in Es-Dur Op. 73 
+A1:: Allegro
+B1:: Adagio un poco moto
+B2:: Allegro
+Mitwirkende:: Composer - Ludwig v. Beethoven, Conductor – Paul van Kempen, Orchestra – Berliner Philharmoniker, Piano - Wilhelm Kempff
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

@@ -1,4 +1,13 @@
-xl0080 A1 Allegro con fuoco.mp3
-xl0080 A2 Scherzo.mp3
-xl0080 A3 Adagio.mp3
-xl0080 A4 Finale.mp3
+Display:: Chopin, Frédéric - Op. 8 Trio in g-Moll für Klavier, Violine und Cello
+Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
+Label:: Muza Polskie Nagrania XL 0080 
+Format:: Vinyl, LP, Mono 
+Land:: Poland
+Veröffentlicht:: 1960
+Trackliste:: Trio in g-Moll für Klavier, Violine und Cello Op. 8
+A1:: Allegro con fuoco	
+A2:: Scherzo	
+A3:: Adagio	
+A4:: Finale
+Mitwirkende:: Composer - Frédéric Chopin, Piano - Władysław Szpilman, Violine - Tadeusz Wroński, Cello - Aleksander Ciechanski
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

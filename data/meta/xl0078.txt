@@ -1,7 +1,16 @@
-xl0078 A1 Polonaise g-Moll BI 1.mp3
-xl0078 A2 Polonaise B-Dur BI 3.mp3
-xl0078 A3 Polonaise As-Dur BI 5.mp3
-xl0078 A4 Polonaise gis-Moll_BI 6.mp3
-xl0078 B1 Polonaise b-Moll BI 13.mp3
-xl0078 B2 Polonaise f-Moll op.71, Nr.3.mp3
-xl0078 B3 Polonaise Ges-Dur BI 36.mp3
+Display:: Chopin, Frédéric - Op. posth. Polonaisen Vol. III Nr. 11, 12, 13, 14, 15, 16 (Czerny-Stefańska, Stefański)
+Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
+Label:: Muza Polskie Nagrania XL 0078
+Format:: Vinyl, LP, Mono 
+Land:: Poland
+Veröffentlicht:: 1960
+Trackliste:: Polonaisen Vol. III Op. posth.
+A1:: Polonaise g-Moll BI 1
+A2:: Polonaise B-Dur BI 3
+A3:: Polonaise As-Dur BI 5
+A4:: Polonaise gis-Moll	BI 6
+B1:: Polonaise b-Moll BI 13
+B2:: Polonaise f-Moll op.71, Nr.3
+B3:: Polonaise Ges-Dur BI 36
+Mitwirkende:: Composer - Frédéric Chopin, Piano - Halina Czerny-Stefańska, Ludwik Stefański
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

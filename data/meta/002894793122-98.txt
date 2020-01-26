@@ -1,5 +1,15 @@
-002894793122 A9a Adagio.mp3
-002894793122 A9b Allegro.mp3
-002894793122 A10 Adagio cantabile.mp3
-002894793122 A11 Menuetto Allegro.mp3
-002894793122 A12 Finale Presto.mp3
+Display:: Haydn, Joseph - Hob.I:098 Sinfonie in B-Dur 
+Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
+Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
+Format:: CD-Box (45 x CD) 
+Land:: Germany
+Veröffentlicht:: 2014
+Erstveröffentlichung:: 1955
+Trackliste:: Sinfonie in B-Dur Hob.I:098
+A9a:: Adagio
+A9b:: Allegro
+A10:: Adagio cantabile
+A11:: Menuetto Allegro
+A12:: Finale Presto
+Mitwirkende:: Composer - Joseph Haydn, Orchestra - RIAS-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

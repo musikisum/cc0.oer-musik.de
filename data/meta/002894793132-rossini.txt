@@ -1,9 +1,19 @@
-002894793132 A1 Overture.mp3
-002894793132 A2 Tarantella.mp3
-002894793132 A3 Mazurka.mp3
-002894793132 A4 Cossack Danse.mp3
-002894793132 A5 Cancan.mp3
-002894793132 A6 Valse lente.mp3
-002894793132 A7 Nocturne.mp3
-002894793132 A8 Galop.mp3
-002894793132 A9 Finale.mp3
+﻿Display:: Rossini, Gioacchino - La Boutique Fantasque (Arr. Respighi) (Fricsay)
+Titel:: Ferenc Fricsay. Complete Recordings on Deutsche Grammophon. Vol 1 - Orchestral Works
+Label:: Deutsche Grammophon 00289 479 3100 - 00289 479 3144
+Format:: CD-Box (45 x CD) 
+Land:: Germany
+Veröffentlicht:: 2014
+Erstveröffentlichung:: 1955
+Trackliste:: La Boutique Fantasque (Arr. Respighi)
+A1:: Overture
+A2:: Tarantella
+A3:: Mazurka
+A4:: Cossack Danse
+A5:: Cancan
+A6:: Valse lente
+A7:: Nocturne
+A8:: Galop
+A9:: Finale
+Mitwirkende:: Composer - Gioacchino Rossini, Orchestra - RIAS-Symphonie-Orchester Berlin, Conductor - Ferenc Fricsay.
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

@@ -1,12 +1,22 @@
-﻿138642slpm B4-1 C-Dur.mp3
-138642slpm B4-2 A-Dur.mp3
-138642slpm B4-3 D-Dur.mp3
-138642slpm B4-4 B-Dur.mp3
-138642slpm B4-5 Es-Dur.mp3
-138642slpm B4-6 C-Dur.mp3
-138642slpm B4-7 Es-Dur.mp3
-138642slpm B4-8 C-Dur.mp3
-138642slpm B4-9 A-Dur.mp3
-138642slpm B4-10 C-Dur.mp3
-138642slpm B4-11 G-Dur.mp3
-138642slpm B4-12 Es-Dur.mp3
+﻿Display:: Beethoven, Ludwig v. - WoO 14 Kontretänze
+Titel:: Ludwig van Beethoven, Kontretänze, Berliner Philhamroniker, Lorin Maazel
+Label:: Deutsche Grammophon ‎– 138 642
+Format:: Vinyl, LP, Stereo 
+Land:: Germany
+Veröffentlicht:: 1960
+Trackliste:: Kontretänze WoO 14 
+B4-1:: C-Dur.mp3
+B4-2:: A-Dur.mp3
+B4-3:: D-Dur.mp3
+B4-4:: B-Dur.mp3
+B4-5:: Es-Dur.mp3
+B4-6:: C-Dur.mp3
+B4-7:: Es-Dur.mp3
+B4-8:: C-Dur.mp3
+B4-9:: A-Dur.mp3
+B4-10:: C-Dur.mp3
+B4-11:: G-Dur.mp3
+B4-12:: Es-Dur.mp3
+Mitwirkende:: Composed By – Ludwig van Beethoven, Conductor – Lorin Maazel, Orchestra – Berliner Philharmoniker
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
+

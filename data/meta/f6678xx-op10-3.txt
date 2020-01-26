@@ -1,4 +1,13 @@
-f6678xx F1 Presto.mp3
-f6678xx F2 Largo e maestoso.mp3
-f6678xx F3 Menuetto (Allegro) und Trio.mp3
-f6678xx F4 Rondo (Allegro).mp3
+Display:: Beethoven, Ludwig v. - Op. 10, Nr. 3 Sonate für Klavier Nr. 7 in D-Dur (Schnabel)
+Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
+Label:: EMI His Masters Voice F 667.809-667.826
+Format:: Vinyl, LP, Mono 
+Land:: Germany
+Veröffentlicht:: 193
+Trackliste:: Sonate für Klavier Nr. 7 in D-Dur Op. 10, Nr. 3
+F1:: Presto
+F2:: Largo e maestoso
+F3:: Menuetto (Allegro) und Trio
+F4:: Rondo (Allegro)
+Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

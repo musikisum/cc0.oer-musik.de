@@ -1,4 +1,13 @@
-blk16116 A1 Moderato.mp3
-blk16116 A2 Andante poco mosso.mp3
-blk16116 B1 Scherzo, Allegro vivace - Un poco piu lento.mp3
-blk16116 B2 Rondo, Allegro vivace.mp3
+Display:: Schubert, Franz - D 845 Sonate für Klavier in a-Moll (Richter)
+Titel:: Franz Schubert, Sonate Nr. 1 für Klavier a-Moll, op. 42. Robert Schumann, Aus den Fantasiestücken, op. 12. Swjatoslaw Richter, Klavier.
+Label:: DECCA (Telefunken-Decca) BLK 16116
+Format:: Vinyl, LP, Mono 
+Land:: Germany
+Veröffentlicht:: 1959
+Trackliste:: Sonate für Klavier in a-Moll D 845
+A1:: Moderato
+A2:: Andante poco mosso
+B1:: Scherzo, Allegro vivace - Un poco piu lento
+B2:: Rondo, Allegro vivace
+Mitwirkende:: Composer - Franz Schubert, Piano - Swjatoslaw Richter.
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

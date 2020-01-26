@@ -1,6 +1,16 @@
-600001110 A1 Akt 1.mp3
-600001110 A2 Akt 2.mp3
-600001111 B1 Akt 3.mp3
-600001110 A1a Chiamo il mio ben cosi.mp3
-600001110 A2a Ballo & Balletto.mp3
-600001111 B1a Che farò senza Euridice.mp3
+Display:: Gluck, Christoph Willibald - Orfeo ed Euridice (Gesamtaufnahme) (Karajan)
+Titel:: Herbert von Karajan. 1938–1960 Collection
+Label:: Membran Music Ltd./MCPS 600001/1–600001/117
+Format:: CD-Box (45 x CD) 
+Land:: Germany
+Veröffentlicht:: 2012
+Erstveröffentlichung:: 1959
+Trackliste:: Orfeo ed Euridice (Gesamtaufnahme CD 110 & 111)
+A1:: Akt 1
+A2:: Akt 2
+B1:: Akt 3
+A1a:: Chiamo il mio ben cosi
+A2a:: Ballo & Balletto
+B1a:: Che farò senza Euridice
+Mitwirkende:: Composer - Christoph Willibald Gluck, Orchestra - Berliner Philharmoniker, Conductor - Herbert von Karajan
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

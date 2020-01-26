@@ -1,4 +1,13 @@
-s61116 A1 Langsam.mp3
-s61116 A2 Kräftig bewegt.mp3
-s61116 A3-B1 Feierlich und gemessen.mp3
-s61116 B2 Stürmisch bewegt.mp3
+Display:: Mahler, Gustav - Sinfonie Nr. 1 in D "The Titan"
+Titel:: Bruno Walter dirgiert Gustav Mahler, Sinfonie Nr. 1 D-Dur (Der Titan)
+Label:: CBS ‎– S 61116
+Format:: Vinyl, LP, Stereo 
+Land:: Deutschland
+Veröffentlicht:: 1961
+Trackliste:: Sinfonie Nr. 1 in D-Dur "Der Titan"
+A1:: Langsam
+A2:: Kräftig bewegt
+A3-B1:: Feierlich und gemessen
+B2:: Stürmisch bewegt
+Mitwirkende:: Composer - Gustav Mahler, Orchestra – Columbia Symphony Orchestra, Conductor – Bruno Walter
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

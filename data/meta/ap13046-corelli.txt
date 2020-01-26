@@ -1,9 +1,18 @@
-ap13046 A1 Vivace.mp3
-ap13046 A2 Grave.mp3
-ap13046 A3 Allegro.mp3
-ap13046 A4 Adagio.mp3
-ap13046 A5 Allegro.mp3
-ap13046 A6 Adagio.mp3
-ap13046 A7 Vivace.mp3
-ap13046 A8 Allegro.mp3
-ap13046 A9 Pastorale (Largo).mp3
+Display:: Corelli, Arcangelo - Concerto grosso Op. 6, Nr. 8 in g-Moll (Weihnachtskonzert)
+Titel:: Archiv Produktion des historischen Studios der Deutschen Grammophon Gesellschaft, VIII. Forschungsbereich: Das Italienische Settecento – Serie A: Das Konzert, Arcangelo Corelli ‎– Concerto grosso fatto per la notte di natale Op. 6 Nr. 8 g-Moll / Antonio Vivaldi, Concerto per la viola d'amore, liuto e con tutti gl'istromenti sordini d-Moll P.V. 266. 
+Label:: Archiv Produktion ‎– AP 13 046
+Format:: Vinyl, LP, 10", Mono
+Land:: Germany
+Veröffentlicht:: 1956
+Trackliste:: Concerto grosso fatto per la notte di natale Op. 6, Nr. 8 in g-Moll (Weihnachtskonzert)
+A1:: Vivace
+A2:: Grave
+A3:: Allegro
+A4:: Adagio
+A5:: Allegro 
+A6:: Adagio
+A7:: Vivace
+A8:: Allegro
+A9:: Pastorale (Largo)
+Mitwirkende:: Composer - Arcangelo Corelli, Ensemble – Cappella Coloniensis, Conductor – August Wenzinger, Violin – Otto Schaernack und Ulrich Grehling, Cello – Gerhard Stenzel, Cembalo – Fritz Neumeyer.
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

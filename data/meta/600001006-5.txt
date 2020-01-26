@@ -1,4 +1,14 @@
-600001006 A1 Allegro con brio.mp3
-600001006 A2 Andante con moto.mp3
-600001006 A3 Allegro.mp3
-600001006 A4 Allegro.mp3
+Display:: Beethoven, Ludwig v. - Op. 67 Sinfonie Nr. 5 in c-Moll (Karajan)
+Title:: Herbert von Karajan. 1938–1960 Collection
+Label:: Membran Music Ltd./MCPS 600001/1–600001/117
+Format:: CD-Box (45 x CD) 
+Land:: Germany
+Veröffentlicht:: 2012
+Erstveröffentlichung:: 1955
+Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 5 in c-Moll Op. 67 
+A1:: Allegro con brio
+A2:: Andante con moto
+A3:: Allegro
+A4:: Allegro
+Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

@@ -1,6 +1,16 @@
-﻿mk42020 A1a Un poco sostenuto.mp3
-mk42020 A1b Allegro - meno Allegro.mp3
-mk42020 A2 Andante sostenuto.mp3
-mk42020 A3 Un poco Allegretto e grazioso.mp3
-mk42020 A4a Adagio - Piu Andante.mp3
-mk42020 A4b Allegro non troppo, ma con brio.mp3
+﻿Display:: Brahms, Johannes - Op. 68 Sinfonie Nr. 1 in c-Moll
+Title:: Bruno Walter. Brahms. Symphony No. 1. Columbia Symphony Orchestra. 
+Label:: CBS
+Format:: CD, Stereo
+Land:: Holland
+Veröffentlicht:: 1985
+Erstveröffentlichung:: 1960
+Trackliste:: Sinfonie in c-Moll Op. 68
+A1a:: Un poco sostenuto
+A1b:: Allegro - meno Allegro
+A2:: Andante sostenuto
+A3:: Un poco Allegretto e grazioso
+A4a:: Adagio - Piu Andante
+A4b:: Allegro non troppo, ma con brio
+Mitwirkende:: Composer - Johannes Brahms, Orchestra - Columbia Symphony Orchestra, Conductor - Bruno Walter
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

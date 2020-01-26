@@ -1,12 +1,21 @@
-xl0063 A1 C-Dur – Allegro.mp3
-xl0063 A2 a-Moll – Allegro.mp3
-xl0063 A3 E-Dur – Lento ma non troppo.mp3
-xl0063 A4 cis-Moll – Presto con fuoco.mp3
-xl0063 A5 Ges-Dur – Vivace.mp3
-xl0063 A6 es-Moll – Andante.mp3
-xl0063 A7 C-Dur – Vivace.mp3
-xl0063 A8 F-Dur – Allegro veloce.mp3
-xl0063 B1 f-Moll – Allegro molto agitato.mp3
-xl0063 B2 As-Dur – Vivace assai.mp3
-xl0063 B3 Es-Dur – Allegretto.mp3
-xl0063 B4 c-Moll – Allegro con fuoco.mp3
+Display:: Chopin, Frédéric – Op. 10 Etüden (Boleslaw Woytowicz)
+Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists  
+Label:: Muza Polskie Nagrania XL 0063
+Format:: Vinyl, LP, Mono 
+Land:: Poland
+Veröffentlicht:: 1960
+Trackliste:: Etudes Op. 10
+A1:: C-Dur – Allegro
+A2:: a-Moll – Allegro
+A3:: E-Dur – Lento ma non troppo
+A4:: cis-Moll – Presto con fuoco
+A5:: Ges-Dur – Vivace
+A6:: es-Moll – Andante
+A7:: C-Dur – Vivace
+A8:: F-Dur – Allegro veloce
+B1:: f-Moll – Allegro molto agitato
+B2:: As-Dur – Vivace assai
+B3:: Es-Dur – Allegretto
+B4:: c-Moll – Allegro con fuoco
+Mitwirkende:: Composer - Frédéric Chopin, Piano - Boleslaw Woytowicz
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

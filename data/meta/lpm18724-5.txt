@@ -1,4 +1,13 @@
-﻿lpm18724 A1 Allegro con brio.mp3
-lpm18724 A2 Andante con moto.mp3
-lpm18724 B1a Allegro.mp3
-lpm18724 B1b (Allegro) attacca.mp3
+﻿Display:: Beethoven, Ludwig v. - Op. 67 Sinfonie Nr. 5 in c-Moll (Furtwängler)
+Titel:: Ludwig van Beethoven. Symphonie Nr. 5 c-Moll, Egmont-Ouvertüre, Berliner Philharmoniker - Wilhelm Furtwängler
+Label:: Deutsche Grammophon ‎– 18 724 LPM
+Format:: Vinyl, LP, Stereo 
+Land:: Germany
+Veröffentlicht:: 1961
+Trackliste:: Symphonie Nr. 5 C-moll Op. 67
+A1:: Allegro con brio 
+A2:: Andante con moto
+B1a:: Allegro
+B1b:: (Allegro) attacca
+Mitwirkende:: Composed By: Ludwig van Beethoven, Conductor: Wilhelm Furtwängler, Orchestra: Berliner Philharmoniker
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

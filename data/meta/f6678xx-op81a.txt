@@ -1,4 +1,13 @@
-f6678xx T1a Das Lebewohl (Les Adieux) Adagio.mp3
-f6678xx T1b Das Lebewohl (Les Adieux) Allegro.mp3
-f6678xx T2 Abwesenheit (L'Absence) Andante espressivo (In gehender Bewegung, doch mit viel Ausdruck).mp3
-f6678xx T3 Das Wiedersehen (Le Retour) Vivacissimamente (Im lebhaftesten Zeitmaße).mp3
+Display:: Beethoven, Ludwig v. - Op. 81a Sonate für Klavier Nr. 26 in Es-Dur (»Les Adieux«) (Schnabel)
+Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
+Label:: EMI His Masters Voice F 667.809-667.826
+Format:: Vinyl, LP, Mono 
+Land:: Germany
+Veröffentlicht:: 1933
+Trackliste:: Sonate für Klavier Nr. 26 in Es-Dur Op. 81a
+T1a:: Das Lebewohl (Les Adieux) Adagio
+T1b:: Das Lebewohl (Les Adieux) Allegro
+T2:: Abwesenheit (L'Absence) Andante espressivo (In gehender Bewegung, doch mit viel Ausdruck)
+T3:: Das Wiedersehen (Le Retour) Vivacissimamente (Im lebhaftesten Zeitmaße)
+Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

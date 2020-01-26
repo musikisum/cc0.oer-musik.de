@@ -1,24 +1,33 @@
-xl0062 A1 C-Dur Agitato.mp3
-xl0062 A2 a-Moll Lento.mp3
-xl0062 A3 G-Dur Vivace.mp3
-xl0062 A4 e-Moll Largo.mp3
-xl0062 A5 D-Dur Molto Allegro.mp3
-xl0062 A6 h-Moll Lento assai.mp3
-xl0062 A7 A-Dur Andantino.mp3
-xl0062 A8 fis-Moll Molto agitato.mp3
-xl0062 A9 E-Dur Largo.mp3
-xl0062 A10 cis-Moll Molto Allegro.mp3
-xl0062 A11 H-Dur Vivace.mp3
-xl0062 A12 gis-Moll Presto.mp3
-xl0062 A13 Fis-Dur Lento.mp3
-xl0062 A14 es-Moll Allegro.mp3
-xl0062 B1 Des-Dur Sostenuto.mp3
-xl0062 B2 b-Moll Presto con fuoco.mp3
-xl0062 B3 As-Dur Allegretto.mp3
-xl0062 B4 f-Moll Molto Allegro.mp3
-xl0062 B5 Es-Dur Vivace.mp3
-xl0062 B6 c-Moll Largo.mp3
-xl0062 B7 B-Dur Cantabile.mp3
-xl0062 B8 g-Moll Molto agitato.mp3
-xl0062 B9 F-Dur Moderato.mp3
-xl0062 B10 d-Moll Allegro appassionato.mp3
+Display:: Chopin, Frédéric - Op. 28 24 Preludes (Czerny-Stefańska)
+Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists 
+Label:: Muza Polskie Nagrania XL 0062
+Format:: Vinyl, LP, Mono 
+Land:: Poland
+Veröffentlicht:: 1960
+Trackliste:: 24 Preludes Op. 28
+A1:: C-Dur Agitato
+A2:: a-Moll Lento
+A3:: G-Dur Vivace
+A4:: e-Moll Largo
+A5:: D-Dur Molto Allegro
+A6:: h-Moll Lento assai
+A7:: A-Dur Andantino
+A8:: fis-Moll Molto agitato
+A9:: E-Dur Largo
+A10:: cis-Moll Molto Allegro
+A11:: H-Dur Vivace
+A12:: gis-Moll Presto
+A13:: Fis-Dur Lento
+A14:: es-Moll Allegro
+B1:: Des-Dur Sostenuto
+B2:: b-Moll Presto con fuoco
+B3:: As-Dur Allegretto
+B4:: f-Moll Molto Allegro
+B5:: Es-Dur Vivace
+B6:: c-Moll Largo
+B7:: B-Dur Cantabile
+B8:: g-Moll Molto agitato
+B9:: F-Dur Moderato
+B10:: d-Moll Allegro appassionato
+Mitwirkende:: Composer - Frédéric Chopin, Piano - Halina Czerny-Stefańska
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

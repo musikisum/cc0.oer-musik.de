@@ -1,4 +1,14 @@
-c047-2856x E1 Adagio.mp3
-c047-2856x E2 Fuga.mp3
-c047-2856x E3 Largo.mp3
-c047-2856x E4 Allegro assai.mp3
+Display:: Bach, Johann Sebastian - BWV 1005 Sonate für Violine solo in C-Dur (Szeryng)
+Titel:: Johann Sebastian Bach, Sonaten und Partiten für Violine solo BWV 1001-1006
+Untertitel:: Henryk Szeryng, Violine
+Label:: Dacapo. C047-28561 M / 563 M
+Format:: Vinyl, LP, Mono 
+Land:: Germany
+Veröffentlicht:: 1955 (Aufnahme-Datum)
+Werk:: Sonate für Violine solo in C-Dur BWV 1005
+E1:: Adagio
+E2:: Fuga
+E3:: Largo
+E4:: Allegro assai
+Mitwirkende:: Violine - Henryk Szeryng
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

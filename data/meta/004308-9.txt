@@ -1,4 +1,13 @@
-004307 N1 Allegro ma non troppo un poco maestoso.mp3
-004308 O1 Molto vivace.mp3
-004308 O2 Adagio molto e cantabile.mp3
-004308 P1 Presto.mp3
+Display:: Beethoven, Ludwig v. - Op. 125 Sinfonie Nr. 9 in d-Moll (Karajan)
+Titel:: Ludwig v. Beethoven, 9 Symphonien, Berliner Philharmoniker, Dirigent: Herbert v. Karajan   
+Label:: Deutsche Grammophon Gesellschaft ‎– 004306
+Format:: Vinyl, LP, Mono
+Land:: Germany
+Veröffentlicht:: 1962
+Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 9 in d-Moll Op. 125 
+N1:: Allegro ma non troppo un poco maestoso
+O1:: Molto vivace
+O2:: Adagio molto e cantabile
+P1:: Presto
+Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker – Gundula Janowitz, Sopran; Hilde Rössl-Majdan, Alt; Waldemar Kmentt, Tenor; Walter Berry, Bariton – Wiener Singverein
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

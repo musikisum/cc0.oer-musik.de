@@ -1,12 +1,21 @@
-﻿xl0064 A1 As-Dur (Harfen-Etüde).mp3
-xl0064 A2 f-Moll.mp3
-xl0064 A3 F-Dur.mp3
-xl0064 A4 a-Moll.mp3
-xl0064 A5 e-Moll.mp3
-xl0064 A6 gis-Moll (Terzen-Etüde).mp3
-xl0064 A7 cis-Moll.mp3
-xl0064 B1 Des-Dur (Sexten-Etüde).mp3
-xl0064 B2 Ges-Dur.mp3
-xl0064 B3 h-Moll (Oktaven-Etüde).mp3
-xl0064 B4 a-Moll (Sturm-Etüde).mp3
-xl0064 B5 c-Moll.mp3
+﻿Display:: Chopin, Frédéric ‎– Op. 25 Zwölf Etüden (Boleslaw Woytowicz)
+Titel:: Fryderyk Chopin. Dziela Wszystkie w wykonaniu artystów polskich / Complete Works performed by Polish Artists 
+Label:: Muza Polskie Nagrania XL 0064
+Format:: Vinyl, LP, Mono 
+Land:: Poland
+Veröffentlicht:: 1960
+Trackliste:: 12 Etüden Op. 25
+A1:: As-Dur (Harfen-Etüde)
+A2:: f-Moll
+A3:: F-Dur
+A4:: a-Moll
+A5:: e-Moll
+A6:: gis-Moll (Terzen-Etüde)
+A7:: cis-Moll
+B1:: Des-Dur (Sexten-Etüde)
+B2:: Ges-Dur
+B3:: h-Moll (Oktaven-Etüde)
+B4:: a-Moll (Sturm-Etüde)
+B5:: c-Moll
+Mitwirkende:: Composer - Frédéric Chopin, Piano - Boleslaw Woytowicz
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

@@ -1,5 +1,14 @@
-lw50148 A1a Adagio.mp3
-lw50148 A1b Allegro.mp3
-lw50148 A2 Allegretto.mp3
-lw50148 B1 Menuett.mp3
-lw50148 B2 Finale - Presto.mp3
+﻿Display:: Haydn, Joseph - Hob.I:100 Sinfonie in G-Dur (›Militär‹) 
+Titel:: Joseph Haydn - Sinfonie Nr. 100 ›Die Militärische‹. Londoner Philharmonisches Orchester, Georg Solti
+Label:: Telefunken Decca ‎– LW 50148
+Format:: Vinyl, LP, 10", Mono
+Land:: Germany
+Veröffentlicht:: vor 1957
+Trackliste:: Sinfonie in G-Dur (›Militär‹) Hob.I:100
+A1a:: Adagio
+A1b:: Allegro
+A2:: Allegretto	
+B1:: Menuett
+B2:: Finale - Presto
+Mitwirkende:: Conductor – Georg Solti; Orchestra – Londoner Philharmonisches Orchester
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

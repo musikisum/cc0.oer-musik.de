@@ -1,13 +1,23 @@
-lpm18284 A1a Requiem aeternam.mp3
-lpm18284 A1b Kyrie.mp3
-lpm18284 A2 Dies Irae.mp3
-lpm18284 A3 Tuba mirum.mp3
-lpm18284 A4 Rex tremendae.mp3
-lpm18284 A5 Recordare.mp3
-lpm18284 A6 Confutatis.mp3
-lpm18284 A7 Lacrimosa.mp3
-lpm18284 B1 Domine Jesu.mp3
-lpm18284 B2 Hostias.mp3
-lpm18284 B3 Sanctus.mp3
-lpm18284 B4 Benedictus.mp3
-lpm18284 B5 Agnus Dei.mp3
+﻿Display:: Mozart, Wolfgang Amadé - KV 626 Mozart Requiem (Jochum)
+Titel:: Wolfgang Amadeus Mozart, Requiem KV 626 
+Untertitel:: Irmgard Seefried - Sopran, Gertrude Pitzinger - Alt, Richard Holm - Tenor, Kim Borg - Bass, Chor der Wiener Staatsoper, Wiener Symphoniker, Eugen Jochum
+Label:: Deutsche Grammophon Gesellschaft ‎– lpm18284
+Format:: Vinyl, LP, Mono
+Land:: Germany
+Veröffentlicht:: 1956
+Trackliste:: Requiem KV 626
+A1a:: Requiem aeternam 
+A1b:: Kyrie
+A2:: Dies Irae
+A3:: Tuba mirum
+A4:: Rex tremendae
+A5:: Recordare
+A6:: Confutatis
+A7:: Lacrimosa
+B1:: Domine Jesu
+B2:: Hostias
+B3:: Sanctus
+B4:: Benedictus
+B5:: Agnus Dei
+Mitwirkende:: Conductor – Eugen Jochum; Orchestra – Wiener Symphoniker, Choir - Chor der Wiener Staatsoper, Irmgard Seefried - Sopran, Gertrude Pitzinger - Alt, Richard Holm - Tenor, Kim Borg - Bass
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

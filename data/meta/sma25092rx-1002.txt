@@ -1,8 +1,17 @@
-﻿sma25092rx D1 Allemande.mp3
-sma25092rx D2 Double.mp3
-sma25092rx D3 Courante.mp3
-sma25092rx D4 Double (Presto).mp3
-sma25092rx D5 Sarabande.mp3
-sma25092rx D6 Double.mp3
-sma25092rx D7 Tempo di Bourée.mp3
-sma25092rx D8 Double.mp3
+﻿Display:: Bach, Johann Sebastian - BWV 1002 Partita Nr. 1 h-Moll für Violine solo (Heifetz)
+Titel:: Johannn Sebastian Bach, 6 Sonatas & Partitas für Violine solo, Jascha Heifetz
+Label:: RCA (Red Seal) SMA 25092-R-4
+Format:: 3 × LP, Box-Set
+Land:: Germany
+Veröffentlicht:: 1957
+Trackliste:: Partita Nr. 1 h-Moll BWV 1002
+D1:: Allemande
+D2:: Double
+D3:: Courante
+D4:: Double (Presto)
+D5:: Sarabande
+D6:: Double
+D7:: Tempo di Boureé
+D8:: Double
+Mitwirkende:: Composed by - Johann Sebastioan Bach, Violine - Jascha Heifetz
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

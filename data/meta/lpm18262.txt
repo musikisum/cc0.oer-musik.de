@@ -1,10 +1,19 @@
-lpm18262 A1 Nocturne Op. 9 Nr. 1 in h-Moll.mp3
-lpm18262 A2 Nocturne Op. 9 Nr. 2 in Es-Dur.mp3
-lpm18262 A3 Nocturne Op. 9 Nr. 3 in H-Dur.mp3
-lpm18262 A4 Nocturne Op. 15 Nr. 1 in F-Dur.mp3
-lpm18262 A5 Nocturne Op. 15 Nr. 2 in Fis-Dur.mp3
-lpm18262 B1 Nocturne Op. 15 Nr. 3 in g-Moll.mp3
-lpm18262 B2 Nocturne Op. 27 Nr. 1 in cis-Moll.mp3
-lpm18262 B3 Nocturne Op. 27 Nr. 2 in Des-Dur.mp3
-lpm18262 B4 Nocturne Op. 32 Nr. 1 in H-Dur.mp3
-lpm18262 B5 Nocturne Op. 32 Nr. 2 in As-Dur.mp3
+Display:: Chopin, Frederic ‎– 20 Nocturnes I (Askenase)
+Title:: Frederic Chopin - 20 Nocturnes I, Stefan Askenase, Piano
+Label:: Deutsche Grammophon ‎– lpm 16048
+Format:: Vinyl, LP, Mono
+Land:: Germany
+Veröffentlicht:: 1960
+Trackliste:: 10 Nocturnes aus Op. 9, Op. 15, Op. 27 und Op. 32
+A1:: Nocturne Op. 9 Nr. 1 in h-Moll 
+A2:: Nocturne Op. 9 Nr. 2 in Es-Dur
+A3:: Nocturne Op. 9 Nr. 3 in H-Dur
+A4:: Nocturne Op. 15 Nr. 1 in F-Dur
+A5:: Nocturne Op. 15 Nr. 2 in Fis-Dur
+B1:: Nocturne Op. 15 Nr. 3 in g-Moll
+B2:: Nocturne Op. 27 Nr. 1 in cis-Moll
+B3:: Nocturne Op. 27 Nr. 2 in Des-Dur
+B4:: Nocturne Op. 32 Nr. 1 in H-Dur
+B5:: Nocturne Op. 32 Nr. 2 in As-Dur
+Mitwirkende:: Composed By – Frederic Chopin, Stefan Askenase, Piano
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

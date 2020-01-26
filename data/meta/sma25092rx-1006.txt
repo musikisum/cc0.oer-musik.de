@@ -1,7 +1,16 @@
-﻿sma25092rx F1 Prélude.mp3
-sma25092rx F2 Loure.mp3
-sma25092rx F3 Gavotte en Rondeau.mp3
-sma25092rx F4a Menuett I.mp3
-sma25092rx F4b Menuett II und Menuett I (da capo).mp3
-sma25092rx F5 Bourée.mp3
-sma25092rx F6 Gigue.mp3
+﻿Display:: Bach, Johann Sebastian - BWV 1006 Partita Nr. 3 E-Dur für Violine solo (Heifetz)
+Titel:: Johannn Sebastian Bach, 6 Sonatas & Partitas für Violine solo, Jascha Heifetz
+Label:: RCA (Red Seal) SMA 25092-R-6
+Format:: 3 × LP, Box-Set
+Land:: Germany
+Veröffentlicht:: 1957
+Trackliste:: Partita Nr. 3 E-DuFr BWV 1006
+F1:: Prélude
+F2:: Loure
+F3:: Gavotte en Rondeau
+F4a:: Menuett I
+F4b:: Menuett II und Menuett I (da capo)
+F5:: Bourée
+F6:: Gigue
+Mitwirkende:: Composed by - Johann Sebastioan Bach, Violine - Jascha Heifetz
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

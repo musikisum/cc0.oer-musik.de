@@ -1,4 +1,13 @@
-f6678xx L1 Allegro.mp3
-f6678xx L2 Andante.mp3
-f6678xx L3 Scherzo (Allegro vivace).mp3
-f6678xx L4 Rondo (Allegro ma non troppo).mp3
+Display:: Beethoven, Ludwig v. - Op. 28 Sonate für Klavier Nr. 15 in D-Dur (»Pastoralsonate«) (Schnabel)
+Titel:: Artur Schnabel. Beethoven. Sämtliche Klaviersonaten. 
+Label:: EMI His Masters Voice F 667.809-667.826
+Format:: Vinyl, LP, Mono 
+Land:: Germany
+Veröffentlicht:: 1934
+Trackliste:: Sonate für Klavier Nr. 15 in D-Dur Op. 28
+L1:: Allegro
+L2:: Andante
+L3:: Scherzo (Allegro vivace)
+L4:: Rondo (Allegro ma non troppo)
+Mitwirkende:: Composer - Ludwig van Beethoven, Piano - Artur Schnabel
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

@@ -1,0 +1,27 @@
+4453302 A1 Elektra - Wo bleibt Elektra.mp3
+4453302 A2 Elektra - Allein! Weh, ganz allein.mp3
+4453302 A3 Elektra - Elektra! Ah, das Gesicht.mp3
+4453302 A4 Elektra - Ich kann nicht sitzen und ins Dunkel starren.mp3
+4453302 A5 Elektra - Es geht ein Lärm los.mp3
+4453302 A6 Elektra - Was willst du Seht doch, dort.mp3
+4453302 A7 Elektra - Ich will nichts hören.mp3
+4453302 A8 Elektra - Ich habe keine guten Nächte.mp3
+4453302 A9 Elektra - Wenn das rechte Blutopfer unterm Beile fällt.mp3
+4453302 A10 Elektra - Was bluten muß Dein eigenes Genick.mp3
+4453312 A1 Elektra - Orest! Orest ist tot.mp3
+4453312 A2 Elektra - Platz da! Wer lungert so vor einer Tür.mp3
+4453312 A3 Elektra - Nun muß es hier von uns geschehn.mp3
+4453312 A4 Elektra - Wie stark du bist.mp3
+4453312 A5 Elektra - Nun denn, allein.mp3
+4453312 A6 Elektra - Was willst du, fremder Mensch.mp3
+4453312 A7 Elektra - Wer bist denn du.mp3
+4453312 A8 Elektra - Orest! Orest! Es rührt sich niemand.mp3
+4453312 A9 Elektra - Du wirst es tun Allein Du armes Kind.mp3
+4453312 A10 Elektra - Seid ihr von Sinnen.mp3
+4453312 A11 Elektra - Ich habe ihm das Beil nicht geben können.mp3
+4453312 A12 Elektra - He! Lichter! Lichter.mp3
+4453312 A13 Elektra - Helft! Mörder.mp3
+4453312 A14 Elektra - Elektra! Schwester.mp3
+4453312 A15 Elektra - Ob ich nicht höre.mp3
+4453312 A16 Elektra - Elektras Tanz.mp3
+4453312 A17 Elektra - Elektra! Schweig, und tanze.mp3

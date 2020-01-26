@@ -1,7 +1,16 @@
-77289-B A1 Praeludium.mp3
-77289-B A2 Allemande.mp3
-77289-B A3 Courante.mp3
-77289-B A4 Sarabande.mp3
-77289-B A5a Menuett I.mp3
-77289-B A5b Menuett II.mp3
-77289-B A6 Gigue.mp3
+Display:: Bach, Johann Sebastian - BWV 825 Partita in B-Dur (Glenn Gould)
+Titel:: Johann Sebastian Bach, Partiten Nr. 1-6 BWV 825-830, Glenn Gould Klavier
+Label:: CBS ‎– 77289
+Format:: 2 x Vinyl, LP, Mono
+Land:: Germany
+Veröffentlicht:: 1973 (Aufn. 1959)
+Trackliste:: Partita in B-Dur BWV 825
+A1:: Praeludium
+A2:: Allemande
+A3:: Courante
+A4:: Sarabande
+A5a:: Menuett I
+A5b:: Menuett II
+A6:: Gigue
+Mitwirkende:: Composed By Johann Sebastian Bach, Piano - Glenn Gould
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

@@ -1,4 +1,13 @@
-004304 G1 Allegro con brio.mp3
-004304 G2 Andante con moto.mp3
-004304 H1 Allegro.mp3
-004304 H2 Allegro (attacca).mp3
+Display:: Beethoven, Ludwig v. - Op. 67 Sinfonie Nr. 5 in c-Moll (Karajan)
+Titel:: Ludwig v. Beethoven, 9 Symphonien, Berliner Philharmoniker, Dirigent: Herbert v. Karajan   
+Label:: Deutsche Grammophon Gesellschaft ‎– 004304
+Format:: Vinyl, LP, Mono 
+Land:: Germany
+Veröffentlicht:: 1962
+Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 5 in c-Moll Op. 67
+G1:: Allegro con brio
+G2:: Andante con moto
+H1:: Allegro
+H2:: Allegro (attacca)
+Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker
+Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
