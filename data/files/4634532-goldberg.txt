@@ -1,0 +1,32 @@
+4634532 A1 Aria
+4634532 A2 Variatio 1 a 1 Clav
+4634532 A3 Variatio 2 a 1 Clav
+4634532 A4 Variatio 3 a 1 Clav Canone all'Unisono
+4634532 A5 Variatio 4 a 1 Clav
+4634532 A6 Variatio 5 a 1 ovvero 2 Clav
+4634532 A7 Variatio 6 a 1 Clav Canone alla seconda
+4634532 A8 Variatio 7 a 1 Clav ovvero 2 Clav Al tempo di Giga
+4634532 A9 Variatio 8 a 2 Clav
+4634532 A10 Variatio 9 a 1 Clav Canone alla Terza
+4634532 A11 Variatio 10 a 1 Clav Fughetta
+4634532 A12 Variatio 11 a 2 Clav
+4634532 A13 Variatio 12 Canone alla Quarta (a 1 Clav)
+4634532 A14 Variatio 13 a 2 Clav
+4634532 A15 Variatio 14 a 2 Clav
+4634532 A16 Variatio 15 a 2 Clav Canone alla Quinta. Andante
+4634532 A17 Variatio 16 a 1 Clav Ouverture
+4634532 A18 Variatio 17 a 2 Clav
+4634532 A19 Variiatio 18 Canone alla sesta (a 1 Cav)
+4634532 A20 Variatio 19 a 1 Clav
+4634532 A21 Variatio 20 a 2 Clav
+4634532 A22 Variatio 21 Canone alla Settima (a 1 Clav)
+4634532 A23 Variatio 22 a 1 Clav. Alla breve
+4634532 A24 Variatio 23 a 1 Clav
+4634532 A25 Variatio 24 a 1 Clav. Canone all'Ottava
+4634532 A26 Variatio 25 a 2 Clav. Adagio
+4634532 A27 Variatio 26 a 2 Clav
+4634532 A28 Variatio 27 a 2 Clav Canone alla Nona
+4634532 A29 Variatio 28 a 2 Clav
+4634532 A30 Variatio 29 a 1 ovvero 2 Clav
+4634532 A31 Variatio 30 a 1 Clav Quodlibet
+4634532 A32 Aria da Capo
