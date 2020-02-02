@@ -1,4 +1,4 @@
-﻿Display:: Beethoven, Ludwig v. - Op. 123 Missa Solemnis (Karajan)
+Display:: Beethoven, Ludwig v. - Op. 123 Missa Solemnis (Karajan)
 Title:: Herbert von Karajan. 1938–1960 Collection
 Label:: Membran Music Ltd./MCPS 600001/1–600001/117
 Format:: CD-Box (45 x CD) 
@@ -17,5 +17,5 @@ A7:: Sanctus
 A8:: Benedictus
 A9:: Agnus Dei
 A10:: Dona Nobis Pacem
-Mitwirkende:: Composer - Ludwig v. Beethoven, Choir - Singverein der Gesellschaft der Musikfreunde in Wien, Orchestra - Philharmonia Orchester, Conductor - Herbert von Karajan, Sopran - Elisabeth Schwarzkopf, Sopran - Brigit Nielsson, Tenor - Nicolai Gedda, Bass - Nicola Zaccaria. 
+Mitwirkende:: Composer - Ludwig v. Beethoven, Choir - Singverein der Gesellschaft der Musikfreunde in Wien, Orchestra - Philharmonia Orchester, Conductor - Herbert von Karajan, Sopran - Elisabeth Schwarzkopf, Mezzosopran - Christa Ludwig, Tenor - Nicolai Gedda, Bass - Nicola Zaccaria. 
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

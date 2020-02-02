@@ -11,5 +11,5 @@ A1b:: Vivace
 A2:: Allegretto
 A3:: Presto - Assai meno presto
 A4:: Allegro con brio
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker
+Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

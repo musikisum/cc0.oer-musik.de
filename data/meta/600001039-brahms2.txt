@@ -10,5 +10,5 @@ A1:: Allegro non troppo
 A2:: Allegro appassionato
 A3:: Andante
 A4:: Allegretto grazioso
-Mitwirkende:: Composed By – Johannes Brahms, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
+Mitwirkende:: Composed By – Johannes Brahms, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker, Klavier - Hans Richter-Haaser
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

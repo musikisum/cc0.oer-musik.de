@@ -10,5 +10,5 @@ A1:: Allegro
 A2:: Andante con moto
 A3:: Menuetto. Allegro molto - Trio
 A4:: Allegro vivace
-Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
+Mitwirkende:: Composed By – Franz Schubert, Conductor – Herbert v. Karajan, Orchestra – Philharmonia Orchestra
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

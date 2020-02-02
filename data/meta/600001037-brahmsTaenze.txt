@@ -1,4 +1,4 @@
-﻿Display:: Brahms, Johannes - Acht Ungarische Tänze (Karajan)
+Display:: Brahms, Johannes - Acht Ungarische Tänze (Karajan)
 Title:: Herbert von Karajan. 1938–1960 Collection
 Label:: Membran Music Ltd./MCPS 600001/1–600001/117
 Format:: CD-Box (45 x CD) 
@@ -14,5 +14,5 @@ A9:: Nr. 17 - Andantino
 A10:: Nr. 18 - Molto vivace
 A11:: Nr. 19 - Allegretto
 A12:: Nr. 20 - Poco allegretto
-Mitwirkende:: Composer - Johannes Brahms, Orchestra - Wiener Philharmoniker, Conductor - Herbert von Karajan
+Mitwirkende:: Composer - Johannes Brahms, Orchestra - Berliner Philharmoniker, Conductor - Herbert von Karajan
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
