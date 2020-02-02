@@ -1,5 +1,140 @@
 const fs = require('fs').promises;
 
+const metadataKeyMappings = {
+  'Display': 'display',
+  'Titel': 'title',
+  'Label': 'label',
+  'Format': 'format',
+  'Land': 'country',
+  'Veröffentlicht': 'published',
+  'Erstveröffentlichung': 'firstPublished',
+  'Trackliste': 'composition',
+  'Tracks': 'composition2',
+  'Mitwirkende': 'artists',
+  'Urheberrecht': 'license',
+  'Title': 'title2',
+  'Untertitel': 'subtitle',
+  'Werk': 'composition3',
+  'Komponist': 'composer',
+  'Erstveröffentlicht': 'firstPublished2',
+  'Record Company': 'label2',
+  'Anmerkungen': 'annotations',
+  'Serie': 'series',
+  'Auszüge': 'tobedeleted'
+};
+
+const finalFieldNames = [
+  'display',
+  'title',
+  'label',
+  'format',
+  'country',
+  'published',
+  'firstPublished',
+  'composition',
+  'artists',
+  'license',
+  'annotations'
+];
+
+const metaDataFilters = [
+  mapMetadataKeys,
+  pruneMetadataKeys,
+  setCc0License,
+  unEnDashifyArtists,
+  consolidateWhitespace
+];
+
+function mapMetadataKeys(input) {
+  const output = {};
+  Object.keys(input).forEach(originalKey => {
+    const originalValue = input[originalKey];
+    const mappingKey = metadataKeyMappings[originalKey];
+    if (mappingKey) {
+      output[mappingKey] = originalValue !== undefined ? originalValue : null;
+    } else {
+      output[originalKey] = originalValue;
+    }
+  });
+
+  return output;
+}
+
+function pruneMetadataKeys(input) {
+  if (input.title2) {
+    input.title = input.title2;
+  }
+
+  if (input.label2) {
+    input.label = input.label2;
+  }
+
+  if (input.composition3) {
+    input.composition2 = input.composition3;
+  }
+
+  if (input.composition2) {
+    input.composition = input.composition2;
+  }
+
+  if (input.series) {
+    input.format = input.series;
+  }
+
+  if (input.firstPublished2) {
+    input.firstPublished = input.firstPublished2;
+  }
+
+  if (input.subtitle && input.title) {
+    input.title = `${input.title.replace(/\.?/, '')}. ${input.subtitle}`;
+  } else if (input.subtitle && !input.title) {
+    input.title = input.subtitle;
+  }
+
+  if (input.composer && input.artists && !input.artists.includes('Composer')) {
+    input.artists = `Composer - ${input.composer}, ${input.artists}`;
+  }
+
+  if (input.artists && input.artists.includes('Composed By')) {
+    input.artists = input.artists.replace('Composed By', 'Composer');
+  }
+
+  delete input.title2;
+  delete input.label2;
+  delete input.series;
+  delete input.composition2;
+  delete input.composition3;
+  delete input.firstPublished2;
+  delete input.subtitle;
+  delete input.composer;
+  delete input.tobedeleted;
+
+  return input;
+}
+
+function setCc0License(input) {
+  input.license = 'CC0';
+  return input;
+}
+
+function unEnDashifyArtists(input) {
+  if (input.artists) {
+    input.artists = input.artists.replace(/[–:]/g, ' - ');
+  }
+
+  return input;
+}
+
+function consolidateWhitespace(input) {
+  finalFieldNames.forEach(key => {
+    if (typeof input[key] === 'string') {
+      input[key] = input[key].replace(/\s+/g, ' ');
+    }
+  });
+
+  return input;
+}
+
 module.exports = class MetaParser {
   async parse(metaPath, filePath) {
     const [metaContent, fileContent] = await Promise.all([
@@ -31,11 +166,13 @@ module.exports = class MetaParser {
       return null;
     }
 
-    return this.getNonEmptyLines(content).reduce((map, item) => {
+    const originalObject = this.getNonEmptyLines(content).reduce((map, item) => {
       const [key, value] = item.split('::');
       try { map[key.trim()] = value.trim(); } catch (err) { console.log('item', item); throw err; }
       return map;
     }, {});
+
+    return metaDataFilters.reduce((o, f) => f(o), originalObject);
   }
 
   parseFileContent(content, path) {
