@@ -1,0 +1,9 @@
+95631 A8 Andante.mp3
+95631 A9 Lento (Elle regarde avec étonnement de tous coté).mp3
+95631 A10 Allegro (Bacchus danse seul).mp3
+95631 A11 Andante (Le baiser).mp3
+95631 A12 Allegro deciso (La Thiase défile).mp3
+95631 A13 Andante (Danse d'Ariane).mp3
+95631 A14 Moderato e pesante (Danse d'Ariane et de Bacchus).mp3
+95631 A15 Allegro brillante (Bacchanale).mp3
+95631 A16 Allegro molto.mp3
