@@ -1,4 +1,4 @@
-﻿600001116 A1 Overture.mp3
+600001116 A1 Overture.mp3
 600001116 A2 Taubchen, das entflattert ist.mp3
 600001116 A3 Ha ha ha ha! Da schreibt meine Schwester Ida.mp3
 600001116 A4 Ich muss mir fur heute Abend.mp3
@@ -41,3 +41,10 @@
 600001117 A17 Entreakte.mp3
 600001117 A18 Hallo, also das is ein fideles Gefängnis.mp3
 600001117 A19 Hahaha, da bin ich wieder in meinem Palais.mp3
+600001117 A20 Ah, derr Herr Direktor is scho da.mp3
+600001117 A21 Spiel' ich die Unschuld vom Lande.mp3
+600001117 A22 Bravo, ganz entzückend.mp3
+600001117 A23 Ich stehe voll Zagen.mp3
+600001117 A24 Da Sie alles wissen nun.mp3
+600001117 A25 Du wagst es mir.mp3
+600001117 A26 O Fledermaus! O Fledermaus.mp3

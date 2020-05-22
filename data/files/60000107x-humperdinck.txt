@@ -1,5 +1,5 @@
-﻿600001071 A1 Akt 1 (Nummern 1-12).mp3
-600001071 A2 Akt 2 (Nummern 13-18).mp3
 600001072 A1 Akt 3 (Nummern 19-32).mp3
+600001071 A2 Akt 2 (Nummern 13-18).mp3
+600001071 A3 Akt 3 (Nummern 19-32).mp3
 600001071 A1a Ouvertüre.mp3
 600001071 A2a Abends will ich schlafen gehn - Traumpantomime.mp3

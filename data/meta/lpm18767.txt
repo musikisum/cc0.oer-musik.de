@@ -1,4 +1,4 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 626 Mozart Requiem (Karajan)
+Display:: Mozart, Wolfgang Amadé - KV 626 Mozart Requiem (Karajan)
 Titel:: Wolfgang Amadeus Mozart, Requiem KV 626 
 Untertitel:: Wilma Lipp - Sopran, Hilde Rössl-Majdan - Alt, Anton Dermata - Tenor, Walter Berry - Bass, Berliner Philharmoniker, Wiener Singverein, Herbert v. Karajan
 Label:: Deutsche Grammophon Gesellschaft ‎– lpm 18767
@@ -20,5 +20,5 @@ B2b:: Quam olim Abrahae
 B3:: Sanctus
 B4:: Benedictus
 B5:: Agnus Dei
-Mitwirkende:: Conductor – Herbert von Karajan; Orchestra – Berliner Philharmoniker, Choir - Wiener Singverein, Wilma Lipp - Sopran, Hilde Rössl-Majdan - Alt, Anton Dermata - Tenor, Walter Berry - Bass
+Mitwirkende:: Conductor – Herbert von Karajan; Orchestra – Berliner Philharmoniker, Choir - Wiener Singverein, Sopran - Wilma Lipp, Alt - Hilde Rössl-Majdan, Tenor - Anton Dermata, Bass - Walter Berry.
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

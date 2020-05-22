@@ -49,5 +49,12 @@ A16:: Genug, damit, genug
 A17:: Entreakte
 A18:: Hallo, also das is ein fideles Gefängnis
 A19:: Hahaha, da bin ich wieder in meinem Palais
+A20:: Ah, derr Herr Direktor is scho da
+A21:: Spiel' ich die Unschuld vom Lande
+A22:: Bravo, ganz entzückend
+A23:: Ich stehe voll Zagen
+A24:: Da Sie alles wissen nun
+A25:: Du wagst es mir
+A26:: O Fledermaus! O Fledermaus
 Mitwirkende:: Composer - Johann Strauss (Sohn), Orchestra & Chorus - Philharmonie Orchestra & Chorus, Conductor - Herbert v. Karajan, Rosalinde - Elisabeth Schwarzkopf, Adele - Rita Reich, Gabriel von Eisenstein - Nicolai Gedda, Alfred - Helmut Krebs, Dr. Falke - Erich Kunz, Orlofsky - Rudolf Christ, Dr. Blind - Erich Majkut.
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
