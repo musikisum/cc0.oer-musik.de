@@ -20,7 +20,6 @@
     "gatsby-plugin-emotion": "^4.1.21",
     "gatsby-plugin-typography": "^2.3.21",
     "gatsby-source-filesystem": "^2.1.46",
-    "gatsby-transformer-remark": "^2.6.48",
     "glob": "~7.1.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",

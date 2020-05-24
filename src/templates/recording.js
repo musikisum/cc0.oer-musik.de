@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
 export default ({ data }) => {
-  const { id, fields, meta, tracks } = data.soundInfoItem;
+  const { meta } = data.soundInfoItem;
   return (
     <Layout>
       <div>
