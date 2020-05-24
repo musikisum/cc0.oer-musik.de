@@ -16,8 +16,8 @@ export default ({ data }) => {
         >
           Amazing Pandas Eating Things
         </h1>
-        <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
-        {data.allMarkdownRemark.edges.map(({ node }) => (
+        <h4>{data.allSoundInfoItem.totalCount} recordings</h4>
+        {data.allSoundInfoItem.nodes.map(node => (
           <div key={node.id}>
             <Link
               to={node.fields.slug}
@@ -31,16 +31,16 @@ export default ({ data }) => {
                   margin-bottom: ${rhythm(1 / 4)};
                 `}
               >
-                {node.frontmatter.title}{" "}
+                {node.meta.display}{" "}
                 <span
                   css={css`
                     color: #bbb;
                   `}
                 >
-                  — {node.frontmatter.date}
+                  — {node.meta.firstPublished || node.meta.published}
                 </span>
               </h3>
-              <p>{node.excerpt}</p>
+              <p>etc.</p>
             </Link>
           </div>
         ))}
@@ -51,21 +51,18 @@ export default ({ data }) => {
 
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      totalCount
-      edges {
-        node {
-          id
-          frontmatter {
-            title
-            date(formatString: "DD MMMM, YYYY")
-          }
-          fields {
-            slug
-          }
-          excerpt
+    allSoundInfoItem(sort: { fields: meta___display }) {
+      nodes {
+        id
+        fields {
+          slug
+        }
+        meta {
+          display
+          firstPublished
+          published
         }
       }
     }
   }
-`
+`;

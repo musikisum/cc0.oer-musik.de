@@ -1,13 +1,13 @@
 Display:: Schubert, Franz - D 797 Bühnenmusik zu »Rosamunde« (Auszüge)
 Title:: Bruno Walter Edition. Schubert, Symphony No. 9 (8) »The Great«, Rosamunde (Excerpts), Columbia Symphony Orchestra.
 Label:: SBM – SMK 64478
-Format:: CD Mono/Stereo 
+Format:: CD Mono/Stereo
 Land:: Austria
 Veröffentlicht:: 1995
 Erstveröffentlichung:: 1955
 Trackliste:: Bühnenmusik zu »Rosamunde« (Auszüge) D 644 und D 797
-64478 A5 Ouvertüre. Andante - Allegro vivace (aus ›Die Zauberharfe‹)
-64478 A6 Andantino (Nr. 5 nach dem 3. Aufzug)
-64478 A7 Andantino
+A5:: Ouvertüre. Andante - Allegro vivace (aus ›Die Zauberharfe‹)
+A6:: Andantino (Nr. 5 nach dem 3. Aufzug)
+A7:: Andantino
 Mitwirkende:: Composer - Franz Schubert, Conductor - Bruno Walter, Orchestra - Columbia Symphony Orchestra.
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

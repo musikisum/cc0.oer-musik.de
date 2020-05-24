@@ -150,16 +150,11 @@ module.exports = class MetaParser {
     }
 
     const trackKeys = fileObj.tracks.map(t => t.key);
-    if (fileObj.cdId === '002894793100') console.log('trackKeys', trackKeys);
     const metaKeys = Object.keys(metaObj).filter(m => !trackKeys.includes(m));
-    if (fileObj.cdId === '002894793100') console.log('metaKeys', metaKeys);
     const remainingMetas = Object.fromEntries(metaKeys.map(m => [m, metaObj[m]]));
-    if (fileObj.cdId === '002894793100') console.log('remainingMetas', remainingMetas);
 
     const fileMetaKeys = Object.keys(metaObj).filter(m => trackKeys.includes(m));
-    if (fileObj.cdId === '002894793100') console.log('fileMetaKeys', fileMetaKeys);
     const remainingFileMetas = Object.fromEntries(fileMetaKeys.map(m => [m, metaObj[m]]));
-    if (fileObj.cdId === '002894793100') console.log('remainingFileMetas', remainingFileMetas);
 
     const finalMeta = Object.fromEntries(Object.entries(remainingMetas).filter(([k, v]) => finalFieldNames.includes(k)))
 
