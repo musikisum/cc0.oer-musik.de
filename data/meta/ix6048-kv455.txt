@@ -5,6 +5,6 @@ Format:: 4 x Vinyl, LP, Mono, Box Set
 Land:: GB
 Veröffentlicht:: 1955
 Trackliste:: Zehn Variationen in G-Dur über "Unser dummer Pöbel meint" KV 455
-G1:: Zehn Variationen in G-Dur
+H4:: Zehn Variationen in G-Dur
 Mitwirkende:: Walter Gieseking (Klavier)
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

@@ -1,12 +1,12 @@
-﻿Display:: Mozart, Wolfgang Amadé - KV 218 Konzert Nr. 5 für Violine und Orchester in A-Dur (Schneiderhan)
+﻿Display:: Mozart, Wolfgang Amadé - KV 219 Konzert Nr. 5 für Violine und Orchester in A-Dur (Schneiderhan)
 Titel:: Wolfgang Amadeus Mozart, Konzert für Violine und Orchester Nr. 4 D-Dur KV 218, Konzert für Violine und Orchester Nr. 5 A-Dur KV 219, Wolfgang Schneiderhan - Violine, Wiener Symphoniker, Ferdinand Leitner
 Label:: Deutsche Grammophon Gesellschaft ‎– LPM 18314
 Format:: Vinyl, LP, Mono
 Land:: Germany
 Veröffentlicht:: 1957
 Trackliste:: Konzert Nr. 5 für Violine und Orchester in A-Dur KV 219
-A1:: Allegro aperto - Adagio - Allegro aperto
-A2:: Adagio
-A3:: Rondeau - Tempo di Menuetto - Allegro - Tempo di Menuetto
+B1:: Adagio
+B2:: Allegro aperto - Adagio - Allegro aperto
+B3:: Rondeau - Tempo di Menuetto - Allegro - Tempo di Menuetto
 Mitwirkende:: Composer - Wolfgang Amadeus Mozart, Conductor – Ferdinand Leitner, Orchestra – Wiener Symphoniker.
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

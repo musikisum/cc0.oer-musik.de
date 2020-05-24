@@ -5,9 +5,9 @@ Format:: Vinyl, LP, Stereo
 Land:: Germany
 Veröffentlicht:: 1961
 Trackliste:: Streichquartett F-dur Op. 96  
-A1:: Allegro ma non troppo
-A2:: Lento
-A3:: Molto Vivace  
-A4:: Vivace ma non troppo  
+B1:: Allegro ma non troppo
+B2:: Lento
+B3:: Molto Vivace  
+B4:: Vivace ma non troppo  
 Mitwirkende:: Amadeus-Quartett: Violine I – Norbert Brainin, Violine II – Siegmund Nissel, Viola – Peter Schidlof, Cello – Martin Lovett 
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

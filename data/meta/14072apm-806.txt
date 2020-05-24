@@ -8,9 +8,9 @@ Trackliste:: Johann Sebastian Bach - Englische Suite Nr. 1 in A-Dur BWV 806
 A1:: Prélude
 A2:: Allemande
 A3:: Courante I
-A4::a Courante II
-A4::b Double I
-A4::c Double II
+A4a:: Courante II
+A4b:: Double I
+A4c:: Double II
 A5:: Sarabande
 A6:: Bourée I
 A7:: Bourée II

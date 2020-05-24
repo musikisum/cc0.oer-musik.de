@@ -5,10 +5,10 @@ Format:: Vinyl, LP, Mono
 Land:: Germany
 Veröffentlicht:: 1962
 Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 7 in A-Dur Op. 92 
-A1a:: Poco sostenuto
-A1b:: Vivace
-A2:: Allegretto
-B1:: Presto - Assai meno presto
-B2:: Allegro con brio
+K1a:: Poco sostenuto
+K1b:: Vivace
+K2:: Allegretto
+L1:: Presto - Assai meno presto
+L2:: Allegro con brio
 Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Herbert v. Karajan, Orchestra – Berliner Philharmoniker
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

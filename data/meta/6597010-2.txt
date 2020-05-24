@@ -5,10 +5,10 @@ Format:: Vinyl, LP, Mono
 Land:: Holland
 Veröffentlicht:: 1960 (Aufn. 1940)
 Trackliste:: Ludwig van Beethoven, Sinfonie Nr. 2 Op. 36 in D-Dur
-A1a:: Adagio molto
-A1b:: Allegro con brio
-A2:: Larghetto
-B1:: Scherzo (Allegro)
-B2:: Allegro molto
+C1a:: Adagio molto
+C1b:: Allegro con brio
+C2:: Larghetto
+D1:: Scherzo (Allegro)
+D2:: Allegro molto
 Mitwirkende:: Composed By – Ludwig Van Beethoven, Conductor – Willem Mengelberg, Orchestra – Concertgebouw-Orchester, Amsterdam
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
