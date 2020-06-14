@@ -2,28 +2,22 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
+    title: 'Pandas Eating Lots',
   },
   plugins: [
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: `src`,
-        path: `${__dirname}/src/`,
+        name: 'src',
+        path: `${__dirname}/src/`
       },
     },
-    `gatsby-plugin-emotion`,
+    'gatsby-plugin-emotion',
     {
-      resolve: `gatsby-plugin-typography`,
+      resolve: 'gatsby-plugin-typography',
       options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
-    {
-      resolve: "gatsby-source-sound-info",
-      options: {
-        dataDirectory: path.join(__dirname, "./data/")
-      },
-    },
-  ],
+        pathToConfigModule: 'src/utils/typography',
+      }
+    }
+  ]
 }

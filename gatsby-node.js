@@ -1,58 +1,28 @@
-const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const path = require('path');
+const util = require('util');
+const glob = require('glob');
+const MetaParser = require('./meta-parser');
 
-exports.onCreateNode = ({ node, getNode, actions }) => {
-  const { createNodeField } = actions
-  if (node.internal.type === 'SoundInfoItem') {
-    createNodeField({
-      node,
-      name: 'slug',
-      value: `/recordings/${node.id}/`
-    });
-  }
-}
+const globP = util.promisify(glob);
 
-exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
-  const result = await graphql(`
-    query {
-      allSoundInfoItem {
-        nodes {
-          id
-          fields {
-            slug
-          }
-          tracks {
-            fileName
-            key
-            name
-          }
-          meta {
-            composition
-            cdId
-            title
-            artists
-            annotations
-            country
-            display
-            firstPublished
-            format
-            label
-            license
-            published
-          }
-        }
-      }
-    }
-  `);
+exports.createPages = async ({ actions: { createPage } }) => {
+  const parser = new MetaParser();
+  const dataDirectory = path.join(__dirname, './data/');
+  const metaPaths = await globP(path.join(dataDirectory, './meta/*.txt'));
+  const recordings = await Promise.all(metaPaths.map(f => parser.parse(f, f.replace(/[\\\/]meta[\\\/]/, '/files/'))));
 
-  result.data.allSoundInfoItem.nodes.forEach(node => {
+  createPage({
+    path: '/recordings',
+    component: require.resolve('./src/templates/recordings.js'),
+    context: { recordings },
+  });
+
+
+  recordings.forEach(recording => {
     createPage({
-      path: node.fields.slug,
-      component: path.resolve(`./src/templates/recording.js`),
-      context: {
-        id: node.id
-      },
+      path: `/recordings/${recording.id}/`,
+      component: path.resolve('./src/templates/recording.js'),
+      context: { recording }
     });
   });
 }
