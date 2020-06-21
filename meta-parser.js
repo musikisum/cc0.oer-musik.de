@@ -173,7 +173,7 @@ module.exports = class MetaParser {
 
     const originalObject = this.getNonEmptyLines(content).reduce((map, item) => {
       const [key, value] = item.split('::');
-      try { map[key.trim()] = value.trim(); } catch (err) { console.log('item', item); throw err; }
+      try { map[key.trim()] = value.trim(); } catch (err) { console.log('content', content); throw err; }
       return map;
     }, {});
 

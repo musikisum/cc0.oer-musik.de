@@ -15,12 +15,13 @@
   },
   "dependencies": {
     "@emotion/core": "~10.0.28",
-    "gatsby": "~2.22.15",
-    "gatsby-cli": "~2.12.40",
-    "gatsby-plugin-emotion": "~4.3.2",
-    "gatsby-plugin-typography": "~2.5.2",
-    "gatsby-source-filesystem": "~2.3.8",
+    "gatsby": "~2.23.7",
+    "gatsby-cli": "~2.12.48",
+    "gatsby-plugin-emotion": "~4.3.4",
+    "gatsby-plugin-typography": "~2.5.4",
+    "gatsby-source-filesystem": "~2.3.12",
     "glob": "~7.1.6",
+    "prettier": "~2.0.5",
     "react": "~16.13.1",
     "react-dom": "~16.13.1",
     "react-typography": "~0.16.19",
@@ -28,8 +29,5 @@
     "typography": "~0.16.19",
     "typography-theme-kirkham": "~0.16.19",
     "update": "~0.7.4"
-  },
-  "devDependencies": {
-    "prettier": "~2.0.5"
   }
 }
