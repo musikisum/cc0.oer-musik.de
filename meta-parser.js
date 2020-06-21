@@ -200,7 +200,7 @@ module.exports = class MetaParser {
   getNonEmptyLines(str) {
     return str
       .replace(/^\uFEFF/, '')
-      .replace('\r')
+      .replace('\r', '')
       .split('\n')
       .map(x => x.trim())
       .filter(x => !!x);
