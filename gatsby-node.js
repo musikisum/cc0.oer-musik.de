@@ -1,22 +1,27 @@
 const path = require('path');
 const util = require('util');
 const glob = require('glob');
+const fs = require('fs').promises;
+const CsvParser = require('./csv-parser');
 const MetaParser = require('./meta-parser');
 
 const globP = util.promisify(glob);
 
 exports.createPages = async ({ actions: { createPage } }) => {
-  const parser = new MetaParser();
+  const metaParser = new MetaParser();
   const dataDirectory = path.join(__dirname, './data/');
   const metaPaths = await globP(path.join(dataDirectory, './meta/*.txt'));
-  const recordings = await Promise.all(metaPaths.map(f => parser.parse(f, f.replace(/[\\\/]meta[\\\/]/, '/files/'))));
+  const recordings = await Promise.all(metaPaths.map(f => metaParser.parse(f, f.replace(/[\\\/]meta[\\\/]/, '/files/'))));
+
+  const csvParser = new CsvParser();
+  const bsbFileName = path.join(__dirname, './data/bsbdata.csv');
+  const bsbData = await csvParser.parse(bsbFileName);
 
   createPage({
     path: '/recordings',
     component: require.resolve('./src/templates/recordings.js'),
     context: { recordings },
   });
-
 
   recordings.forEach(recording => {
     createPage({
