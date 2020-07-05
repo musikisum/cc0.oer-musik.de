@@ -17,6 +17,25 @@ exports.createPages = async ({ actions: { createPage } }) => {
   const bsbFileName = path.join(__dirname, './data/bsbdata.csv');
   const bsbData = await csvParser.parse(bsbFileName);
 
+  const bsbDataLookUp = bsbData.reduce((accu, item) => {
+    accu[item.id] = { ...accu[item.id], [item.track]: item.pid };
+    return accu;
+  }, {});
+
+  recordings.forEach(recording => {
+    recording.tracks.forEach(recordingTrack => {
+      const lookUpTracks = bsbDataLookUp[recording.meta.cdId] || {};
+      recordingTrack.pid = lookUpTracks[recordingTrack.key] || null;
+      recordingTrack.link = recordingTrack.pid ? {
+        url: `http://digital.bib-bvb.de/webclient/DeliveryManager?pid=${recordingTrack.pid}&custom_att_2=download`,
+        type: 'bsb'
+      } : {
+        url: `http://soundprojekt.hmtm.de/sound/${recording.meta.cdId} ${recordingTrack.key} ${recordingTrack.fileName}`,
+        type: 'hmtm'
+      }
+    });
+  });
+
   createPage({
     path: '/recordings',
     component: require.resolve('./src/templates/recordings.js'),

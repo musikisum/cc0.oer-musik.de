@@ -6,6 +6,12 @@ export default ({ pageContext: { recording } }) => {
     <Layout>
       <div>
         <h1>{recording.meta.display}</h1>
+        {recording.tracks.map(track => (
+          <div style={{ marginBottom: '10px' }}>
+            <div>{track.name}</div>
+            <audio src={track.link.url} controls />
+          </div>
+        ))}
       </div>
     </Layout>
   );
