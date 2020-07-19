@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Pandas Eating Lots',
+    title: 'Public Domain Musik',
   },
   plugins: [
     {

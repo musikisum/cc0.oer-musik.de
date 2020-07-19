@@ -1,0 +1,195 @@
+* {
+    box-sizing: border-box;
+ } 
+body {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    color: #333;
+    margin: 0;
+ }
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+a:hover {
+  color: #004d88;
+  text-decoration: underline;
+}
+
+
+header {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#152836), to(#1b3647));
+}
+
+#mainContainer, .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+#mainContainer {
+  flex-direction: column;
+}
+
+.colums {
+  display: flex;
+}
+
+.column, .jumbotron {
+  padding: 20px;
+}
+
+/* Landing Page Jumbotron and Danger Styles */
+
+.jumbotron {
+  margin: 20px;
+  padding: 40px;
+  padding-top: 20px;
+  min-height: 300px;
+  background-color: #1691be;
+  color: whitesmoke;
+  border-radius: 6px;
+}
+
+.jumbotron h1 {
+  font-size: 3em;
+}
+
+.jumbotron h2 {
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+.danger {
+  color: #a94442;
+  padding: 15px;
+  margin: 40px 0;
+  border: 1px solid transparent;
+  background-image: linear-gradient(to bottom, #f2dede 0%, #e7c3c3 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff2dede', endColorstr='#ffe7c3c3', GradientType=0);
+  background-repeat: repeat-x;
+  background-color: #f2dede;
+  border-radius: 4px;
+  font-weight: 400;
+  border-color: #dca7a7;
+}
+
+/* Button Styles */
+
+.btn {
+  font-size: 18px;
+  padding: 10px 16px;
+  border-radius: 6px;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  text-decoration: none;
+}
+
+.btn-default {
+  text-shadow: 0 1px 0 #fff;
+  background-image: -webkit-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  background-image: -o-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e0e0e0));
+  background-image: linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe0e0e0', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
+  background-repeat: repeat-x;
+  border-color: #dbdbdb;
+
+  color: #333;
+  background-color: #fff;
+}
+.btn-default:focus {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #8c8c8c;
+}
+.btn-default:hover {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.btn-default:active {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+
+.btn-ob {
+  margin-top: 20px;
+  background-image: -webkit-linear-gradient(top, #e9931a 0%, #d06503 100%);
+  background-image: -o-linear-gradient(top, #e9931a 0%, #d06503 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e9931a), to(#d06503));
+  background-image: linear-gradient(to bottom, #e9931a 0%, #d06503 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe9931a', endColorstr='#ffd06503', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: 
+  repeat-x;
+  color: whitesmoke;
+}
+.btn-ob:focus {
+  color: #ffe3ab;
+  background-color: #e6e6e6;
+  border-color: #8c8c8c;
+}
+.btn-ob:hover {
+  color: #ffe3ab;
+  background-color: #e6e6e6;
+  border-color: #b05000;
+}
+.btn-ob:active {
+  color: #ffe3ab;
+  background-color: #e6e6e6;
+  border-color: #b05000;
+}
+
+.mobileCollapsed {
+  display: block;
+}
+#hamburgerRow {
+  padding: 20px;
+  display: none;
+}
+
+/* Media Queries */
+
+@media all and (max-width: 1000px) {
+   nav > ul {
+      flex-wrap: wrap;
+   }       
+   nav > ul > li {
+      flex: 1 1 50%;
+   }
+}
+
+@media all and (max-width: 600px) {
+   nav > ul > li {
+      flex-basis: 100%;
+  }
+  .colums {
+   flex-direction: column;
+  }
+  .column {
+    border-bottom: 1px solid silver;
+  }
+  #hamburgerRow {
+    display: block;
+  }
+  .mobileCollapsed {
+    display: none;
+  }
+  .danger {
+    margin: 20px 0;
+  }
+}
+
