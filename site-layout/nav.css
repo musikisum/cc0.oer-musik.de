@@ -10,6 +10,9 @@ nav > ul {
 nav > ul > li {
    flex: 0 1 100%;
 }
+nav > ul > li > a.active {
+   background: #4a6b8a;
+}
 nav > ul > li > a {
    color: white;
    text-decoration: none;
@@ -31,24 +34,24 @@ nav > ul > li > a.brand {
   letter-spacing: 2px;
 }
 
-.hamburg { 
+.hamburg {
    display: block;
-   background: #29516D; 
-   width: 75px; 
-   height: 50px; 
-   position: relative; 
-   margin: 0 auto; 
-   border-radius: 4px; 
+   background: #29516D;
+   width: 75px;
+   height: 50px;
+   position: relative;
+   margin: 0 auto;
+   border-radius: 4px;
    transition: border-radius .5s;
 }
-.line { 
-   position: absolute; 
+.line {
+   position: absolute;
    left:10px;
-   height: 4px; width: 55px; 
+   height: 4px; width: 55px;
    background: #fff; border-radius: 2px;
-   display: block; 
-   transition: 0.5s; 
-   transform-origin: center; 
+   display: block;
+   transition: 0.5s;
+   transform-origin: center;
 }
 .line:nth-child(1) { top: 12px; }
 .line:nth-child(2) { top: 24px; }
