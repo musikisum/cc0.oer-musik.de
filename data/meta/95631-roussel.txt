@@ -1,11 +1,11 @@
-Display:: Roussel, Albert - Op. 43 Bachhus et Ariane
+Display:: Roussel, Albert - Op. 43 Bacchus et Ariane
 Title:: Igor Markevitch, Maskia Predit. Schubert - Symphony No. 3, De Falla - El Sombrero de tres Picos, Roussel - Bacchus et Ariane, Mussorgsky/Markevitch - Songs.
 Label:: Audite – 95.631
 Format:: CD Mono 
 Land:: Austria
 Veröffentlicht:: 2009
 Erstveröffentlichung:: 1952/1953
-Trackliste:: Bachhus et Ariane Op. 43
+Trackliste:: Bacchus et Ariane Op. 43
 A8:: Andante
 A9:: Lento (Elle regarde avec étonnement de tous coté)
 A10:: Allegro (Bacchus danse seul)
@@ -15,6 +15,6 @@ A13:: Andante (Danse d'Ariane)
 A14:: Moderato e pesante (Danse d'Ariane et de Bacchus)
 A15:: Allegro brillante (Bacchanale)
 A16:: Allegro molto
-Mitwirkende:: Composer - Franz Schubert, Conductor - Igor Markevitch, Orchestra - RIAS-Symphonie-Orchester.
+Mitwirkende:: Composer - Albert Roussel, Conductor - Igor Markevitch, Orchestra - RIAS-Symphonie-Orchester.
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
 

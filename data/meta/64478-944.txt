@@ -8,7 +8,7 @@ Erstveröffentlichung:: 1959
 Trackliste:: Sinfonie Nr. 7 in C-Dur D 944
 A1a:: Andante
 A1b:: Allegro ma non troppo
-A2:: Andante con moto	15:50
+A2:: Andante con moto
 A3:: Allegro vivace (Scherzo)
 A4:: Allegro vivace (Finale)
 Mitwirkende:: Composer - Franz Schubert, Conductor - Bruno Walter, Orchestra - Columbia Symphony Orchestra.
