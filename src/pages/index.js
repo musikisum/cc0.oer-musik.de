@@ -6,7 +6,7 @@ export default () => {
     <Layout>
       <div>
         <h1>Hier geht es zu den Sounddateien...</h1>
-        <p>Goto <a href="/recordings">recordings</a></p>
+        <p>Klicken Sie <a href="/recordings">hier</a>, um zu den Aufnahmen zu gelangen.</p>
       </div>
     </Layout>
   )
