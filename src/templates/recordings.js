@@ -1,8 +1,11 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'gatsby';
 import Layout from '../components/layout';
 
 export default ({ pageContext: { recordings } }) => {
+  useEffect(() => {
+    alert('I am in the browser, we have ' + recordings.length + ' Aufnahmen!');
+  }, []);
   return (
     <Layout>
       <div>

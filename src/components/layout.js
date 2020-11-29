@@ -49,26 +49,7 @@ export default ({ children }) => {
          </p>
        </div>
        <div class="colums">
-          <div class="column">
-            <h3>Public Domain Musik</h3>
-            <p>
-              Die im Aufbau befindliche Sammlung besteht aus Digitalisaten von Schallplatten und CD's, auf denen Aufnahmen zu hören sind, die erstmalig vor dem 1. Januar 1963 aufgenommen und veröffentlicht worden sind. Weitere Informationen finden Sie auf den Seiten zum <a href="/home/urheberrecht">Urheberrecht</a> und zum <a href="/home/leistungsschutz">Leistungsschutzrecht</a>.<br />
-              Die Schallplatten und CD's stammen aus meiner eigenen Sammlung sowie aus den großen Beständen der <a href="http://website.musikhochschule-muenchen.de/de/index.php">Hochschule für Musik und Theater München</a>. Die Digitalisate übergebe ich hiermit der Gemeinfreiheit im Sinne der <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a>-Lizenz.
-            </p>
-            <p class="danger">
-              Please take into account that due to differences in international copyright law, some of the digitized materials on this website may be protected
-              outside of Germany. More information regarding the digitized material can be found in the metadata-sections attached to each recording.
-            </p>
-            <p>
-              <a class="btn btn-default" href="/musik">Zur Sammlung »</a>
-            </p>
-           </div>
-         <div class="column">
-         <h3>Public Domain Bilder</h3>
-         <p>
-           Als Zugabe finden Sie hier Bilder aus meiner ebenfalls im Aufbau befindlichen Sammlung. Auch die Bilder sind gemeinfrei im Sinne der <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0-Lizenz (Public Domain)</a>. Geplant ist, im Laufe der Zeit hochwertige Bilder von Musikinstrumenten zur Verfügung zu stellen, die frei zur Illustration von Heften und Arbeitsblättern für den Musikunterricht verwendet werden können.
-         </p>
-       </div>
+        {children}
       </div>
      </div>
    </main>
