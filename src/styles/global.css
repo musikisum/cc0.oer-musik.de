@@ -37,6 +37,7 @@ main {
 
 .colums {
   display: flex;
+  flex-direction: column;
 }
 
 .column, .jumbotron {
@@ -233,6 +234,15 @@ nav > ul > li > a.brand {
 }
 .hamburg.checked .line:nth-child(3){
    transform: translateY(-12px) rotate(45deg);
+}
+
+p.recordingItemLink {
+  margin: 0;
+  padding: 0;
+}
+
+.recordingIsVisible {
+  display: block;
 }
 
 /* Media Queries */

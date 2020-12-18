@@ -8,16 +8,22 @@ export default ({ pageContext: { recordings } }) => {
   }, []);
   return (
     <Layout>
+      <div class="jumbotron">
+        <h1>Public Domain Musik</h1>
+        <h2>Auf dieser Seite finden Sie Aufnahmen klassischer Musik, die nach deutschem Urheberecht nicht mehr geschützt sind.</h2>
+        <input type="search" id="tutorials-filter" placeholder="Suchbegriff eingeben" />
+      </div>
       <div>
-        <h1>Amazing Pandas Eating Things</h1>
         <h4>{recordings.length} recordings</h4>
+        <div class="colums">
         {recordings.map(recording => (
-          <div key={recording.id}>
+          <div key={recording.id} class="recordingIsVisible">
             <Link to={`/recordings/${recording.id}/`}>
-              <h3>{recording.meta.display} — {recording.meta.firstPublished || recording.meta.published}</h3>
+              <p class="recordingItemLink">{recording.meta.display}</p>
             </Link>
           </div>
         ))}
+      </div>
       </div>
     </Layout>
   )

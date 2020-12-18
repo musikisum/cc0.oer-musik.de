@@ -39,7 +39,7 @@ exports.createPages = async ({ actions: { createPage } }) => {
   createPage({
     path: '/recordings',
     component: require.resolve('./src/templates/recordings.js'),
-    context: { recordings },
+    context: { recordings }
   });
 
   recordings.forEach(recording => {

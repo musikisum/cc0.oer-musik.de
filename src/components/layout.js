@@ -40,18 +40,9 @@ export default ({ children }) => {
    </div>
   </header>
    <main>
-     <div id="mainContainer">
-       <div class="jumbotron">
-         <h1>Public Domain Musik</h1>
-         <h2>Auf dieser Seite finden Sie Aufnahmen klassischer Musik, die nach deutschem Urheberecht nicht mehr geschützt sind.</h2>
-         <p>
-           <a href="/home/urheberrecht" class="btn btn-ob btn-lg aColorWhite">Leistungsschutzrecht? »</a>
-         </p>
-       </div>
-       <div class="colums">
-        {children}
-      </div>
-     </div>
+    <div id="mainContainer">
+      {children}
+    </div>
    </main>
    <footer>
      <div class="container">
