@@ -4,10 +4,12 @@ import Layout from '../components/layout';
 export default () => {
   return (
     <Layout>
-      <div>
-        <h1>Hier geht es zu den Sounddateien...</h1>
-        <p>Klicken Sie <a href="/recordings">hier</a>, um zu den Aufnahmen zu gelangen.</p>
-      </div>
+    	<div class="jumbotron">
+        <h1>Public Domain Musik</h1>
+        <h2>Auf dieser Seite finden Sie Aufnahmen klassischer Musik, die nach deutschem Urheberecht nicht mehr geschützt sind.</h2>
+        <p>Die im Aufbau befindliche Sammlung besteht aus Digitalisaten von Schallplatten und CD's, auf denen Aufnahmen zu hören sind, die erstmalig vor dem 1. Januar 1963 aufgenommen und veröffentlicht worden sind. Weitere Informationen finden Sie auf den Seiten zum Urheberrecht und zum Leistungsschutzrecht.</p>
+        <a class="btn btn-ob" href="/recordings">Zu den Aufnahmen...</a>
+      </div>      
     </Layout>
   )
 }

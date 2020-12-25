@@ -13,7 +13,6 @@ a {
 }
 a:hover {
   color: #004d88;
-  text-decoration: underline;
 }
 
 
@@ -23,6 +22,14 @@ header {
 
 main {
   padding: 20px;
+}
+
+footer {
+  position: absolute;
+  margin: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
 
 #mainContainer, .container {
@@ -38,6 +45,7 @@ main {
 .colums {
   display: flex;
   flex-direction: column;
+  margin: 0 20px;
 }
 
 .column, .jumbotron {
@@ -65,10 +73,14 @@ main {
   font-weight: normal;
 }
 
+.jumbotron h3 {
+  font-size: 1.25em;
+  font-weight: normal;
+}
+
 .danger {
   color: #a94442;
   padding: 15px;
-  margin: 40px 0;
   border: 1px solid transparent;
   background-image: linear-gradient(to bottom, #f2dede 0%, #e7c3c3 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff2dede', endColorstr='#ffe7c3c3', GradientType=0);
@@ -138,8 +150,7 @@ main {
   background-image: linear-gradient(to bottom, #e9931a 0%, #d06503 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe9931a', endColorstr='#ffd06503', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
-  background-repeat:
-  repeat-x;
+  background-repeat: repeat-x;
   color: whitesmoke;
 }
 .btn-ob:focus {
@@ -163,6 +174,11 @@ main {
 #hamburgerRow {
   padding: 20px;
   display: none;
+}
+
+.searchInput {
+  max-width: 400px;
+  height: 36px;
 }
 
 /* Navigation */

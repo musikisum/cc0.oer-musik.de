@@ -1,21 +1,18 @@
-import React, { useEffect } from 'react';
 import { Link } from 'gatsby';
+import React, { useEffect, useState } from 'react';
 import Layout from '../components/layout';
+import Search from '../components/search';
 
 export default ({ pageContext: { recordings } }) => {
-  useEffect(() => {
-    alert('I am in the browser, we have ' + recordings.length + ' Aufnahmen!');
-  }, []);
+  
   return (
     <Layout>
       <div class="jumbotron">
         <h1>Public Domain Musik</h1>
-        <h2>Auf dieser Seite finden Sie Aufnahmen klassischer Musik, die nach deutschem Urheberecht nicht mehr geschützt sind.</h2>
-        <input type="search" id="tutorials-filter" placeholder="Suchbegriff eingeben" />
-      </div>
-      <div>
-        <h4>{recordings.length} recordings</h4>
-        <div class="colums">
+        <Search recordings={recordings} />
+        <h3>Aktuell sind {recordings.length} Aufnahmen verfügbar!</h3>
+      </div>      
+      <div class="colums">
         {recordings.map(recording => (
           <div key={recording.id} class="recordingIsVisible">
             <Link to={`/recordings/${recording.id}/`}>
@@ -23,7 +20,6 @@ export default ({ pageContext: { recordings } }) => {
             </Link>
           </div>
         ))}
-      </div>
       </div>
     </Layout>
   )
