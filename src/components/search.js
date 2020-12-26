@@ -7,6 +7,6 @@ export default ({ recordings }) => {
     alert('I am in the browser, we have ' + recordings.length + ' Aufnahmen!');
   }, []);
   return (
-  	<input class="searchInput" type="search" id="tutorials-filter" placeholder="Suchbegriff eingeben" />
+  	<input className="searchInput" type="search" id="tutorials-filter" placeholder="Suchbegriff eingeben" />
   )
 }

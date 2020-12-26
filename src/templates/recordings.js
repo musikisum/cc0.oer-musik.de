@@ -7,16 +7,16 @@ export default ({ pageContext: { recordings } }) => {
   
   return (
     <Layout>
-      <div class="jumbotron">
+      <div className="jumbotron">
         <h1>Public Domain Musik</h1>
         <Search recordings={recordings} />
         <h3>Aktuell sind {recordings.length} Aufnahmen verfügbar!</h3>
       </div>      
-      <div class="colums">
+      <div className="colums">
         {recordings.map(recording => (
-          <div key={recording.id} class="recordingIsVisible">
+          <div key={recording.id} className="recordingIsVisible">
             <Link to={`/recordings/${recording.id}/`}>
-              <p class="recordingItemLink">{recording.meta.display}</p>
+              <p className="recordingItemLink">{recording.meta.display}</p>
             </Link>
           </div>
         ))}

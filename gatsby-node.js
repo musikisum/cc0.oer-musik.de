@@ -26,13 +26,14 @@ exports.createPages = async ({ actions: { createPage } }) => {
     recording.tracks.forEach(recordingTrack => {
       const lookUpTracks = bsbDataLookUp[recording.meta.cdId] || {};
       recordingTrack.pid = lookUpTracks[recordingTrack.key] || null;
-      recordingTrack.link = recordingTrack.pid ? {
+      recordingTrack.bsbLink = recordingTrack.pid ? {
         url: `http://digital.bib-bvb.de/webclient/DeliveryManager?pid=${recordingTrack.pid}&custom_att_2=download`,
         type: 'bsb'
-      } : {
+      } : null;
+      recordingTrack.hmtLink = {
         url: `http://soundprojekt.hmtm.de/sound/${recording.meta.cdId} ${recordingTrack.key} ${recordingTrack.fileName}`,
         type: 'hmtm'
-      }
+      };
     });
   });
 

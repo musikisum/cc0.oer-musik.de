@@ -18,21 +18,21 @@ export default ({ children }) => {
     <div>
       <header>
         <div id="hamburgerRow">
-          <div class="hamburg">
-              <span class="line"></span>
-              <span class="line"></span>
-              <span class="line"></span>
+          <div className="hamburg">
+              <span className="line"></span>
+              <span className="line"></span>
+              <span className="line"></span>
           </div>
         </div>
-        <div id="menuContainer" class="mobileCollapsed container">
+        <div id="menuContainer" className="mobileCollapsed container">
           <nav>
             <ul>
-             <li><a id="index" class="brand navAnchor" href="/">Home</a></li>
-              <li><a id="musik" class="navAnchor" href="/">Zur Musik</a></li>
-              <li><a id="about" class="navAnchor" href="/">Zum Projekt</a></li>
-              <li><a id="urheberrecht" class="navAnchor" href="/urheberrecht">Urheberrecht</a></li>
-              <li><a id="leistungsschutzrecht" class="navAnchor" href="/leistungsschutzrecht">Leistungsschutz</a></li>
-              <li><a id="dsgvo" class="navAnchor" href="/dsgvo">DSGVO</a></li>
+             <li><a id="index" className="brand navAnchor" href="/">Home</a></li>
+              <li><a id="musik" className="navAnchor" href="/recordings">Zur Musik</a></li>
+              <li><a id="about" className="navAnchor" href="/">Zum Projekt</a></li>
+              <li><a id="urheberrecht" className="navAnchor" href="/urheberrecht">Urheberrecht</a></li>
+              <li><a id="leistungsschutzrecht" className="navAnchor" href="/leistungsschutzrecht">Leistungsschutz</a></li>
+              <li><a id="dsgvo" className="navAnchor" href="/dsgvo">DSGVO</a></li>
               <li><a href="http://oer-musik.de">oer-musik.de</a></li>
             </ul>
           </nav>
@@ -43,11 +43,11 @@ export default ({ children }) => {
           {children}
         </div>
        </main>
-       {/*<footer>
-        <div class="danger">
-          <p>Please take into account that due to differences in international copyright law, some of the digitized materials on this website may be protected outside of Germany. More information regarding the digitized material can be found in the metadata-sections attached to each recording.</p>
+       <footer>
+        <div className="danger">
+          <p>Please take into account that due to differences in international copyright law, some of the digitized materials on this website may be protected outside of Germany/Europe. More information regarding the digitized material can be found in the metadata-sections attached to each recording.</p>
         </div>
-       </footer>*/}
+       </footer>
     </div>
   )
 }
