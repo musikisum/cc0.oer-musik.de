@@ -44,7 +44,7 @@ footer {
 .colums {
   display: flex;
   flex-direction: column;
-  margin: 0 20px;
+  margin: 0 0 0 60px;
 }
 
 .column, .jumbotron {
@@ -240,16 +240,18 @@ audio {
 .highlighted {
   color: maroon;
   font-weight: bold;
-  background-color: lightgray;
 }
 
 .obHighlighted {
-  color: #e9931a;
+  color: rgb(27, 54, 71);
   font-weight: bold;
 }
 
 /* Navigation */
 
+.active {
+   background: #4a6b8a;
+}
 nav {
       flex: 0 1 100%;
 }
@@ -261,11 +263,8 @@ nav > ul {
    justify-content: flex-start;
 }
 nav > ul > li {
-  width: 150px;
-  max-width: 150px;
-}
-nav > ul > li > a.active {
-   background: #4a6b8a;
+  width: 160px;
+  max-width: 160px;
 }
 nav > ul > li > a {
    color: white;

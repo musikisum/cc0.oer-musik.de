@@ -1,5 +1,5 @@
-import React from "react"
 import "../styles/global.css"
+import React, { useState, useEffect } from 'react';
 import { useStaticQuery, Link, graphql } from "gatsby"
 
 export default ({ children }) => {
@@ -14,6 +14,7 @@ export default ({ children }) => {
       }
     `
   )
+
   return (
     <div>
       <header>
@@ -25,13 +26,13 @@ export default ({ children }) => {
           </div>
         </div>
         <div id="menuContainer" className="mobileCollapsed container">
-          <nav>
+          <nav id="mainMenu">
             <ul>
-             <li><a id="index" className="brand navAnchor" href="/">PD Musik</a></li>
-              <li><a id="about" className="navAnchor" href="/about">Zum Projekt</a></li>
-              <li><a id="urheberrecht" className="navAnchor" href="/urheberrecht">Urheberrecht</a></li>
-              <li><a id="leistungsschutzrecht" className="navAnchor" href="/leistungsschutzrecht">Leistungsschutz</a></li>
-              <li><a id="dsgvo" className="navAnchor" href="/dsgvo">DSGVO</a></li>
+             <li><Link to="/" activeClassName="active">PD Musik</Link></li>
+              <li><Link to="/about/" activeStyle={{ background: "#4a6b8a" }}>Projekt</Link></li>
+              <li><Link to="/urheberrecht/" activeStyle={{ background: "#4a6b8a" }}>Urheberrecht</Link></li>
+              <li><Link to="/leistungsschutzrecht/" activeStyle={{ background: "#4a6b8a" }}>Leistungsschutzrecht</Link></li>
+              <li><Link to="/dsgvo/" activeStyle={{ background: "#4a6b8a" }}>DSGVO</Link></li>
               <li><a href="http://oer-musik.de">oer-musik.de</a></li>
             </ul>
           </nav>
@@ -50,4 +51,3 @@ export default ({ children }) => {
     </div>
   )
 }
-

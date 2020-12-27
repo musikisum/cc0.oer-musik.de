@@ -12,8 +12,8 @@ export default ({ pageContext: { recording } }) => {
         <div><span className="metaInfo">Tonträger-Nummer:</span> {recording.meta.cdId}</div>
         <div><span className="metaInfo">Tonträger-Titel:</span> {recording.meta.title}</div>
         <div><span className="metaInfo">Label:</span> {recording.meta.label}</div>
-        <div><span className="metaInfo">Erstveröffentlichung: </span> {recording.meta.firstPublished ?? 'keine Angabe'}</div>
-        <div><span className="metaInfo">Erscheinungsdatum: </span> {recording.meta.published}</div>
+        {recording.meta.firstPublished && <div><span className="metaInfo">Erstveröffentlichung:</span> {recording.meta.firstPublished}</div>}
+        <div><span className="metaInfo">Erscheinungsdatum:</span> {recording.meta.published}</div>
         <div><span className="metaInfo">Format:</span> {recording.meta.format}, Land: {recording.meta.country}</div>
         <div>
           <span className="metaInfo">Lizenz:</span>&nbsp;
