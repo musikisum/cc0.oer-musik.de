@@ -223,9 +223,7 @@ audio {
   background-color: #e6e6e6;
   border-color: #b05000;
 }
-.mobileCollapsed {
-  display: block;
-}
+
 #hamburgerRow {
   padding: 20px;
   display: none;
@@ -331,7 +329,7 @@ p.recordingItemLink {
 
 /* Media Queries */
 
-@media all and (max-width: 700px) {
+@media all and (max-width: 1100px) {
    nav > ul > li {
       flex-basis: 100%;
   }
@@ -344,6 +342,9 @@ p.recordingItemLink {
   }
   #hamburgerRow {
     display: block;
+  }
+  .hamburg:hover{
+    cursor: pointer;
   }
   .mobileCollapsed {
     display: none;
