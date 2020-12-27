@@ -1,6 +1,6 @@
 import React from "react"
-import { useStaticQuery, Link, graphql } from "gatsby"
 import "../styles/global.css"
+import { useStaticQuery, Link, graphql } from "gatsby"
 
 export default ({ children }) => {
   const data = useStaticQuery(
@@ -27,9 +27,8 @@ export default ({ children }) => {
         <div id="menuContainer" className="mobileCollapsed container">
           <nav>
             <ul>
-             <li><a id="index" className="brand navAnchor" href="/">Home</a></li>
-              <li><a id="musik" className="navAnchor" href="/recordings">Zur Musik</a></li>
-              <li><a id="about" className="navAnchor" href="/">Zum Projekt</a></li>
+             <li><a id="index" className="brand navAnchor" href="/">PD Musik</a></li>
+              <li><a id="about" className="navAnchor" href="/about">Zum Projekt</a></li>
               <li><a id="urheberrecht" className="navAnchor" href="/urheberrecht">Urheberrecht</a></li>
               <li><a id="leistungsschutzrecht" className="navAnchor" href="/leistungsschutzrecht">Leistungsschutz</a></li>
               <li><a id="dsgvo" className="navAnchor" href="/dsgvo">DSGVO</a></li>

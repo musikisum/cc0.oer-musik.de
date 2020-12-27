@@ -38,14 +38,14 @@ exports.createPages = async ({ actions: { createPage } }) => {
   });
 
   createPage({
-    path: '/recordings',
-    component: require.resolve('./src/templates/recordings.js'),
+    path: '/',
+    component: require.resolve('./src/templates/index.js'),
     context: { recordings }
   });
 
   recordings.forEach(recording => {
     createPage({
-      path: `/recordings/${recording.id}/`,
+      path: `/${recording.id}/`,
       component: path.resolve('./src/templates/recording.js'),
       context: { recording }
     });
