@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link } from "gatsby"
-import "../styles/global.css"
+import { Link } from "gatsby";
+import "../styles/global.css";
 
 export default () => (<nav id="mainMenu">
 											  <ul>
