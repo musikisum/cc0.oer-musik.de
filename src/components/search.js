@@ -11,6 +11,12 @@ export default ({ recordings }) => {
     console.log('I am in the browser, we have ' + recordings.length + ' Aufnahmen!');
   }, []);*/
   return (
-  	<input className="searchInput" type="search" id="tutorials-filter" placeholder="Suchbegriff eingeben" onChange={updateInput} />
+  	<input
+      className="searchInput"
+      type="search"
+      id="tutorials-filter"
+      placeholder="Suchbegriff eingeben"
+      onChange={updateInput}
+    />
   )
 }

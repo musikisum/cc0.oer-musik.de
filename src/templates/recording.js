@@ -20,7 +20,7 @@ export default ({ pageContext: { recording } }) => {
           <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank">{recording.meta.license}</a>
         </div>
         <hr />
-        <div className="trackAudioContainer">   
+        <div className="trackAudioContainer">
           {recording.tracks.map(track => (
             <div className="trackAudio">
               <div>
@@ -30,6 +30,9 @@ export default ({ pageContext: { recording } }) => {
               {track.bsbLink?.url ? <div>archiviert durch die Bayerische Staatsbibliothek: <a href={track.bsbLink.url}>Link</a></div> : null }
             </div>
           ))}
+        </div>
+        <div>
+          {Object.values(recording.meta).join(' ').toLowerCase()}
         </div>
         <hr/>
         <p><span className="metaInfo">Angabe zu den Ausführenden:</span><br/>{recording.meta.artists}.</p>

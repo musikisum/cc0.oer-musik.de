@@ -37,6 +37,12 @@ exports.createPages = async ({ actions: { createPage } }) => {
     });
   });
 
+  recordings.sort((a, b) => {
+    if ( a.meta.display < b.meta.display ) { return -1; }
+    if ( a.meta.display > b.meta.display ) { return 1; }
+    return 0;
+  });
+
   createPage({
     path: '/',
     component: require.resolve('./src/templates/index.js'),

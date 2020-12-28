@@ -16,21 +16,17 @@ export default ({ children }) => {
             <span className="line"></span>
             <span className="line"></span>
           </div>
-        </div>    
-        <div id="menuContainer" className="container">
-         {!showNav && <Navigation />}
-       </div>
-      </header>
-       <main>
-        <div id="mainContainer">
-          {children}
         </div>
-       </main>
-       <footer>
+        <Navigation className="navigation" mobileExpanded={showNav} />
+      </header>
+      <main className="mainContainer">
+        {children}
+      </main>
+      <footer>
         <div className="internationalCopyrightLawInfo">
           <p>Please take into account that due to differences in international copyright law, some of the digitized materials on this website may be protected outside of Germany/Europe. More information regarding the digitized material can be found in the metadata-sections attached to each recording.</p>
         </div>
-       </footer>
+      </footer>
     </div>
   )
 }
