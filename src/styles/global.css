@@ -178,6 +178,15 @@ audio {
    background: #4a6b8a;
 }
 
+.videoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.videoContainer video {
+  width: 80%;
+}
+
 nav {
       flex: 0 1 100%;
 }
@@ -261,6 +270,21 @@ p.recordingItemLink {
 
 .checkbox {
   margin-right: 4px;
+}
+
+div.threeColumns {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  justify-content: space-around;
+  align-content: flex-start;
+}
+div.threeColumns > div {
+  padding: 10px;
+  flex: 1 1 20%;
+  background-color: #E8E8E8;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
 }
 
 /* Media Queries */

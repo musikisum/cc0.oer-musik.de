@@ -17,10 +17,11 @@ export default ({ options, onChange }) => {
   return (
     <div className="fieldOfCheckboxes">
       {data.map((item, index) => (
-        <label className="checkbox" key={item.label}>
+        <label className="checkbox" key={item.label} for={item.label}>
           <input
             readOnly
             type="checkbox"
+            id={item.label}
             checked={item.checked || false}
             onClick={() => toggle(index)}
           />
