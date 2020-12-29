@@ -259,6 +259,10 @@ p.recordingItemLink {
   display: block;
 }
 
+.checkbox {
+  margin-right: 4px;
+}
+
 /* Media Queries */
 
 @media all and (max-width: 1100px) {

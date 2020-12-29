@@ -31,9 +31,6 @@ export default ({ pageContext: { recording } }) => {
             </div>
           ))}
         </div>
-        <div>
-          {Object.values(recording.meta).join(' ').toLowerCase()}
-        </div>
         <hr/>
         <p><span className="metaInfo">Angabe zu den Ausführenden:</span><br/>{recording.meta.artists}.</p>
       </div>
