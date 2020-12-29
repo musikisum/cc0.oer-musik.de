@@ -51,10 +51,6 @@ footer {
   margin: 0 60px;
 }
 
-.jumbotron {
-  padding: 20px;
-}
-
 /* Landing Page Jumbotron and Danger Styles */
 
 .jumbotron {
@@ -66,16 +62,13 @@ footer {
   color: whitesmoke;
   border-radius: 6px;
 }
-
 .jumbotron h1 {
   font-size: 3em;
 }
-
 .jumbotron h2 {
   font-size: 1.5em;
   font-weight: normal;
 }
-
 .jumbotron h3 {
   font-size: 1.25em;
   font-weight: normal;
@@ -90,11 +83,23 @@ footer {
   font-weight: bold;
   font-weight: 400;
   border-color: #a94442;
+  position: relative;
 }
-
+.internationalCopyrightLawInfo > span {
+  display: block;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.internationalCopyrightLawInfo > span:hover {
+  cursor: pointer;
+}
 .internationalCopyrightLawInfo > p {
   margin: 0;
   padding: 0 6%;
+}
+.hideCopyrightInfo {
+  display: none;
 }
 
 .track {
@@ -105,7 +110,6 @@ footer {
   padding: 20px 20px;
   margin: 0;
 }
-
 .trackAudioContainer {
   max-width: 500px;
   display: flex;
@@ -113,7 +117,6 @@ footer {
   justify-content: center;
   align-items: center;
 }
-
 .trackAudio {
   display: flex;
   flex-direction: column;
@@ -121,7 +124,6 @@ footer {
   align-items: center;
   margin: 10px;
 }
-
 .trackTitle {
   margin-top: 10px;
   text-align: center;
@@ -137,7 +139,6 @@ footer {
   right: 20px;
   top: 20px;
 }
-
 .closeX span {
   display: block;
   padding: 10px;
@@ -185,7 +186,7 @@ nav > ul {
    padding: 0;
    list-style: none;
    display: flex;
-   justify-content: flex-start;
+   justify-content: center;
 }
 nav > ul > li {
   width: 160px;

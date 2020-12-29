@@ -1,11 +1,11 @@
 import "../styles/global.css"
 import Navigation from './navigation';
-import React, { useState, useEffect } from 'react';
-import { useStaticQuery, graphql } from "gatsby"
+import React, { useState } from 'react';
 
 export default ({ children }) => {
 
   const [showNav, setShowNav] = useState(false);
+  const [showCopyrightInfo, setShowCopyrightInfo] = useState(true);
 
   return (
     <div>
@@ -23,7 +23,8 @@ export default ({ children }) => {
         {children}
       </main>
       <footer>
-        <div className="internationalCopyrightLawInfo">
+        <div className={`internationalCopyrightLawInfo ${showCopyrightInfo ? '' : 'hideCopyrightInfo'}`}>
+          <span onClick={() => { setShowCopyrightInfo(false) }}>X</span>
           <p>Please take into account that due to differences in international copyright law, some of the digitized materials on this website may be protected outside of Germany/Europe. More information regarding the digitized material can be found in the metadata-sections attached to each recording.</p>
         </div>
       </footer>
