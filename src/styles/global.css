@@ -16,6 +16,11 @@ a:hover {
   color: #004d88;
 }
 
+h2, h3, h4 {
+  margin: 0;
+  margin-top: 20px;
+}
+
 /* parts of the layout component  */
 
 header {

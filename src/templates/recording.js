@@ -17,7 +17,7 @@ export default ({ pageContext: { recording } }) => {
         <div><span className="metaInfo">Format:</span> {recording.meta.format}, Land: {recording.meta.country}</div>
         <div>
           <span className="metaInfo">Lizenz:</span>&nbsp;
-          <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank">{recording.meta.license}</a>
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">{recording.meta.license}</a>
         </div>
         <hr />
         <div className="trackAudioContainer">
