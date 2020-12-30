@@ -11,7 +11,7 @@ export default ({ children }) => {
     <div>
       <header>
         <div id="hamburgerRow">
-          <div className="hamburg" onClick={() => { setShowNav(!showNav) }}>
+          <div className={`hamburg ${showNav ? 'checked' : ''}`} onClick={() => { setShowNav(!showNav) }}>
             <span className="line"></span>
             <span className="line"></span>
             <span className="line"></span>

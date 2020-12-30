@@ -11,7 +11,7 @@ export default ({ data }) => (
     </p>
     <div className="videoContainer">
       <video controls>
-        <source src="https://kaiser-ulrich.de/publicfiles/oer-videos/cc0.oer-musik.de.mp4" type="video/mp4" />
+        <source src="/files/cc0.oer-musik.de.mp4" type="video/mp4" />
       </video>
     </div>
     <h2>Zu den Aufnahmen</h2>

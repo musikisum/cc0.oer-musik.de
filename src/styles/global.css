@@ -151,6 +151,11 @@ audio {
   max-height: 30px;
 }
 
+img {
+  max-width: 100%;
+  margin: 0; 
+}
+
 .searchInput {
   width: 460px;
   max-width: 460px;
@@ -272,6 +277,21 @@ p.recordingItemLink {
   margin-right: 4px;
 }
 
+div.twoColumns {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  justify-content: space-around;
+  align-content: flex-start;
+}
+div.twoColumns > div {
+  padding: 10px;
+  flex: 1 1 50%;
+
+  padding: 0 10px;
+  margin: 0; 
+}
+
 div.threeColumns {
   display: flex;
   flex-wrap: nowrap;
@@ -281,10 +301,28 @@ div.threeColumns {
 }
 div.threeColumns > div {
   padding: 10px;
-  flex: 1 1 20%;
+  flex: 1 1 33%;
   background-color: #E8E8E8;
   border-left: 1px solid gray;
   border-right: 1px solid gray;
+}
+
+.blockquote {
+  display: block;
+  padding: 15px 20px 15px 45px;
+  margin: 40px 40px;
+  position: relative;
+  border-left: 15px solid #1691be;
+  border-right: 2px solid #1691be;
+  box-shadow: 2px 2px 15px #bfbfbf;
+}
+
+.reference {
+  width: 100%;
+  padding-left: 40%;
+  text-align: right;
+  font-size: 12px;
+  margin-bottom: 20px;
 }
 
 /* Media Queries */
