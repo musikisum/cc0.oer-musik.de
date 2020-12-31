@@ -3,11 +3,10 @@ import React, { useEffect, useState } from 'react';
 import Layout from '../components/layout';
 import MultiSelect from '../components/multiselect'; 
 
-const metaKeys = ['cdId', 'title', 'label', 'format', 'country', 'artists', 'composition', 'license'];
-const metakeysToDelete = metaKeys;
-const checkBoxes = metakeysToDelete.map(metaKey => { return { 'label': metaKey === 'cdId' ? 'ID' : metaKey }});
-/*const checkBoxes = [{ 'label': 'item 1' }, { 'label': 'item 2' }];
-*/
+const searchKeys = ['cdId', 'display', 'format', 'artists', 'published', 'firstPublished'];
+const metakeysToDelete = ['title', 'label', 'composition', 'license'];;
+const checkBoxes = searchKeys.map(key => { return { 'label': key }});
+
 function createRecordingsWithSearchField(recordings, metakeysToDelete) {
   return recordings.map(rec => {
     metakeysToDelete.forEach(key => delete rec.meta[key]);
@@ -15,37 +14,42 @@ function createRecordingsWithSearchField(recordings, metakeysToDelete) {
   });
 }
 
-function filterRecordings(searchTerm, allRecordingsWithSearchField) {
+function filterRecordings(searchTerm, allRecordingsWithSearchField, keys) {
+  console.log('Searchterm:', searchTerm, 'Recordings', allRecordingsWithSearchField.length, 'Keys', keys.length);
   const terms = searchTerm.trim().replace(/\s+/g, ' ').toLowerCase().split(' ');
   if (!terms.length) {
     return allRecordingsWithSearchField;
   }
-  return allRecordingsWithSearchField.filter(elem => {
-    return terms.every(term => elem.searchField.includes(term));
-  });
+  if (keys.length) {
+    return allRecordingsWithSearchField
+      .filter(elem => keys.some(key => elem.meta.hasOwnProperty(key) 
+        ? terms.every(term => elem.meta[key].toLowerCase().includes(term)) 
+        : false));
+  }
+  return allRecordingsWithSearchField.filter(elem => terms.every(term => elem.searchField.includes(term)));
 }
 
 export default ({ pageContext: { recordings }}) => {
 
   const [recordingsWithSearchField, setRecordingsWithSearchField] = useState(createRecordingsWithSearchField(recordings, metakeysToDelete));
-
   useEffect(() => {
     setRecordingsWithSearchField(createRecordingsWithSearchField(recordings, metakeysToDelete));
   }, [recordings]);
 
   const [searchTerm, setSearchTerm] = useState('');
-  const [recordingEntries, setRecordingEntries] = useState(filterRecordings(searchTerm, recordingsWithSearchField));
+  const [searchKeys, setSearchKeys] = useState([]);
+  const [recordingEntries, setRecordingEntries] = useState(filterRecordings(searchTerm, recordingsWithSearchField, searchKeys));
 
   useEffect(() => {
-    setRecordingEntries(filterRecordings(searchTerm, recordingsWithSearchField));
-  }, [recordingsWithSearchField, searchTerm]);
+    setRecordingEntries(filterRecordings(searchTerm, recordingsWithSearchField, searchKeys));
+  }, [recordingsWithSearchField, searchTerm, searchKeys]);
 
   function handleSearchChange(event) {
     setSearchTerm(event.target.value);
   }
 
   function onMultiSelectDataChange(dataFromMultiSelectComponent){
-    console.log(dataFromMultiSelectComponent);
+    setSearchKeys(dataFromMultiSelectComponent.map(obj => obj.label));
   }
 
   return (
@@ -53,7 +57,7 @@ export default ({ pageContext: { recordings }}) => {
     	<div className="jumbotron">
         <h1>Public Domain Musik</h1>
         <h2>Auf dieser Seite finden Sie Aufnahmen klassischer Musik, die nach deutschem Urheberecht nicht mehr geschützt sind. Aktuell sind <span className="obHighlighted">&nbsp;{new Intl.NumberFormat('de-DE').format(recordings.length)} Aufnahmen&nbsp;</span> verfügbar!</h2>
-        <span>Suche in Feldern: </span><MultiSelect options={checkBoxes} onChange={onMultiSelectDataChange} />
+        <div className="searchKeys"><span>Suche in Feldern: </span><MultiSelect options={checkBoxes} onChange={onMultiSelectDataChange} /></div>
         <hr />
         <input
           className="searchInput"

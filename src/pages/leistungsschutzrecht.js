@@ -16,7 +16,7 @@ export default ({ data }) => (
 
     	<div className="twoColumns">
 	    	<div>
-	    		<img src="/images/Leistungsschutzrecht-5.png" style={{ 'margin-top': '10px', 'margin-bottom': '20px' }} />
+	    		<img src="/images/Leistungsschutzrecht-5.png" style={{ 'margin-top': '10px', 'margin-bottom': '20px' }} alt="Leistungsschutzrecht Legende" />
 	    	</div>
 	    	<div>
 	    		&nbsp;
@@ -24,7 +24,7 @@ export default ({ data }) => (
     	</div>
     	<div className="twoColumns">
 	    	<div>
-	    		<img src="/images/Leistungsschutzrecht-1.png" />
+	    		<img src="/images/Leistungsschutzrecht-1.png" alt="Zeit vor 1966" />
 	    	</div>
 	    	<div>
 	    		<b>Anmerkungen für die Zeit vor 1966:</b><br />
@@ -36,7 +36,7 @@ export default ({ data }) => (
     	</div>
     	<div className="twoColumns">
 	    	<div>
-	    		<img src="/images/Leistungsschutzrecht-2.png" style={{ 'margin-top': '-4px'}} />
+	    		<img src="/images/Leistungsschutzrecht-2.png" style={{ 'margin-top': '-4px'}} alt="Zeit nach 1966 (1)" />
 	    	</div>
 	    	<div>
 	    		<b>Anmerkungen für die Zeit nach Einführung des UrhG 1966:</b><br />
@@ -50,7 +50,7 @@ export default ({ data }) => (
     	</div>
     	<div className="twoColumns">
 	    	<div>
-	    		<img src="/images/Leistungsschutzrecht-3.png" style={{ 'margin-top': '-4px'}} />
+	    		<img src="/images/Leistungsschutzrecht-3.png" style={{ 'margin-top': '-4px'}} alt="Zeit nach 1966 (2)" />
 	    	</div>
 	    	<div>
 	    		<b>Anmerkung zum ›Dritten Gesetz zur Änderung des Urheberrechts‹ 1995:</b><br />
@@ -63,7 +63,7 @@ export default ({ data }) => (
     	</div>
     	<div className="twoColumns">
 	    	<div>
-	    		<img src="/images/Leistungsschutzrecht-4.png" style={{ 'margin-top': '-4px'}} />
+	    		<img src="/images/Leistungsschutzrecht-4.png" style={{ 'margin-top': '-4px'}} alt="Zeit nach 1966 (3)" />
 	    	</div>
 	    	<div>
 	    		<b>Anmerkung zum ›Neunten Gesetz zur Änderung des Urheberrechts‹ 2013:</b><br />

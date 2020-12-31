@@ -167,6 +167,11 @@ img {
   height: 36px;
 }
 
+.searchKeys {
+  display: flex;
+  margin: 10px 0;
+}
+
 .highlighted {
   color: maroon;
   font-weight: bold;

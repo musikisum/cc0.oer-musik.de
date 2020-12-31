@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'gatsby';
 import Layout from '../components/layout';
 
 export default ({ data }) => (
@@ -27,7 +26,7 @@ export default ({ data }) => (
 	    dienstl: <a href="http://www.musikhochschule-muenchen.de/">Hochschule für Musik und Theater München</a><br />
 	    Arcisstr. 12, 80333 München<br />
 	    Telefon: +49 89 289 27427<br />
-	    E-Mail: Bitte verwenden Sie das <a href="http://website.musikhochschule-muenchen.de/de/index.php?option=com_contact&task=view&contact_id=92&Itemid=813">Formular</a><br /> oder schreiben Sie eine Mail an <a id="dienstMail" href="" onclick="sendMail();">ulrich.kaiser['at.]hmtm.de</a><br />
+	    E-Mail: Bitte verwenden Sie das <a href="http://website.musikhochschule-muenchen.de/de/index.php?option=com_contact&task=view&contact_id=92&Itemid=813">Formular</a><br /> oder schreiben Sie eine Mail an <a id="dienstMail" href="#" onclick="sendMail();">ulrich.kaiser['at.]hmtm.de</a><br />
 	  </p>
 
 	  <h3>2) Umfang und Zweck der Datenerhebung</h3>
