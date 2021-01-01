@@ -1,4 +1,4 @@
-import "../styles/global.css"
+import "../styles/global.css";
 import Navigation from './navigation';
 import React, { useState } from 'react';
 

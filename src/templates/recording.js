@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'gatsby';
 import Layout from '../components/layout';
 
 export default ({ pageContext: { recording } }) => {
@@ -6,7 +7,7 @@ export default ({ pageContext: { recording } }) => {
   return (
     <Layout>
       <div className="track">
-        <a type="button" className="closeX" href="/"><span>X</span></a>
+        <Link to="/" className="closeX"><span>X</span></Link>
         <h2>{recording.meta.display}</h2>
         <hr />
         <div><span className="metaInfo">Tonträger-Nummer:</span> {recording.meta.cdId}</div>
