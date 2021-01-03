@@ -1,10 +1,10 @@
 import { Link } from 'gatsby';
 import React, { useEffect, useState } from 'react';
 import Layout from '../components/layout';
-import MultiSelect from '../components/multiselect'; 
+import MultiSelect from '../components/multiselect';
 
-const searchKeys = ['cdId', 'display', 'format', 'artists', 'published', 'firstPublished'];
 const metakeysToDelete = ['title', 'label', 'composition', 'license'];;
+const searchKeys = ['cdId', 'display', 'format', 'artists', 'published', 'firstPublished'];
 const checkBoxes = searchKeys.map(key => { return { 'label': key }});
 
 function createRecordingsWithSearchField(recordings, metakeysToDelete) {
@@ -20,10 +20,10 @@ function filterRecordings(searchTerm, allRecordingsWithSearchField, keys) {
   if (!terms.length) {
     return allRecordingsWithSearchField;
   }
-  if (keys.length) {
+  if (keys.length && searchTerm) {
     return allRecordingsWithSearchField
-      .filter(elem => keys.some(key => elem.meta.hasOwnProperty(key) 
-        ? terms.every(term => elem.meta[key].toLowerCase().includes(term)) 
+      .filter(elem => keys.some(key => elem.meta.hasOwnProperty(key)
+        ? terms.every(term => elem.meta[key].toLowerCase().includes(term))
         : false));
   }
   return allRecordingsWithSearchField.filter(elem => terms.every(term => elem.searchField.includes(term)));

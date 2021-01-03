@@ -1,8 +1,12 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "cc0.oer-musik.de",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:musikisum/cc0.oer-musik.de.git"
+  },
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "0.1.0",
+  "description": "Relaunch of the cc0.oer-musik.de website based on gatsby for providing classical public domain music",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
