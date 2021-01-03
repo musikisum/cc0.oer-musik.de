@@ -1,0 +1,60 @@
+version: 2
+
+defaults: &defaults
+  working_directory: ~/cc0.oer-musik.de
+
+jobs:
+  build:
+    <<: *defaults
+    docker:
+      - image: circleci/node:14.10.1
+    environment:
+      - NODE_ENV: development
+      - YARN_CACHE_FOLDER: ~/.cache/yarn
+    steps:
+      - checkout
+      - restore_cache:
+          key: yarn-cache-{{ checksum "yarn.lock" }}
+      - run:
+          name: Install Node Modules
+          command: yarn install --non-interactive --check-files --frozen-lockfile
+      - save_cache:
+          key: yarn-cache-{{ checksum "yarn.lock" }}
+          paths:
+            - ~/.cache/yarn
+      - run:
+          name: Build
+          command: npm run build
+      - persist_to_workspace:
+          root: "."
+          paths:
+            - public
+            - deploy.sh
+  deploy:
+    <<: *defaults
+    docker:
+      - image: circleci/buildpack-deps:bionic
+    steps:
+      - attach_workspace:
+          at: "."
+      - run:
+          name: Update APT Cache
+          command: sudo apt-get update
+      - run:
+          name: Install lftp
+          command: sudo apt-get install lftp
+      - run:
+          name: Deploy
+          command: ./deploy.sh
+
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
