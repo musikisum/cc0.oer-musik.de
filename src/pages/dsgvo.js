@@ -4,6 +4,11 @@ import Layout from '../components/layout';
 export default ({ data }) => (
 
   <Layout>
+  	<p className="dsgvo-annotation">
+  		<b>Bitte beachten Sie:</b> Diese Webseite dient ausschließlich als Interface zum Anhören und Herunterladen von Sounddateien via Deeplinking sowie der Kontaktaufnahme mit dem Verantwortlichen für die Domain cc0-oer-musik.de (Prof. Dr. Ulrich Kaiser). Die Sounddateien liegen auf einem Servern der <a href="http://www.musikhochschule-muenchen.de">Hochschule für Musik und Theater München</a> bzw. der <a href="https://www.bsb-muenchen.de/">Bayerischen Staatsbiliothek</a>. Wenn Sie Fragen an die Verantwortlichen dieser beiden Institutionen zu den Soundfiles haben, wenden Sie sich bitte an die <a href="https://www.hmtm.de/de/hochschule/organisation/hochschulleitung">Vertretung des Kanzlers</a> der Hochschule für Musik und Theater München oder an die <a href="https://www.bsb-muenchen.de/recherche-und-service/fragen-und-antworten/online-auskunft/">Bayerische Staatsbibliothek</a>.<br />
+  			Informationen zur Rechtmäßigkeit dieses Angebots finden Sie in den Ausführungen zum <a href="/urheberrecht">Urheberrecht</a> und zum <a href="/leistungsschutzrecht">Leistungsschutzrecht</a>.<br/> 
+        Falls Sie darüber hinausgehende Informationen zum Datenschutz auf <i>cc0.oer-musik.de</i> haben, können Sie mich über die nachstehend angegebenen Möglichkeiten kontaktieren.
+  	</p>
     <h1>DSGVO / Impressum</h1>
 		<h2>Datenschutzerklärung (nach DSGVO)</h2>
 	  <p>
@@ -11,7 +16,7 @@ export default ({ data }) => (
 
  			Durch Aufruf und Nutzung dieser Seite übermitteln Sie auch Daten an uns. Der Umgang mit diesen Daten wird geregelt durch das TMG, die <a href="https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679&amp;rid=1" rel="noopener">Datenschutz-Grundverordnung der EU (DSGVO &#8211; VO(EU)2016/679</a><a href="https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679&amp;rid=1" rel="noopener">)</a>, die <a href="https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32002L0058&amp;from=DE" rel="noopener">Richtlinie 2002/58/EG</a> und das <a href="https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F*%5B%40attr_id%3D%27bgbl117s2097.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl117s2097.pdf%27%5D__1527175363895" rel="noopener">Bundesdatenschutzgesetz (BDSG)</a>.<br />
 
-  		Eine dieser Vorschriften ist die Information der Nutzer über den Datenschutz bei der Erhebung und Verarbeitung personenbezogener Daten. Ihr entsprechen wir ausführlich auf dieser Seite, Stand 01. Januar 2020. Da wir unsere Website stets weiterentwickeln und ggf. den Umgang mit Ihren Daten neuen Regelungen anzupassen haben, empfiehlt es sich, von Zeit zu Zeit die Datenschutzerklärung nach Aktualisierungen durchzusehen. Sie erfahren nachstehend
+  		Eine dieser Vorschriften ist die Information der Nutzer über den Datenschutz bei der Erhebung und Verarbeitung personenbezogener Daten. Ihr entsprechen wir ausführlich auf dieser Seite, Stand 1. Januar 2021. Da wir unsere Website stets weiterentwickeln und ggf. den Umgang mit Ihren Daten neuen Regelungen anzupassen haben, empfiehlt es sich, von Zeit zu Zeit die Datenschutzerklärung nach Aktualisierungen durchzusehen. Sie erfahren nachstehend
 		</p>
 	  <ol>
 	    <li>Name und Kontaktdaten des für die Verarbeitung Verantwortlichen und Ihres Ansprechpartners</li>
@@ -21,7 +26,7 @@ export default ({ data }) => (
 	    <li>mehr über unsere Links und Dienste Dritter</li>
 	  </ol>
 	  <h3>1) Name und Anschrift des für die Verarbeitung Verantwortlichen und Ihres Ansprechpartners</h3>
-	  <p>Der für die Verarbeitung Verantwortliche und Ihr Ansprechpartner ist Prof. Dr. Ulrcih Kaiser.</p>
+	  <p>Der für die Verarbeitung Verantwortliche und Ihr Ansprechpartner ist Prof. Dr. Ulrich Kaiser.</p>
 	  <p>
 	    dienstl: <a href="http://www.musikhochschule-muenchen.de/">Hochschule für Musik und Theater München</a><br />
 	    Arcisstr. 12, 80333 München<br />
