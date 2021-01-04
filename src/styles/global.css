@@ -26,12 +26,10 @@ h2, h3, h4 {
 header {
   background-image: -webkit-gradient(linear, left top, left bottom, from(#152836), to(#1b3647));
 }
-
 main {
   padding: 20px;
   padding-bottom: 180px;
 }
-
 footer {
   position: fixed;
   left: 0px;
@@ -157,10 +155,12 @@ footer {
   font-weight: bold;
 }
 
+.videoContainer video {
+  width: 80%;
+}
 audio {
   max-height: 30px;
 }
-
 img {
   max-width: 100%;
   margin: 0; 
@@ -168,20 +168,20 @@ img {
 
 .searchInput {
   width: 460px;
-  max-width: 460px;
   height: 36px;
 }
-
 .searchKeys {
   display: flex;
   margin: 10px 0;
+}
+.fieldOfCheckboxes {
+  display: flex;
 }
 
 .highlighted {
   color: maroon;
   font-weight: bold;
 }
-
 .obHighlighted {
   color: rgb(27, 54, 71);
   font-weight: bold;
@@ -193,18 +193,13 @@ img {
   padding: 20px;
   display: none;
 }
-
 .active {
    background: #4a6b8a;
 }
-
 .videoContainer {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.videoContainer video {
-  width: 80%;
 }
 
 nav {
@@ -283,7 +278,6 @@ p.recordingItemLink {
   margin: 0;
   padding: 0;
 }
-
 .recordingIsVisible {
   display: block;
 }
@@ -331,7 +325,6 @@ div.threeColumns > div {
   border-right: 2px solid #1691be;
   box-shadow: 2px 2px 15px #bfbfbf;
 }
-
 .reference {
   width: 100%;
   padding-left: 40%;
@@ -340,7 +333,7 @@ div.threeColumns > div {
   margin-bottom: 20px;
 }
 
-/* Media Queries */
+/* media queries */
 
 @media all and (max-width: 1100px) {
    nav > ul {
@@ -355,21 +348,43 @@ div.threeColumns > div {
   .colums {
    flex-direction: column;
   }
-  .mobilExpanded {
-    display: block;
-  }
   #hamburgerRow {
     display: block;
   }
   .hamburg:hover {
     cursor: pointer;
   }
-  .searchInput {
-    width: 300px;
-    max-width: 300px;
-    height: 36px;
-  }
   .mobileExpanded {
     display: none;
+  }
+}
+
+@media all and (max-width: 920px) {
+  .searchKeys, .fieldOfCheckboxes {
+    flex-direction: column;
+  }  
+}
+
+@media all and (max-width: 800px) {
+  .searchInput {
+    max-width: 400px;
+  }
+}
+
+@media all and (max-width: 600px) {
+  .searchKeys, .fieldOfCheckboxes {
+    flex-direction: column;
+  }  
+  .searchInput {
+    width: 300px;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .searchKeys, .fieldOfCheckboxes {
+    flex-direction: column;
+  }  
+  .searchInput {
+    width: auto;
   }
 }

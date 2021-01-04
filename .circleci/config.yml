@@ -45,7 +45,7 @@ jobs:
           command: sudo apt-get install lftp
       - run:
           name: Deploy
-          command: chmod +x ./deploy.sh
+          command: ./deploy.sh
 
 workflows:
   version: 2

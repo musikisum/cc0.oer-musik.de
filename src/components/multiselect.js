@@ -13,6 +13,14 @@ export default ({ options, onChange }) => {
     setData(newData);
     onChange(newData.filter(x => x.checked));
   };
+  const mapper = {
+    "cdId": "ID",
+    "display": "Anzeige",
+    "format": "Format",
+    "artists": "Ausführende",
+    "published": "veröffentlicht",
+    "firstPublished": "erstmalige Aufnahme"
+  }
 
   return (
     <div className="fieldOfCheckboxes">
@@ -25,7 +33,7 @@ export default ({ options, onChange }) => {
             checked={item.checked || false}
             onClick={() => toggle(index)}
           />
-          {item.label}
+          {mapper[item.label]}
         </label>
       ))}
     </div>
