@@ -191,7 +191,7 @@ module.exports = class MetaParser {
       map.cdId = matches[1];
       map.tracks.push({
         key: matches[2],
-        fileName: matches[3].trim()
+        fileName: matches[0].trim()
       });
       return map;
     }, { cdId: null, tracks: [] });

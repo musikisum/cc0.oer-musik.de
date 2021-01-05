@@ -31,7 +31,7 @@ exports.createPages = async ({ actions: { createPage } }) => {
         type: 'bsb'
       } : null;
       recordingTrack.hmtLink = {
-        url: `http://soundprojekt.hmtm.de/sound/${recording.meta.cdId} ${recordingTrack.key} ${recordingTrack.fileName}`,
+        url: `http://soundprojekt.hmtm.de/sound/${recordingTrack.fileName}`,
         type: 'hmtm'
       };
     });
