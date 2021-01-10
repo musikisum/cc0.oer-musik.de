@@ -1,5 +1,5 @@
+const hasha = require('hasha');
 const fs = require('fs').promises;
-const { v4: uuidv4 } = require('uuid');
 
 const metadataKeyMappings = {
   'Display': 'display',
@@ -159,8 +159,12 @@ module.exports = class MetaParser {
 
     const finalMeta = Object.fromEntries(Object.entries(remainingMetas).filter(([k, v]) => finalFieldNames.includes(k)));
 
+    const keyHash = fileObj.tracks.reduce((accu, track) => accu + track.key, '');
+    const number = metaObj?.published + metaObj?.firstPublished;
+    const hash = hasha(keyHash + number, { algorithm: 'md5' });
+
     return {
-      id: `${fileObj.cdId}-${uuidv4()}`,
+      id: `${fileObj.cdId}-${hash.slice(0, 10)}`,
       meta: { cdId: fileObj.cdId, ...finalMeta },
       tracks: fileObj.tracks.map(t => ({ key: t.key, name: remainingFileMetas[t.key], fileName: t.fileName }))
     }
