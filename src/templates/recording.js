@@ -22,8 +22,8 @@ export default ({ pageContext: { recording } }) => {
         </div>
         <hr />
         <div className="trackAudioContainer">
-          {recording.tracks.map(track => (
-            <div className="trackAudio">
+          {recording.tracks.map((track, index) => (
+            <div key={index} className="trackAudio">
               <div>
                 <audio src={track.hmtLink?.url} controls />
               </div>
