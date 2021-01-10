@@ -1,4 +1,5 @@
 const fs = require('fs').promises;
+const { v4: uuidv4 } = require('uuid');
 
 const metadataKeyMappings = {
   'Display': 'display',
@@ -156,10 +157,10 @@ module.exports = class MetaParser {
     const fileMetaKeys = Object.keys(metaObj).filter(m => trackKeys.includes(m));
     const remainingFileMetas = Object.fromEntries(fileMetaKeys.map(m => [m, metaObj[m]]));
 
-    const finalMeta = Object.fromEntries(Object.entries(remainingMetas).filter(([k, v]) => finalFieldNames.includes(k)))
+    const finalMeta = Object.fromEntries(Object.entries(remainingMetas).filter(([k, v]) => finalFieldNames.includes(k)));
 
     return {
-      id: `${fileObj.cdId}-${fileObj.tracks[0].key}`,
+      id: `${fileObj.cdId}-${uuidv4()}`,
       meta: { cdId: fileObj.cdId, ...finalMeta },
       tracks: fileObj.tracks.map(t => ({ key: t.key, name: remainingFileMetas[t.key], fileName: t.fileName }))
     }
