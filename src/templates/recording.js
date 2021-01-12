@@ -10,7 +10,7 @@ export default ({ pageContext: { recording } }) => {
         <Link to="/" className="closeX"><span>X</span></Link>
         <h2>{recording.meta.display}</h2>
         <hr />
-        <div><span className="metaInfo">Tonträger-Nummer:</span> {recording.meta.cdId}</div>
+        <div><span className="metaInfo">ID:</span> {recording.meta.filename}</div>
         <div><span className="metaInfo">Tonträger-Titel:</span> {recording.meta.title}</div>
         <div><span className="metaInfo">Label:</span> {recording.meta.label}</div>
         {recording.meta.firstPublished && <div><span className="metaInfo">Erstveröffentlichung:</span> {recording.meta.firstPublished}</div>}

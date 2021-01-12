@@ -359,7 +359,7 @@ div.threeColumns > div {
   }
 }
 
-@media all and (max-width: 920px) {
+@media all and (max-width: 1000px) {
   .searchKeys, .fieldOfCheckboxes {
     flex-direction: column;
   }  

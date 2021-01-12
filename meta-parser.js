@@ -1,3 +1,4 @@
+const path = require('path');
 const hasha = require('hasha');
 const fs = require('fs').promises;
 
@@ -151,23 +152,18 @@ module.exports = class MetaParser {
     }
 
     const trackKeys = fileObj.tracks.map(t => t.key);
-    const metaKeys = Object.keys(metaObj).filter(m => !trackKeys.includes(m));
-    const remainingMetas = Object.fromEntries(metaKeys.map(m => [m, metaObj[m]]));
-
+    const trackReg = /^[A-Za-z]\d{1,2}:/
+    const metaKeys = Object.keys(metaObj).filter(m => trackReg.exec(m));
     const fileMetaKeys = Object.keys(metaObj).filter(m => trackKeys.includes(m));
     const remainingFileMetas = Object.fromEntries(fileMetaKeys.map(m => [m, metaObj[m]]));
+    const filename = path.basename(metaPath, '.txt');
 
-    const finalMeta = Object.fromEntries(Object.entries(remainingMetas).filter(([k, v]) => finalFieldNames.includes(k)));
-
-    const keyHash = fileObj.tracks.reduce((accu, track) => accu + track.key, '');
-    const number = metaObj?.published + metaObj?.firstPublished;
-    const hash = hasha(keyHash + number, { algorithm: 'md5' });
-
-    return {
-      id: `${fileObj.cdId}-${hash.slice(0, 10)}`,
-      meta: { cdId: fileObj.cdId, ...finalMeta },
+    const recording = {
+      id: filename,
+      meta: { filename: filename, cdId: fileObj.cdId, ...metaObj },
       tracks: fileObj.tracks.map(t => ({ key: t.key, name: remainingFileMetas[t.key], fileName: t.fileName }))
     }
+    return recording;
   }
 
   parseMetaContent(content, path) {
@@ -175,13 +171,11 @@ module.exports = class MetaParser {
       console.error(`Could not find '::' in meta content ${path}: ${content}`);
       return null;
     }
-
     const originalObject = this.getNonEmptyLines(content).reduce((map, item) => {
       const [key, value] = item.split('::');
       try { map[key.trim()] = value.trim(); } catch (err) { console.log('content', content); throw err; }
       return map;
     }, {});
-
     return metaDataFilters.reduce((o, f) => f(o), originalObject);
   }
 
@@ -190,7 +184,6 @@ module.exports = class MetaParser {
       console.error(`Found '::' in file content ${path}: ${content}`);
       return null;
     }
-
     return this.getNonEmptyLines(content).reduce((map, item) => {
       const matches = /^(\S+)\s+(\S+)\s+(\S.*)$/.exec(item);
       map.cdId = matches[1];

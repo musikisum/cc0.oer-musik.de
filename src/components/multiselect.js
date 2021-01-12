@@ -14,7 +14,8 @@ export default ({ options, onChange }) => {
     onChange(newData.filter(x => x.checked));
   };
   const mapper = {
-    "cdId": "ID",
+    "filename": "ID",
+    "cdId": "Nummer",
     "display": "Anzeige",
     "format": "Format",
     "artists": "Ausführende",

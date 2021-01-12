@@ -4,7 +4,7 @@ import Layout from '../components/layout';
 import MultiSelect from '../components/multiselect';
 
 const metakeysToDelete = ['title', 'label', 'composition', 'license'];;
-const searchKeys = ['cdId', 'display', 'format', 'artists', 'published', 'firstPublished'];
+const searchKeys = ['filename', 'cdId', 'display', 'format', 'artists', 'published', 'firstPublished'];
 const checkBoxes = searchKeys.map(key => { return { 'label': key }});
 
 function createRecordingsWithSearchField(recordings, metakeysToDelete) {
