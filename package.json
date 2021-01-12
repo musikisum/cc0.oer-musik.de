@@ -22,7 +22,6 @@
     "gatsby-cli": "~2.12.48",
     "gatsby-source-filesystem": "~2.3.12",
     "glob": "~7.1.6",
-    "hasha": "~5.2.2",
     "path": "~0.12.7",
     "prettier": "~2.0.5",
     "react": "~16.13.1",
