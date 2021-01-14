@@ -153,15 +153,20 @@ module.exports = class MetaParser {
 
     const trackKeys = fileObj.tracks.map(t => t.key);
     const trackReg = /^[A-Za-z]\d{1,2}:/
-    const metaKeys = Object.keys(metaObj).filter(m => trackReg.exec(m));
-    const fileMetaKeys = Object.keys(metaObj).filter(m => trackKeys.includes(m));
-    const remainingFileMetas = Object.fromEntries(fileMetaKeys.map(m => [m, metaObj[m]]));
+    const displayNames = fileObj.tracks.map(track => {
+      const displayName = track.fileName.split(' ');
+      return displayName.slice(1).join(' ').replace('.mp3', '');
+    });
     const filename = path.basename(metaPath, '.txt');
+    
+    if (fileObj.tracks.length !== displayNames.length) {
+      console.log(`ERROR reading ${fileName} files.`);
+    }
 
     const recording = {
       id: filename,
       meta: { filename: filename, cdId: fileObj.cdId, ...metaObj },
-      tracks: fileObj.tracks.map(t => ({ key: t.key, name: remainingFileMetas[t.key], fileName: t.fileName }))
+      tracks: fileObj.tracks.map((t, index) => ({ key: t.key, name: displayNames[index], fileName: t.fileName }))
     }
     return recording;
   }
