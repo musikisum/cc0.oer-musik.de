@@ -1,0 +1,40 @@
+600001081 A1 Vorspiel.mp3
+600001081 A2 Akt 1 Zwangvolle Plage.mp3
+600001081 A3 Akt 1 Hoiho! Hoiho! Hau ein! Hau ein!.mp3
+600001081 A4 Akt 1 Vieles lehrtest du, Mime.mp3
+600001081 A5 Akt 1 Einst lag wimmernd ein Weib.mp3
+600001081 A6 Akt 1 So starb meine Mutter an mir.mp3
+600001081 A7 Akt 1 Heil dir, weiser Schmied.mp3
+600001081 A8 Akt 1 Du rührtest dich viel.mp3
+600001081 A9 Akt 1 Auf der Erde Rücken.mp3
+600001081 A10 Akt 1 Auf wolkigen Höhen.mp3
+600001081 A11 Akt 1 Was zu wissen dir frommt.mp3
+600001082 A1 Akt 1 Wenig hörte ich.mp3
+600001082 A2 Akt 1 Heda! Du Fauler.mp3
+600001082 A3 Akt 1 Fühltest du nie im finstren Wald.mp3
+600001082 A4 Akt 1 Notung! Neidliches Schwert!.mp3
+600001082 A5 Akt 1 Notung.mp3
+600001082 A6 Akt 2 Orchestereinleitung.mp3
+600001082 A7 Akt 2 In Wald und Nacht.mp3
+600001082 A8 Akt 2 Fühltest du nie im finstren Wald.mp3
+600001083 A1 Akt 2 Wir sind zur Stelle.mp3
+600001083 A2 Akt 2 Dass der mein Vater nicht ist.mp3
+600001083 A3 Akt 2 Haha! Da hätte mein Lied.mp3
+600001083 A4 Akt 2 Zur Kunde taugt kein Toter.mp3
+600001083 A5 Akt 2 Wohin schleichst du.mp3
+600001083 A6 Akt 2 Willkommen Siegfried!.mp3
+600001083 A7 Akt 2 Heiß ward mir.mp3
+600001083 A8 Akt 3 Wache! Wache!.mp3
+600001083 A9 Akt 3 Stark ruft das Lied.mp3
+600001084 A1 Akt 3 Dir Unweisen ruf ich ins Ohr.mp3
+600001084 A2 Akt 3 Mein Vöglein schwebte mir fort.mp3
+600001084 A3 Akt 3 Kennest du mich.mp3
+600001084 A4 Akt 3 Selige Öde auf sonniger Höh.mp3
+600001084 A5 Akt 3 Zieh hin.mp3
+600001084 A6 Akt 3 Das ist kein Mann.mp3
+600001084 A7 Akt 3 Heil dir Sonne! Heil dir Licht!.mp3
+600001084 A8 Akt 3 Du wonniges Kind.mp3
+600001084 A9 Akt 3 Dort seh ich Grane.mp3
+600001084 A10 Akt 3 Kein Gott nahte mir je.mp3
+600001084 A11 Akt 3 Ewig war ich, ewig bin ich.mp3
+600001084 A12 Akt 3 Dich liebe ich.mp3
