@@ -1,6 +1,4 @@
-600001001 A1 Ouvertüre Zauberflöte.mp3
 600001001 A2 Adagio – Allegro non troppo.mp3
 600001001 A3 Allegro con grazia.mp3
 600001001 A4 Allegro molto vivace.mp3
 600001001 A5 Finale Adagio lamentoso – Andante.mp3
-600001001 A6 Vltava (Die Modlau).mp3

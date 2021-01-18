@@ -294,9 +294,7 @@ div.twoColumns {
   align-content: flex-start;
 }
 div.twoColumns > div {
-  padding: 10px;
   flex: 1 1 50%;
-
   padding: 0 10px;
   margin: 0; 
 }
@@ -362,12 +360,24 @@ div.threeColumns > div {
 @media all and (max-width: 1000px) {
   .searchKeys, .fieldOfCheckboxes {
     flex-direction: column;
-  }  
+  }
 }
 
 @media all and (max-width: 800px) {
   .searchInput {
     max-width: 400px;
+  }  
+  div.twoColumns {
+    flex-direction: column;
+  }
+  div.twoColumns > div {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  div.twoColumns > div > img {
+    max-width: 90%;
   }
 }
 
