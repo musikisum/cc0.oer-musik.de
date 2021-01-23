@@ -1,0 +1,54 @@
+600001074 A1 Vorspiel.mp3
+600001074 A2 Akt 1 Szene 1 Da zu dir der Heiland kam (Gemeinde).mp3
+600001074 A3 Akt 1 Szene 1 Verweilt! - Ein Wort! (Walther, Eva, Magdalene).mp3
+600001074 A4 Akt 1 Szene 1 Da bin ich! (David, Magdalene, Walther, Eva).mp3
+600001074 A5 Akt 1 Szene 2 David, was stehst (Lehrbuben, David, Walther).mp3
+600001074 A6 Akt 1 Szene 2 Mein Herr! Der Singer Meister-Schlag (David, Walther).mp3
+600001074 A7 Akt 1 Szene 2 Der Meister Tön' und Weisen (David, Walther, Lehrbuben).mp3
+600001074 A8 Akt 1 Szene 2 Damit, Herr Ritter, ist's so bewandt (David, Walther).mp3
+600001074 A9 Akt 1 Szene 2 Aller End' ist doch David der Allergescheit'st! (Lehrbuben, David).mp3
+600001074 A10 Akt 1 Szene 3 Seid meiner Treu wohl versehen (Pogner, Beckmesser, Walther).mp3
+600001074 A11 Akt 1 Szene 3 Die Meistersinger von Nürnberg- Akt I, Szene III. Gott grüß Euch, Meister!.mp3
+600001074 A12 Akt 1 Szene 3 Das schöne Fest, Johannistag (Pogner, Meister, Lehrbuben, Vogelgesang, Sachs, Kothner, Beckmesser).mp3
+600001074 A13 Akt 1 Szene 3 Vielleicht schon ginget Ihr zu weit (Sachs, Meister, Kothner, Beckmesser, Vogelgesang, Nachtigall, Pogner).mp3
+600001074 A14 Akt 1 Szene 3 Dacht' ich mir's doch! (Beckmesser, Meister, Kothner, Pogner, Nachtigall, Sachs).mp3
+600001074 A15 Akt 1 Szene 3 Am stillen Herd in Winterszeit (Walther, Sachs, Beckmesser, Kothner, Vogelgesang, Nachtigall).mp3
+600001074 A16 Akt 1 Szene 3 Nun, Meister, wenn's gafällt (Kothner, Walther, Beckmesser).mp3
+600001075 A1 Akt I, Szene 3 Fanget an! (Beckmesser, Walther).mp3
+600001075 A2 Akt I, Szene 3 Seid Ihr nun fertig (Beckmesser, Walther, Pogner, Meister, Kothner).mp3
+600001075 A3 Akt I, Szene 3 Halt! Meister! Nicht so geeilt! (Sachs, Beckmesser, Nachtigall, Kothner, Pogner, Meister, Walther, Lehrbuben).mp3
+600001075 A4 Akt 2 Szene 1 Johannistag! Johannistag! (Lehrbuben, David, Magdalene, Sachs).mp3
+600001075 A5 Akt 2 Szene 2 Laß seh'n, ob Meister Sachs zu Haus (Pogner, Eva, Magdalene).mp3
+600001075 A6 Akt 2 Szene 3 Zeig her! - 's ist gut (Sachs, David).mp3
+600001075 A7 Akt 2 Szene 3 Was duftet doch der Flieder (Sachs).mp3
+600001075 A8 Akt 2 Szene 4 Gut'n Abend, Meister! (Eva, Sachs, Magdalene).mp3
+600001075 A9 Akt 2 Szene 4 Hilf, Gott! Wo bliebst du nur so spät (Magdalene, Eva, Pogner).mp3
+600001075 A10 Akt 2 Szene 5 Da ist er! (Eva, Magdalene, Walther).mp3
+600001075 A11 Akt 2 Szene 5 Geliebter, spare den Zorn! (Eva, Magdalene, Walther, Nachtwächter).mp3
+600001075 A12 Akt 2 Szene 5 Üble Dinge, die ich da merk' (Sachs, Walther, Eva).mp3
+600001075 A13 Akt 2 Szene 6 Tu's nicht! - Doch horch! (Eva, Walther, Sachs).mp3
+600001075 A14 Akt 2 Szene 6 Jerum! Jerum!.mp3
+600001075 A15 Akt 2 Szene 6 Das Fenster geht auf (Sachs, Beckmesser, Walther, Eva).mp3
+600001075 A16 Akt 2 Szene 6 Den Tag seh' ich erscheinen (Beckmesser, Sachs).mp3
+600001075 A17 Akt 2, Szene 6 Mit den Schuhen ward ich fertig schier!.mp3
+600001076 A1 Akt 3 Vorspiel.mp3
+600001076 A2 Akt 3 Szene 1 Gleich, Meister! Hier!.mp3
+600001076 A3 Akt 3 Szene 1 Am Jordan Sankt Johannes stand (David, Sachs).mp3
+600001076 A4 Akt 3 Szene 1 Wahn! Wahn! Überall Wahn! (Sachs).mp3
+600001076 A5 Akt 3 Szene 2 Grüß Gott, mein Junker!.mp3
+600001076 A6 Akt 3 Szene 2 Mein Freund! In holder Jugendzeit.mp3
+600001076 A7 Akt 3 Szene 2 Morgendlich leuchtend in rosigem Schein (Sachs, Walther).mp3
+600001076 A8 Akt 3 Szene 3 Ein Werbelied! Von Sachs - Ist's wahr.mp3
+600001076 A9 Akt 3 Szene 3 Das Gedicht Hier ließ ich's (Beckmesser, Sachs).mp3
+600001076 A10 Akt 3 Szene 4 Sieh, Evchen! (Sachs, Eva, Walther).mp3
+600001076 A11 Akt 3 Szene 4 Hat man mit dem Schuhwerk nicht seine Not! (Sachs, Eva).mp3
+600001076 A12 Akt 3 Szene 4 Ein Kind ward hier geboren (Sachs).mp3
+600001077 A1 Akt 3 Szene 4 Die selige Morgentraum-Deutweise (Sachs, Eva, Walther, David, Magdalene).mp3
+600001077 A2 Akt 3 Szene 5 Sankt Crispin, lobet ihn! (Schuster, Schneider, Bäcker, Lehrbuben).mp3
+600001077 A3 Akt 3 Szene 5 Ihr tanzt Was werden die Meister sagen (David, Lehrbuben, Gesellen).mp3
+600001077 A4 Akt 3 Szene 5 Silentium! Silentium! (Lehrbuben, Alle).mp3
+600001077 A5 Akt 3 Szene 5 Euch macht Ihrs leicht, mir macht Ihrs schwer (Sachs, Pogner, Beckmesser).mp3
+600001077 A6 Akt 3 Szene 5 Nun denn, wenns Meistern und Volk beliebt (Sachs, Kothner, Beckmesser, Volk, Lehrbuben, Meister).mp3
+600001077 A7 Akt 3 Szene 5 Das Lied, fürwahr, ist nicht von mir (Sachs, Meister, Volk, Lehrbuben).mp3
+600001077 A8 Akt 3 Szene 5 Morgendlich leuchtend im rosigen Schein (Walther, Volk, Meister, Sachs, Pogner, Eva).mp3
+600001077 A9 Akt 3 Szene 5 Verachtet mir die Meister nicht (Sachs, Alle).mp3
