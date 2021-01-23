@@ -56,7 +56,7 @@ export default ({ pageContext: { recordings }}) => {
     <Layout>
     	<div className="jumbotron">
         <h1>Public Domain Musik</h1>
-        <h2>Auf dieser Seite finden Sie Aufnahmen klassischer Musik, die nach deutschem Urheberecht nicht mehr geschützt sind. Aktuell sind <span className="obHighlighted">&nbsp;{new Intl.NumberFormat('de-DE').format(recordings.length)} Aufnahmen&nbsp;</span> verfügbar!</h2>
+        <h2>Auf dieser Seite finden Sie Aufnahmen klassischer Musik, die nach deutschem Urheberecht nicht mehr geschützt sind. Aktuell sind <span className="obHighlighted">&nbsp;{new Intl.NumberFormat('de-DE').format(recordings.length)} Werke&nbsp;</span> verfügbar!</h2>
         <div className="searchKeys"><span>Suche in Feldern: </span><MultiSelect options={checkBoxes} onChange={onMultiSelectDataChange} /></div>
         <hr />
         <input
