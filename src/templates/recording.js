@@ -16,6 +16,7 @@ export default ({ pageContext: { recording } }) => {
         {recording.meta.firstPublished && <div><span className="metaInfo">Erstveröffentlichung/-aufnahme:</span> {recording.meta.firstPublished}</div>}
         <div><span className="metaInfo">Erscheinungsdatum:</span> {recording.meta.published}</div>
         <div><span className="metaInfo">Format:</span> {recording.meta.format}, Land: {recording.meta.country}</div>
+        <div><span className="metaInfo">Trackliste:</span> {recording.meta.composition}</div>
         <div>
           <span className="metaInfo">Lizenz:</span>&nbsp;
           <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">{recording.meta.license}</a>
