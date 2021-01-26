@@ -1,0 +1,33 @@
+600001023 A1 Overture.mp3
+600001023 A2 Akt 1 - Cinque dieci venti.mp3
+600001023 A3 Akt 1 - Se a caso Madama.mp3
+600001023 A4 Akt 1 - Se vuol ballare.mp3
+600001023 A5 Akt 1 - La vendetta, oh, la vendetta.mp3
+600001023 A6 Akt 1 - Via resti servita, madama brillante.mp3
+600001023 A7 Akt 1 - Non no pù cosa son, cosa faccio.mp3
+600001023 A8 Akt 1 - Cosa sento!.mp3
+600001023 A9 Akt 1 - Goivani liete, fiori spargete.mp3
+600001023 A10 Akt 1 - Non più andrai.mp3
+600001023 A11 Akt 2 - Porgi, amor.mp3
+600001023 A12 Akt 2 - Voi, che sapete che cosa è amor.mp3
+600001023 A13 Akt 2 - Venite, inginocchiatevi.mp3
+600001023 A14 Akt 2 - Susanna, or via sortite.mp3
+600001023 A15 Akt 2 - Aprite, presto, aprite.mp3
+600001023 A16 Akt 2 - Esci omai, garzon mainato.mp3
+600001023 A17 Akt 2 - Signore! Cos'è quel stupore.mp3
+600001023 A18 Akt 2 - Conoscete, signor Figaro.mp3
+600001023 A19 Akt 2 - Voi signor, che giusto siete.mp3
+600001024 A1 Akt 3 - Crudel! Perché finora farmi languir cosi.mp3
+600001024 A2 Akt 3 - Hai già vinto la causa! Vedrò, mentr'io sospiro.mp3
+600001024 A3 Akt 3 - Riconosci in quest'amplesso.mp3
+600001024 A4 Akt 3 - E Susanna non vien! Dove sono.mp3
+600001024 A5 Akt 3 - Sull'aia.mp3
+600001024 A6 Akt 3 - Ricevete, o padroncina.mp3
+600001024 A7 Akt 3 - Ecco la marcia...Amanti costanti.mp3
+600001024 A8 Akt 4 - L'ho perduta, me meschina!.mp3
+600001024 A9 Akt 4 - Tutto è disposto...Aprite un po' quegli occhi.mp3
+600001024 A10 Akt 4 - Giunse alfin il momento...Deh, vieni, non tardar.mp3
+600001024 A11 Akt 4 - Pian, pianin, le andrò più presso.mp3
+600001024 A12 Akt 4 - Tutto è tranquillo e placido.mp3
+600001024 A13 Akt 4 - Pace, pace, mio dolce tesoro.mp3
+600001024 A14 Akt 4 - Gente, gente, all'armi, all'armi!.mp3
