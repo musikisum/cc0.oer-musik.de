@@ -1,0 +1,13 @@
+600001102 A1 Akt 1 - Je ne pourrai plus sortir.mp3
+600001102 A2 Akt 1 - Voici ce qu'il ecrit.mp3
+600001102 A3 Akt 1 - Il fait sombre.mp3
+600001102 A4 Akt 2 - Vous ne savez pas.mp3
+600001102 A5 Akt 2 - Ah! Ah! Tout va bien.mp3
+600001102 A6 Akt 2 - Oui, c'est ici.mp3
+600001102 A7 Akt 3 - Mes longs cheveux.mp3
+600001102 A8 Akt 3 - Prenez garde, par ici - Ah! Je respire enfin!.mp3
+600001103 A2 Akt 3 - Viens, nous allons.mp3
+600001103 A3 Akt 4 - Ou vas-tu.mp3
+600001103 A4 Akt 4 - Oh! Cette pierre est lourde.mp3
+600001103 A5 Akt 4 - C'est le dernier soir.mp3
+600001103 A6 Akt 5 - Ce n'est pas cette.mp3
