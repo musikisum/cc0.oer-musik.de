@@ -34,7 +34,7 @@ export default ({ pageContext: { recording } }) => {
           ))}
         </div>
         <hr/>
-        <p><span className="metaInfo">Angabe zu den Ausführenden:</span><br/>{recording.meta.artists}.</p>
+        <p><span className="metaInfo">Angabe zu den Ausführenden:</span><br/>{recording.meta.artists}</p>
       </div>
     </Layout>
   );
