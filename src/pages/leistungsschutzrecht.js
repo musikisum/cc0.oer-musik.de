@@ -157,6 +157,27 @@ export default ({ data }) => (
 	    		Rechtsgutachten von Thomas Hoeren,<br/>
 	    		erstellt für die <a href="https://www.hmtm.de/de/">HMTM</a> am 28.01.2019 (Tag der Rechnungslegung)
 	    	</div>
+				<p>
+				Ein weitere Frage ergibt sich im Falle von neueren Venyl- und/oder CD-Produktionen, die Aufnahmen bereitstellen, die längere Zeit unveröffentlicht geblieben sind. Im UrhG heißt es dazu im § 137c:
+				</p>
+	    	<div className="blockquote">
+					(1) Die Vorschriften dieses Gesetzes über die Dauer des Schutzes nach § 82 [50 Jahre i.S.d. konsolidierten Fassung des dritten Gesetz zur Änderung des Urheberrechtsgesetzes] sind auch auf Darbietungen anzuwenden, die vor dem 1. Juli 1990 auf Bild- oder Tonträger aufgenommen worden sind, wenn am 1. Januar 1991 seit dem Erscheinen des Bild- oder Tonträgers 50 Jahre noch nicht abgelaufen sind. Ist der Bild- oder Tonträger innerhalb dieser Frist nicht erschienen, so ist die Frist von der Darbietung an zu berechnen. Der Schutz nach diesem Gesetz dauert in keinem Fall länger als 50 Jahre nach dem Erscheinen des Bild- oder Tonträgers oder, falls der Bild- oder Tonträger nicht erschienen ist, 50 Jahre nach der Darbietung.
+	    	</div>
+        <div className="reference">
+          <a href="https://www.urheberrecht.org/law/normen/urhg/1995-06-23/text/">Konsolidierte Fassung: Drittes Gesetz zur Änderung des Urheberrechtsgesetzes (1995)</a>
+        </div>
+				<p>
+				 Der Bundesgerichtshof hat dazu am 25. November 2004 (AZ: I ZR 145/02) geurteilt, dass nach 50 Jahren kein Unterlassungsanspruch mehr wegen Verwertung einer Tonaufnahme besteht. In der Urteilsbegründung zum Streitfall <i>Götterdämmerung</i>, in dem es um urheberrechtliche Ansprüche auf eine Aufnahme des Bayreuther Festspielorchesters aus dem Jahr 1951 ging, heißt es:
+				</p>
+				<div className="blockquote">
+					bb) Aus den rechtsfehlerfrei getroffenen Feststellungen der Vorinstanzen ergibt sich, daß keine Tonträger mit der Aufführung des Jahres 1951 innerhalb der nach § 137c Abs. 1 Satz 1 UrhG zu berechnenden Frist mit Zustimmung der Berechtigten erschienen sind. Die Darbietung ist 1951 von der DECCA auf ein Masterband aufgenommen worden, also auf einen Tonträger i.S. von § 16 Abs. 2 UrhG (vgl. BGH, Urt. v. 3.7.1981 I ZR 106/79, GRUR 1982, 102, 103 Masterbänder) [...] Die Schutzfrist von 50 Jahren ist somit gemäß § 137c Abs. 1 Satz 2 UrhG zu berechnen und demzufolge zum Ende des Jahres 2001 abgelaufen, § 82 Satz 3 i.V. mit § 69 UrhG.
+				</div>
+        <div className="reference">
+          <a href="https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2004-11&nr=32370&pos=29&anz=303">Urteil des BGH, verkündet am 25.11.2004</a>, S. 12.
+        </div>
+				<p>
+					Demnach besteht spätestens seit 2013 kein Leistungsschutz mehr für Aufnahmen, die vor 1963 aufgenommen worden sind bzw. deren Leistungsschutz vor Verlängerung der Fristen auf 70 Jahre im ›Neunten Gesetz zur Änderung des Urheberrechts‹ im Jahr 2013 abgelaufen war. Diese Aufnahmen sind mithin gemeinfrei, wenn der Urheber der auf dem Tonträger zu hörenden Werk länger als 70 Jahre tot ist.
+				</p>
 	    </div>
 
 	    <div style={{ 'margin-top': '60px', 'border-top': '1px solid gray' }}>
