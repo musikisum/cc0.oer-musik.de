@@ -167,7 +167,7 @@ export default ({ data }) => (
           <a href="https://www.urheberrecht.org/law/normen/urhg/1995-06-23/text/">Konsolidierte Fassung: Drittes Gesetz zur Änderung des Urheberrechtsgesetzes (1995)</a>
         </div>
 				<p>
-				 Der Bundesgerichtshof hat dazu am 25. November 2004 (AZ: I ZR 145/02) geurteilt, dass nach 50 Jahren kein Unterlassungsanspruch mehr wegen Verwertung einer Tonaufnahme besteht. In der Urteilsbegründung zum Streitfall <i>Götterdämmerung</i>, in dem es um urheberrechtliche Ansprüche auf eine Aufnahme des Bayreuther Festspielorchesters aus dem Jahr 1951 ging, heißt es:
+				 Der Bundesgerichtshof hat dazu am 25. November 2004 (AZ: I ZR 145/02) geurteilt, dass nach 50 Jahren kein Unterlassungsanspruch mehr auf Verwertung einer Tonaufnahme besteht. In der Urteilsbegründung zum Streitfall <i>Götterdämmerung</i>, in dem es um urheberrechtliche Ansprüche auf eine Aufnahme des Bayreuther Festspielorchesters aus dem Jahr 1951 ging, heißt es:
 				</p>
 				<div className="blockquote">
 					bb) Aus den rechtsfehlerfrei getroffenen Feststellungen der Vorinstanzen ergibt sich, daß keine Tonträger mit der Aufführung des Jahres 1951 innerhalb der nach § 137c Abs. 1 Satz 1 UrhG zu berechnenden Frist mit Zustimmung der Berechtigten erschienen sind. Die Darbietung ist 1951 von der DECCA auf ein Masterband aufgenommen worden, also auf einen Tonträger i.S. von § 16 Abs. 2 UrhG (vgl. BGH, Urt. v. 3.7.1981 I ZR 106/79, GRUR 1982, 102, 103 Masterbänder) [...] Die Schutzfrist von 50 Jahren ist somit gemäß § 137c Abs. 1 Satz 2 UrhG zu berechnen und demzufolge zum Ende des Jahres 2001 abgelaufen, § 82 Satz 3 i.V. mit § 69 UrhG.
