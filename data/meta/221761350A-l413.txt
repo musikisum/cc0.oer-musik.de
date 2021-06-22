@@ -6,6 +6,6 @@ Land:: Germany
 Veröffentlicht:: 2004
 Erstveröffentlichung:: 1950
 Trackliste:: Sonate für Klavier d-Moll L 413
-A2:: Sonate d-Moll
+A15:: Sonate d-Moll
 Mitwirkende:: Composer - Domenico Scarlatti, Klavier - Dinu Lipatti.
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>

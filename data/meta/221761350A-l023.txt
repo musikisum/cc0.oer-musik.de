@@ -6,6 +6,6 @@ Land:: Germany
 Veröffentlicht:: 2004
 Erstveröffentlichung:: 1947
 Trackliste:: Sonate für Klavier E-Dur L 23
-A2:: Sonate E-Dur
+A14:: Sonate E-Dur
 Mitwirkende:: Composer - Domenico Scarlatti, Klavier - Dinu Lipatti.
 Urheberrecht:: CC0 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">Public Domain</a>
