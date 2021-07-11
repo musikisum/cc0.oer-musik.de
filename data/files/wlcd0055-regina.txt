@@ -1,0 +1,33 @@
+wlcd0055-1 A2 Regina, 1. Akt - Ouvertüre (Orchester).mp3
+wlcd0055-1 A3 Regina, 1. Akt - Wir wollen nicht (Chor).mp3
+wlcd0055-1 A4 Regina, 1. Akt - Dialog.mp3
+wlcd0055-1 A5 Regina, 1. Akt - O teurer Freund (Regina).mp3
+wlcd0055-1 A6 Regina, 1. Akt - Dialog.mp3
+wlcd0055-1 A7 Regina, 1. Akt - O schöner Augenblick (Simon).mp3
+wlcd0055-1 A8 Regina, 1. Akt - Und wem verdanken wir das Glück (Regina).mp3
+wlcd0055-1 A9 Regina, 1. Akt - Warum wird mir Hinieden.mp3
+wlcd0055-1 A10 Regina, 1. Akt - Was sprach der alte Tor (Stephan).mp3
+wlcd0055-1 A11 Regina, 1. Akt - Warum wird mir hinieden (Stephan).mp3
+wlcd0055-1 A12 Regina, 1. Akt - Dialog.mp3
+wlcd0055-1 A13 Regina, 1. Akt - Kilian, Eines vergaßest du doch (Regina).mp3
+wlcd0055-1 A14 Regina, 1. Akt - Verloren sind wir allzumal (Kilian).mp3
+wlcd0055-1 A15 Regina, 1. Akt - Bist du entschlossen (Stephan).mp3
+wlcd0055-1 A16 Regina, 1. Akt - Dialog.mp3
+wlcd0055-1 A17 Regina, 2. Akt - Nicht so bleiben kann das Treiben (Barbara).mp3
+wlcd0055-1 A18 Regina, 2. Akt - Dialog.mp3
+wlcd0055-1 A19 Regina, 2. Akt - Das ist das Haus (Stephan).mp3
+wlcd0055-1 A20 Regina, 2. Akt - Noch einmal sei's versucht (Regina).mp3
+wlcd0055-1 A21 Regina, 2. Akt - Was du begehrtst (Stephan).mp3
+wlcd0055-2 A1 Regina, 2. Akt - Dialog.mp3
+wlcd0055-2 A2 Regina, 2. Akt - Hinaus, hinaus in schnellster Frist (Kilian).mp3
+wlcd0055-2 A3 Regina, 2. Akt - Dialog.mp3
+wlcd0055-2 A4 Regina, 2. Akt - Sobald die Nacht (Chor).mp3
+wlcd0055-2 A5 Regina, 3. Akt - Dialog.mp3
+wlcd0055-2 A6 Regina, 3. Akt - Von fern ertönet Siegsgeschrei (Chor).mp3
+wlcd0055-2 A7 Regina, 3. Akt - Dialog.mp3
+wlcd0055-2 A8 Regina, 3. Akt - Daß Kilian uns entwischt (Stephan).mp3
+wlcd0055-2 A9 Regina, 3. Akt - Wie sind verraten (Freischärler).mp3
+wlcd0055-2 A10 Regina, 3. Akt - Es nahet der Entscheidung Augenblick (Regina).mp3
+wlcd0055-2 A11 Regina, 3. Akt - Verloren sind wir (Stephan).mp3
+wlcd0055-2 A12 Regina, 3. Akt - Dialog.mp3
+wlcd0055-2 A13 Regina, 3. Akt - Frisch auf, frisch auf und einig seid (Richard).mp3
