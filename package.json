@@ -18,6 +18,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "caniuse-lite": "~1.0.30001243",
     "gatsby": "~2.23.7",
     "gatsby-cli": "~2.12.48",
     "gatsby-source-filesystem": "~2.3.12",
