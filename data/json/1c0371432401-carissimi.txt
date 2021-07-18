@@ -1,0 +1,78 @@
+{
+    "id": "1c0371432401-carissimi",
+    "meta": {
+        "A5": "Detesta la cativa sorte in Amore",
+        "A6": "Lungi omai",
+        "A7": "Il mio Core",
+        "A8": "A pie d'un verde alloro",
+        "artists": "Composer - Claudio Monteverdi, Sopran - Elisabeth Schwarzkopf, Sopran - Irmgard Seefried, Klavier - Gerald Moore.",
+        "cdId": "1c0371432401",
+        "composition": "Duette von Giacomo Carissimi",
+        "country": "Germany",
+        "display": "Carissimi, Giacomo - Duette (Schwarzkopf/Seefried)",
+        "filename": "1c0371432401-carissimi",
+        "format": "Vinyl, LP, Mono",
+        "label": "EMI Dacapo 1C 037 1432401",
+        "license": "CC0",
+        "published": "1956",
+        "title": "Duette von Monteverdi, Carissimi und Dvořák. Irmgard Seefried, Elisabeth Schwarzkopf, Gerald Moore"
+    },
+    "tracks": [
+        {
+            "bsbLink": {
+                "type": "bsb",
+                "url": "http://digital.bib-bvb.de/webclient/DeliveryManager?pid=13849046&custom_att_2=download"
+            },
+            "fileName": "1c0371432401 A5 Detesta la cativa sorte in Amore.mp3",
+            "hmtLink": {
+                "type": "hmtm",
+                "url": "https://soundprojekt.hmtm.de/sound/1c0371432401 A5 Detesta la cativa sorte in Amore.mp3"
+            },
+            "key": "A5",
+            "name": "A5 Detesta la cativa sorte in Amore",
+            "pid": "13849046"
+        },
+        {
+            "bsbLink": {
+                "type": "bsb",
+                "url": "http://digital.bib-bvb.de/webclient/DeliveryManager?pid=13849047&custom_att_2=download"
+            },
+            "fileName": "1c0371432401 A6 Lungi omai.mp3",
+            "hmtLink": {
+                "type": "hmtm",
+                "url": "https://soundprojekt.hmtm.de/sound/1c0371432401 A6 Lungi omai.mp3"
+            },
+            "key": "A6",
+            "name": "A6 Lungi omai",
+            "pid": "13849047"
+        },
+        {
+            "bsbLink": {
+                "type": "bsb",
+                "url": "http://digital.bib-bvb.de/webclient/DeliveryManager?pid=13849048&custom_att_2=download"
+            },
+            "fileName": "1c0371432401 A7 Il mio Core.mp3",
+            "hmtLink": {
+                "type": "hmtm",
+                "url": "https://soundprojekt.hmtm.de/sound/1c0371432401 A7 Il mio Core.mp3"
+            },
+            "key": "A7",
+            "name": "A7 Il mio Core",
+            "pid": "13849048"
+        },
+        {
+            "bsbLink": {
+                "type": "bsb",
+                "url": "http://digital.bib-bvb.de/webclient/DeliveryManager?pid=13849049&custom_att_2=download"
+            },
+            "fileName": "1c0371432401 A8 A pie d'un verde alloro.mp3",
+            "hmtLink": {
+                "type": "hmtm",
+                "url": "https://soundprojekt.hmtm.de/sound/1c0371432401 A8 A pie d'un verde alloro.mp3"
+            },
+            "key": "A8",
+            "name": "A8 A pie d'un verde alloro",
+            "pid": "13849049"
+        }
+    ]
+}

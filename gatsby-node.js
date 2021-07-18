@@ -43,6 +43,11 @@ exports.createPages = async ({ actions: { createPage } }) => {
     return 0;
   });
 
+  /*recordings.forEach(record => {
+    const recordJson = JSON.stringify(record);
+    fs.writeFile(path.join(`./data/json/${record.id}.txt`), recordJson, 'utf8', null);
+  });*/
+
   createPage({
     path: '/',
     component: require.resolve('./src/templates/index.js'),
