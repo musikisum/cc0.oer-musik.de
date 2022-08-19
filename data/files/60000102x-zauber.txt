@@ -1,0 +1,39 @@
+600001025 A1 Ouverture.mp3
+600001025 A2 Zu Hilfe! Zu Hilfe.mp3
+600001025 A3 Der Vogelfänger bin ich ja.mp3
+600001025 A4 Dies Bildnis ist bezaubernd schön.mp3
+600001025 A5 O zittre nicht, mein lieber Sohn.mp3
+600001025 A6 Hm! Hm! Hm! Hm.mp3
+600001025 A7 Du feines Täubchen, nur herein.mp3
+600001025 A8 Bei Männern, welche Liebe fühlen.mp3
+600001025 A9 Zum Ziele führt dich diese Bahn.mp3
+600001025 A10 Zurück! Zurück.mp3
+600001025 A11 O ew'ge Nacht.mp3
+600001025 A12 Wie stark ist nicht dein Zauberton.mp3
+600001025 A13 Schnelle Füsse, rascher Mut.mp3
+600001025 A14 Wer viel wagt, gewinnt oft viel.mp3
+600001025 A15 Konnte jeder brave Mann.mp3
+600001025 A16 Es lebe Sarastro.mp3
+600001025 A17 Herr! Ich bin zwar Verbrecherin.mp3
+600001025 A18 Nun, stolzer Jüngling, nur hierher.mp3
+600001025 A19 Führt diese beiden Frerndlinge.mp3
+600001026 A1 Marsch der Priester.mp3
+600001026 A2 O Isis und Osiris.mp3
+600001026 A3 Bewahret euch vor Weibertücken.mp3
+600001026 A4 Wie, Wie, Wie.mp3
+600001026 A5 Alles fühlt der Liebe Freuden.mp3
+600001026 A6 Der Hölle Rache kocht in meinem Herzen.mp3
+600001026 A7 In diesen heil'gen Hallen.mp3
+600001026 A8 Seid uns zum zweiten Mal willkommen.mp3
+600001026 A9 Ach, ich fühl's.mp3
+600001026 A10 O Isis und Osiris.mp3
+600001026 A11 Soll ich dich, Teurer.mp3
+600001026 A12 Ein Mädchen oder Weibchen.mp3
+600001026 A13 Bald prangt, den Morgen zu verkünden.mp3
+600001026 A14 Der, welcher wandelt diese Strasse voll Beschwerden.mp3
+600001026 A15 Tamino Mein! O welch ein Glück.mp3
+600001026 A16 Triumph, Triumph, Triumph, du edles Paar.mp3
+600001026 A17 Papagena.mp3
+600001026 A18 Pa-pa-gena! Pa-pa-geno.mp3
+600001026 A19 Nur Stille.mp3
+600001026 A20 Die Strahlen der Sonne.mp3
