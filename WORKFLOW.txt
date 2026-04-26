@@ -1,0 +1,21 @@
+WORKFLOW cc0.oer-musik.de
+==========================
+
+LOKAL TESTEN
+-------------
+node generate.js
+python -m http.server 8080 --directory dist
+→ http://localhost:8080
+
+DEPLOYEN
+---------
+git add .
+git commit -m "Beschreibung"
+git push
+→ Cloudflare Pages baut und deployed automatisch (ca. 1-2 Minuten)
+
+AUDIO-LINKS AKTUALISIEREN (sobald IMSLP-Mapping vorliegt)
+----------------------------------------------------------
+- JSON-Dateien in data/json/ anpassen (hmtLink.url)
+- node generate.js
+- git add / commit / push

@@ -117,8 +117,12 @@ function genIndex(recordings) {
 <script>
 const data = ${JSON.stringify(searchable)};
 function filter() {
-  const terms = document.getElementById('searchInput').value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-  const out = terms.length ? data.filter(r => terms.every(t => r.search.includes(t))) : data;
+  const tokens = document.getElementById('searchInput').value.trim().toLowerCase().split(/\\s+/).filter(Boolean);
+  const must = tokens.filter(t => !t.startsWith('-'));
+  const not  = tokens.filter(t => t.startsWith('-')).map(t => t.slice(1)).filter(Boolean);
+  const out = tokens.length
+    ? data.filter(r => must.every(t => r.search.includes(t)) && not.every(t => !r.search.includes(t)))
+    : data;
   document.getElementById('list').innerHTML = out.map(r =>
     '<div class="recordingIsVisible"><a href="/' + r.id + '/"><p class="recordingItemLink">' +
     r.display.replace(/&/g,'&amp;').replace(/</g,'&lt;') + '</p></a></div>'
